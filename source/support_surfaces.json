@@ -1,0 +1,387 @@
+{
+  "schema": "support-surface-source/v1",
+  "site": "ledmovingtext-support",
+  "base_url": "https://alice51849.github.io/ledmovingtext-support/",
+  "email": "hourstag.app@gmail.com",
+  "official_locales": [
+    "ar-SA",
+    "bn-BD",
+    "ca",
+    "zh-Hans",
+    "zh-Hant",
+    "hr",
+    "cs",
+    "da",
+    "nl-NL",
+    "en-AU",
+    "en-CA",
+    "en-GB",
+    "en-US",
+    "fi",
+    "fr-CA",
+    "fr-FR",
+    "de-DE",
+    "el",
+    "gu-IN",
+    "he",
+    "hi",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "kn-IN",
+    "ko",
+    "ms",
+    "ml-IN",
+    "mr-IN",
+    "no",
+    "or-IN",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "pa-IN",
+    "ro",
+    "ru",
+    "sk",
+    "sl-SI",
+    "es-MX",
+    "es-ES",
+    "sv",
+    "ta-IN",
+    "te-IN",
+    "th",
+    "tr",
+    "uk",
+    "ur-PK",
+    "vi"
+  ],
+  "routes": {
+    "ar-SA": {
+      "index": "ar-SA/index.html",
+      "support": "ar-SA/support.html",
+      "privacy": "ar-SA/privacy.html"
+    },
+    "bn-BD": {
+      "index": "bn-BD/index.html",
+      "support": "bn-BD/support.html",
+      "privacy": "bn-BD/privacy.html"
+    },
+    "ca": {
+      "index": "ca/index.html",
+      "support": "ca/support.html",
+      "privacy": "ca/privacy.html"
+    },
+    "cs": {
+      "index": "cs/index.html",
+      "support": "cs/support.html",
+      "privacy": "cs/privacy.html"
+    },
+    "da": {
+      "index": "da/index.html",
+      "support": "da/support.html",
+      "privacy": "da/privacy.html"
+    },
+    "de-DE": {
+      "index": "de-DE/index.html",
+      "support": "de-DE/support.html",
+      "privacy": "de-DE/privacy.html"
+    },
+    "el": {
+      "index": "el/index.html",
+      "support": "el/support.html",
+      "privacy": "el/privacy.html"
+    },
+    "en-AU": {
+      "index": "en-AU/index.html",
+      "support": "en-AU/support.html",
+      "privacy": "en-AU/privacy.html"
+    },
+    "en-CA": {
+      "index": "en-CA/index.html",
+      "support": "en-CA/support.html",
+      "privacy": "en-CA/privacy.html"
+    },
+    "en-GB": {
+      "index": "en-GB/index.html",
+      "support": "en-GB/support.html",
+      "privacy": "en-GB/privacy.html"
+    },
+    "en-US": {
+      "index": "index.html",
+      "support": "support.html",
+      "privacy": "privacy.html"
+    },
+    "es-ES": {
+      "index": "es-ES/index.html",
+      "support": "es-ES/support.html",
+      "privacy": "es-ES/privacy.html"
+    },
+    "es-MX": {
+      "index": "es-MX/index.html",
+      "support": "es-MX/support.html",
+      "privacy": "es-MX/privacy.html"
+    },
+    "fi": {
+      "index": "fi/index.html",
+      "support": "fi/support.html",
+      "privacy": "fi/privacy.html"
+    },
+    "fr-CA": {
+      "index": "fr-CA/index.html",
+      "support": "fr-CA/support.html",
+      "privacy": "fr-CA/privacy.html"
+    },
+    "fr-FR": {
+      "index": "fr-FR/index.html",
+      "support": "fr-FR/support.html",
+      "privacy": "fr-FR/privacy.html"
+    },
+    "gu-IN": {
+      "index": "gu-IN/index.html",
+      "support": "gu-IN/support.html",
+      "privacy": "gu-IN/privacy.html"
+    },
+    "he": {
+      "index": "he/index.html",
+      "support": "he/support.html",
+      "privacy": "he/privacy.html"
+    },
+    "hi": {
+      "index": "hi/index.html",
+      "support": "hi/support.html",
+      "privacy": "hi/privacy.html"
+    },
+    "hr": {
+      "index": "hr/index.html",
+      "support": "hr/support.html",
+      "privacy": "hr/privacy.html"
+    },
+    "hu": {
+      "index": "hu/index.html",
+      "support": "hu/support.html",
+      "privacy": "hu/privacy.html"
+    },
+    "id": {
+      "index": "id/index.html",
+      "support": "id/support.html",
+      "privacy": "id/privacy.html"
+    },
+    "it": {
+      "index": "it/index.html",
+      "support": "it/support.html",
+      "privacy": "it/privacy.html"
+    },
+    "ja": {
+      "index": "ja/index.html",
+      "support": "ja/support.html",
+      "privacy": "ja/privacy.html"
+    },
+    "kn-IN": {
+      "index": "kn-IN/index.html",
+      "support": "kn-IN/support.html",
+      "privacy": "kn-IN/privacy.html"
+    },
+    "ko": {
+      "index": "ko/index.html",
+      "support": "ko/support.html",
+      "privacy": "ko/privacy.html"
+    },
+    "ml-IN": {
+      "index": "ml-IN/index.html",
+      "support": "ml-IN/support.html",
+      "privacy": "ml-IN/privacy.html"
+    },
+    "mr-IN": {
+      "index": "mr-IN/index.html",
+      "support": "mr-IN/support.html",
+      "privacy": "mr-IN/privacy.html"
+    },
+    "ms": {
+      "index": "ms/index.html",
+      "support": "ms/support.html",
+      "privacy": "ms/privacy.html"
+    },
+    "nl-NL": {
+      "index": "nl-NL/index.html",
+      "support": "nl-NL/support.html",
+      "privacy": "nl-NL/privacy.html"
+    },
+    "no": {
+      "index": "no/index.html",
+      "support": "no/support.html",
+      "privacy": "no/privacy.html"
+    },
+    "or-IN": {
+      "index": "or-IN/index.html",
+      "support": "or-IN/support.html",
+      "privacy": "or-IN/privacy.html"
+    },
+    "pa-IN": {
+      "index": "pa-IN/index.html",
+      "support": "pa-IN/support.html",
+      "privacy": "pa-IN/privacy.html"
+    },
+    "pl": {
+      "index": "pl/index.html",
+      "support": "pl/support.html",
+      "privacy": "pl/privacy.html"
+    },
+    "pt-BR": {
+      "index": "pt-BR/index.html",
+      "support": "pt-BR/support.html",
+      "privacy": "pt-BR/privacy.html"
+    },
+    "pt-PT": {
+      "index": "pt-PT/index.html",
+      "support": "pt-PT/support.html",
+      "privacy": "pt-PT/privacy.html"
+    },
+    "ro": {
+      "index": "ro/index.html",
+      "support": "ro/support.html",
+      "privacy": "ro/privacy.html"
+    },
+    "ru": {
+      "index": "ru/index.html",
+      "support": "ru/support.html",
+      "privacy": "ru/privacy.html"
+    },
+    "sk": {
+      "index": "sk/index.html",
+      "support": "sk/support.html",
+      "privacy": "sk/privacy.html"
+    },
+    "sl-SI": {
+      "index": "sl-SI/index.html",
+      "support": "sl-SI/support.html",
+      "privacy": "sl-SI/privacy.html"
+    },
+    "sv": {
+      "index": "sv/index.html",
+      "support": "sv/support.html",
+      "privacy": "sv/privacy.html"
+    },
+    "ta-IN": {
+      "index": "ta-IN/index.html",
+      "support": "ta-IN/support.html",
+      "privacy": "ta-IN/privacy.html"
+    },
+    "te-IN": {
+      "index": "te-IN/index.html",
+      "support": "te-IN/support.html",
+      "privacy": "te-IN/privacy.html"
+    },
+    "th": {
+      "index": "th/index.html",
+      "support": "th/support.html",
+      "privacy": "th/privacy.html"
+    },
+    "tr": {
+      "index": "tr/index.html",
+      "support": "tr/support.html",
+      "privacy": "tr/privacy.html"
+    },
+    "uk": {
+      "index": "uk/index.html",
+      "support": "uk/support.html",
+      "privacy": "uk/privacy.html"
+    },
+    "ur-PK": {
+      "index": "ur-PK/index.html",
+      "support": "ur-PK/support.html",
+      "privacy": "ur-PK/privacy.html"
+    },
+    "vi": {
+      "index": "vi/index.html",
+      "support": "vi/support.html",
+      "privacy": "vi/privacy.html"
+    },
+    "zh-Hans": {
+      "index": "zh-Hans/index.html",
+      "support": "zh-Hans/support.html",
+      "privacy": "zh-Hans/privacy.html"
+    },
+    "zh-Hant": {
+      "index": "zh-Hant/index.html",
+      "support": "zh-Hant/support.html",
+      "privacy": "zh-Hant/privacy.html"
+    }
+  },
+  "language_names": {
+    "ar-SA": "العربية",
+    "bn-BD": "বাংলা",
+    "ca": "Català",
+    "zh-Hans": "简体中文",
+    "zh-Hant": "繁體中文",
+    "hr": "Hrvatski",
+    "cs": "Čeština",
+    "da": "Dansk",
+    "nl-NL": "Nederlands",
+    "en-AU": "English (Australia)",
+    "en-CA": "English (Canada)",
+    "en-GB": "English (United Kingdom)",
+    "en-US": "English (United States)",
+    "fi": "Suomi",
+    "fr-CA": "Français (Canada)",
+    "fr-FR": "Français",
+    "de-DE": "Deutsch",
+    "el": "Ελληνικά",
+    "gu-IN": "ગુજરાતી",
+    "he": "עברית",
+    "hi": "हिन्दी",
+    "hu": "Magyar",
+    "id": "Bahasa Indonesia",
+    "it": "Italiano",
+    "ja": "日本語",
+    "kn-IN": "ಕನ್ನಡ",
+    "ko": "한국어",
+    "ms": "Bahasa Melayu",
+    "ml-IN": "മലയാളം",
+    "mr-IN": "मराठी",
+    "no": "Norsk bokmål",
+    "or-IN": "ଓଡ଼ିଆ",
+    "pl": "Polski",
+    "pt-BR": "Português (Brasil)",
+    "pt-PT": "Português (Portugal)",
+    "pa-IN": "ਪੰਜਾਬੀ",
+    "ro": "Română",
+    "ru": "Русский",
+    "sk": "Slovenčina",
+    "sl-SI": "Slovenščina",
+    "es-MX": "Español (México)",
+    "es-ES": "Español",
+    "sv": "Svenska",
+    "ta-IN": "தமிழ்",
+    "te-IN": "తెలుగు",
+    "th": "ไทย",
+    "tr": "Türkçe",
+    "uk": "Українська",
+    "ur-PK": "اردو",
+    "vi": "Tiếng Việt"
+  },
+  "icon_url": "https://alice51849.github.io/ledmovingtext-support/assets/site-icon.png",
+  "theme": {
+    "a1": "#FC67AA",
+    "a2": "#8980F7",
+    "ink": "#24212C",
+    "muted": "#686273",
+    "background": "#FBFAFE",
+    "panel": "rgba(255,255,255,.82)"
+  },
+  "authority": {
+    "surface_contract_sha256": "4481c241b4ce7fc0429a2eb4351c01b581ce1bda5cc3b1ccf6d0ea54f38dea04",
+    "crosspromo_config_sha256": "e35d834b73262780c223f2704065378b9634277562827397fee8f913baac7b5d",
+    "catalog_content_digest": "8feba77d050061d0f270dba2e2d02989a41341d766f7540bea0249de2e8aafbc",
+    "catalog_date_modified": "2026-08-29",
+    "requirements_sha256": "a1ca2bbe50fd75e4c4fb0075910a48b7e7fd44f89e75131242e068f2514e290f",
+    "root_index_sha256": "9a1fe3458d5e79ce4494928624f07b134ab64ed2c5b926b6bedcd67918958dd9",
+    "root_support_sha256": "a0eb7993b9f1a49300d7b5fb7a0541e934d40bf31b96d06c6ad84fcdae3995ce",
+    "root_privacy_sha256": "39bfc730231ba1ed433d5dc99ca1f9c89b8a5325f13d99b7355b5cd1fd29073d",
+    "app_key": null,
+    "source/translations.json_sha256": "95da7ca249c5668bf074206974deeedfeb3cf45e6d4ea1606e08a2e71cb9819b",
+    "scripts/generate_site.py_sha256": "9a96bae7c913971fa28064e2463597167278310af9b90189de2c04813351fb8b"
+  },
+  "authority_digest": "362070dccf423a70e29ff71c09529c1fa4866a11df24d3b2fc29a3f518ba9407",
+  "surface_contract_digest": "4481c241b4ce7fc0429a2eb4351c01b581ce1bda5cc3b1ccf6d0ea54f38dea04",
+  "targets": []
+}
