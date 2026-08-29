@@ -383,5 +383,10 @@
   },
   "authority_digest": "362070dccf423a70e29ff71c09529c1fa4866a11df24d3b2fc29a3f518ba9407",
   "surface_contract_digest": "4481c241b4ce7fc0429a2eb4351c01b581ce1bda5cc3b1ccf6d0ea54f38dea04",
+  "stale_outputs": [
+    "en-US/index.html",
+    "en-US/support.html",
+    "en-US/privacy.html"
+  ],
   "targets": []
 }

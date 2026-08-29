@@ -18,21 +18,26 @@ sys.dont_write_bytecode = True
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from generate_site import (  # noqa: E402
     BASE_URL,
+    EN_US,
     EMAIL,
     LOCALES,
     OG_LOCALES,
+    OWN_APP_ID,
     PAGE_FILES,
     PAGES,
     ROOT,
     RTL,
     SOCIAL_IMAGE_URL,
     expected_outputs,
+    load_family_links,
+    load_surface_contract,
     load_translations,
+    managed_external_urls,
     page_url,
     render_sitemap,
 )
 
-EXPECTED_PAGE_COUNT = 3 * (len(LOCALES) + 1)
+EXPECTED_PAGE_COUNT = len(LOCALES) * len(PAGES)
 EXPECTED_FEATURES = 6
 EXPECTED_FAQS = 9
 EXPECTED_PRIVACY_SECTIONS = 8
@@ -127,6 +132,7 @@ class PageParser(HTMLParser):
         self.canonicals: list[str] = []
         self.alternates: dict[str, list[str]] = collections.defaultdict(list)
         self.hrefs: list[str] = []
+        self.anchors: list[dict[str, str]] = []
         self.sources: list[str] = []
         self.ids: set[str] = set()
         self.nav_links: list[str] = []
@@ -175,6 +181,7 @@ class PageParser(HTMLParser):
         if tag == "a":
             href = attrs.get("href", "")
             self.hrefs.append(href)
+            self.anchors.append(attrs)
             if self.nav_depth:
                 self.nav_links.append(href)
             hreflang = attrs.get("hreflang")
@@ -250,6 +257,66 @@ class PageParser(HTMLParser):
 
 def fail(errors: list[str], message: str) -> None:
     errors.append(message)
+
+
+def append_managed_link_errors(
+    errors: list[str],
+    label: str,
+    text: str,
+    parser: PageParser,
+    family_links: dict[str, Any],
+) -> None:
+    start = "<!-- ls-family:start -->"
+    end = "<!-- ls-family:end -->"
+    if text.count(start) != 1 or text.count(end) != 1:
+        fail(errors, f"{label}: managed family module markers are not exact")
+    elif text.index(start) > text.index(end):
+        fail(errors, f"{label}: managed family module markers are reversed")
+    if text.count('class="family-module"') != 1:
+        fail(errors, f"{label}: managed family module is missing or duplicated")
+    if text.count('class="app-store-cta"') != 1:
+        fail(errors, f"{label}: LED Moving Text App Store CTA is missing or duplicated")
+
+    required_urls = managed_external_urls(family_links)
+    counts = collections.Counter(parser.hrefs)
+    for url in required_urls:
+        if counts[url] != 1:
+            fail(errors, f"{label}: required managed link count is not one: {url}")
+
+    required_app_urls = set(required_urls[:-1])
+    observed_app_urls = {
+        href
+        for href in parser.hrefs
+        if urllib.parse.urlparse(href).netloc == "apps.apple.com"
+    }
+    if observed_app_urls != required_app_urls:
+        fail(errors, f"{label}: App Store link set differs from the approved manifest")
+    if not any(f"/id{OWN_APP_ID}?" in href for href in observed_app_urls):
+        fail(errors, f"{label}: LED Moving Text App Store ID is missing")
+
+    required_external = set(required_urls)
+    for anchor in parser.anchors:
+        href = anchor.get("href", "")
+        if href in required_external and "noopener" not in anchor.get("rel", "").split():
+            fail(errors, f"{label}: managed external link lacks rel=noopener")
+
+
+def managed_link_errors(
+    text: str,
+    family_links: dict[str, Any] | None = None,
+) -> list[str]:
+    parser = PageParser()
+    parser.feed(text)
+    parser.close()
+    errors: list[str] = []
+    append_managed_link_errors(
+        errors,
+        "page",
+        text,
+        parser,
+        family_links or load_family_links(),
+    )
+    return errors
 
 
 def flattened_strings(value: Any, prefix: str = "") -> dict[str, str]:
@@ -443,13 +510,16 @@ def local_path_for_url(url: str) -> pathlib.Path | None:
     return ROOT / relative
 
 
-def expected_html_pages() -> dict[pathlib.Path, tuple[str, str, str | None]]:
-    expected: dict[pathlib.Path, tuple[str, str, str | None]] = {}
-    for page in PAGES:
-        expected[ROOT / PAGE_FILES[page]] = ("en-US", page, None)
+def expected_html_pages(
+    surface_contract: dict[str, Any],
+) -> dict[pathlib.Path, tuple[str, str, str]]:
+    expected: dict[pathlib.Path, tuple[str, str, str]] = {}
     for locale in LOCALES:
         for page in PAGES:
-            expected[ROOT / locale / PAGE_FILES[page]] = (locale, page, locale)
+            relative = pathlib.PurePosixPath(
+                surface_contract["routes"][locale][page]
+            )
+            expected[ROOT.joinpath(*relative.parts)] = (locale, page, locale)
     return expected
 
 
@@ -459,6 +529,8 @@ def check_page(
     locale: str,
     page: str,
     url_locale: str | None,
+    family_links: dict[str, Any],
+    surface_contract: dict[str, Any],
 ) -> None:
     relative = path.relative_to(ROOT)
     try:
@@ -553,6 +625,14 @@ def check_page(
         fail(errors, f"{relative}: referrer policy is not exact")
     if parser.metas.get("Content-Security-Policy") != [REQUIRED_CSP]:
         fail(errors, f"{relative}: strict Content Security Policy is missing")
+    if parser.metas.get("support-surface-generated") != [
+        surface_contract["schema"]
+    ]:
+        fail(errors, f"{relative}: generated surface marker is not exact")
+    if parser.metas.get("support-surface-authority") != [
+        surface_contract["authority_digest"]
+    ]:
+        fail(errors, f"{relative}: support surface authority is not exact")
     if parser.metas.get("og:locale") != [OG_LOCALES[locale]]:
         fail(errors, f"{relative}: OpenGraph locale is not canonical")
     if parser.metas.get("og:title") != [parser.title]:
@@ -582,6 +662,17 @@ def check_page(
     if BANNED_CLAIMS.search(text):
         fail(errors, f"{relative}: prohibited promotional claim found")
 
+    page_emails = {address.casefold() for address in EMAIL_PATTERN.findall(text)}
+    if page_emails != {EMAIL.casefold()}:
+        fail(errors, f"{relative}: every surface must expose only the approved email")
+    append_managed_link_errors(
+        errors,
+        str(relative),
+        text,
+        parser,
+        family_links,
+    )
+    approved_external = set(managed_external_urls(family_links))
     for source in parser.sources:
         target = local_path_for_url(source)
         if target is None:
@@ -597,6 +688,8 @@ def check_page(
             if href != f"mailto:{EMAIL}":
                 fail(errors, f"{relative}: unexpected mail link")
             continue
+        if href in approved_external:
+            continue
         target = local_path_for_url(href)
         if target is None:
             fail(errors, f"{relative}: external or invalid link {href}")
@@ -604,8 +697,12 @@ def check_page(
             fail(errors, f"{relative}: broken internal link {href}")
 
 
-def check_pages(errors: list[str]) -> None:
-    expected = expected_html_pages()
+def check_pages(
+    errors: list[str],
+    family_links: dict[str, Any],
+    surface_contract: dict[str, Any],
+) -> None:
+    expected = expected_html_pages(surface_contract)
     actual = set(ROOT.rglob("*.html"))
     if actual != set(expected):
         for path in sorted(set(expected) - actual):
@@ -614,7 +711,15 @@ def check_pages(errors: list[str]) -> None:
             fail(errors, f"unexpected page {path.relative_to(ROOT)}")
     for path, (locale, page, url_locale) in expected.items():
         if path.is_file():
-            check_page(errors, path, locale, page, url_locale)
+            check_page(
+                errors,
+                path,
+                locale,
+                page,
+                url_locale,
+                family_links,
+                surface_contract,
+            )
 
 
 def check_email_and_assets(errors: list[str]) -> None:
@@ -697,10 +802,17 @@ def check_email_and_assets(errors: list[str]) -> None:
 
 
 def check_generated_outputs(
-    errors: list[str], translations: dict[str, dict[str, Any]]
+    errors: list[str],
+    translations: dict[str, dict[str, Any]],
+    family_links: dict[str, Any],
+    surface_contract: dict[str, Any],
 ) -> None:
     stale: list[str] = []
-    for path, expected in expected_outputs(translations).items():
+    for path, expected in expected_outputs(
+        translations,
+        family_links,
+        surface_contract,
+    ).items():
         if not path.is_file():
             stale.append(f"missing {path.relative_to(ROOT)}")
         elif path.read_text(encoding="utf-8") != expected:
@@ -719,7 +831,12 @@ def check_sitemap(errors: list[str]) -> None:
     text = path.read_text(encoding="utf-8")
     locations = re.findall(r"<loc>([^<]+)</loc>", text)
     expected = [page_url(None, page) for page in PAGES]
-    expected.extend(page_url(locale, page) for locale in LOCALES for page in PAGES)
+    expected.extend(
+        page_url(locale, page)
+        for locale in LOCALES
+        if locale != EN_US
+        for page in PAGES
+    )
     if text != render_sitemap():
         fail(errors, "sitemap.xml is not the deterministic generated XML")
     if locations != expected:
@@ -729,6 +846,8 @@ def check_sitemap(errors: list[str]) -> None:
             errors,
             f"sitemap.xml must contain {EXPECTED_PAGE_COUNT} unique URLs",
         )
+    if any("/en-US/" in location for location in locations):
+        fail(errors, "sitemap.xml must not publish duplicate en-US directory URLs")
     robots = ROOT / "robots.txt"
     if robots.is_file():
         expected_line = f"Sitemap: {BASE_URL}sitemap.xml"
@@ -753,20 +872,40 @@ def check_static_privacy(errors: list[str]) -> None:
         fail(errors, "source or CSS contains a tracking/storage construct")
 
 
-def main() -> None:
+def collect_errors() -> list[str]:
     errors: list[str] = []
     try:
         translations = load_translations()
     except SystemExit as error:
         fail(errors, str(error))
         translations = {}
-    if translations:
+    try:
+        family_links = load_family_links()
+    except SystemExit as error:
+        fail(errors, str(error))
+        family_links = {}
+    try:
+        surface_contract = load_surface_contract()
+    except SystemExit as error:
+        fail(errors, str(error))
+        surface_contract = {}
+    if translations and family_links and surface_contract:
         check_translation_source(errors, translations)
-        check_generated_outputs(errors, translations)
-    check_pages(errors)
+        check_generated_outputs(
+            errors,
+            translations,
+            family_links,
+            surface_contract,
+        )
+        check_pages(errors, family_links, surface_contract)
     check_email_and_assets(errors)
     check_sitemap(errors)
     check_static_privacy(errors)
+    return errors
+
+
+def main() -> None:
+    errors = collect_errors()
     if errors:
         for message in errors:
             print(f"FAIL: {message}")

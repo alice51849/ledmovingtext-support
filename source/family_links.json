@@ -1,0 +1,1416 @@
+{
+  "schema_version": 1,
+  "provenance_commit": "543d9bf8d418a01ccd5d24200dfa4d2d5b97bd6e",
+  "provider_token": "118326163",
+  "campaign_token": "sup_ledmovingtext",
+  "own_app_id": "6806639602",
+  "family_app_ids": [
+    "6794725568",
+    "6792856304",
+    "6798814385",
+    "6780223070"
+  ],
+  "guide_url": "https://alice51849.github.io/ios-app-guide/?utm_source=support_site&utm_medium=family_module&utm_campaign=sup_ledmovingtext",
+  "locales": {
+    "ar-SA": {
+      "heading": "المزيد من تطبيقات المطوّر نفسه",
+      "note": "الروابط تفتح App Store.",
+      "cta": "عرض في App Store",
+      "guide": "المزيد من أدلة التطبيقات وشروحات الاستخدام",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "مجاني · عملية شراء واحدة لفتح كل الميزات، بدون اشتراك"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "مجاني · عملية شراء واحدة لفتح كل الميزات، بدون اشتراك"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "مجاني · عملية شراء واحدة لفتح كل الميزات، بدون اشتراك"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "مجاني · عملية شراء واحدة لفتح كل الميزات، بدون اشتراك"
+        }
+      ]
+    },
+    "bn-BD": {
+      "heading": "একই ডেভেলপারের আরও অ্যাপ",
+      "note": "লিঙ্কগুলি App Store খোলে।",
+      "cta": "App Store-এ দেখুন",
+      "guide": "আরও অ্যাপ গাইড ও টিউটোরিয়াল",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "বিনামূল্যে · আনলক করতে একবারের কেনাকাটা, কোনো সাবস্ক্রিপশন নেই"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "বিনামূল্যে · আনলক করতে একবারের কেনাকাটা, কোনো সাবস্ক্রিপশন নেই"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "বিনামূল্যে · আনলক করতে একবারের কেনাকাটা, কোনো সাবস্ক্রিপশন নেই"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "বিনামূল্যে · আনলক করতে একবারের কেনাকাটা, কোনো সাবস্ক্রিপশন নেই"
+        }
+      ]
+    },
+    "ca": {
+      "heading": "Més apps del mateix desenvolupador",
+      "note": "Els enllaços obren l'App Store.",
+      "cta": "Veure a l'App Store",
+      "guide": "Més guies i tutorials d'apps",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Habla hoy",
+          "detail": "Gratis · compra única per desbloquejar-ho tot, sense subscripció"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Gratis · compra única per desbloquejar-ho tot, sense subscripció"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: diapositiva IA",
+          "detail": "Gratis · compra única per desbloquejar-ho tot, sense subscripció"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Gratis · compra única per desbloquejar-ho tot, sense subscripció"
+        }
+      ]
+    },
+    "zh-Hans": {
+      "heading": "同一开发者的更多 App",
+      "note": "链接会打开 App Store。",
+      "cta": "在 App Store 查看",
+      "guide": "更多 App 使用指南与教程",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite：开口练习",
+          "detail": "免费 · 一次性购买解锁,无订阅"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "免费 · 一次性购买解锁,无订阅"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI一页幻灯片",
+          "detail": "免费 · 一次性购买解锁,无订阅"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "免费 · 一次性购买解锁,无订阅"
+        }
+      ]
+    },
+    "zh-Hant": {
+      "heading": "同開發者的更多 App",
+      "note": "連結會開啟 App Store。",
+      "cta": "在 App Store 檢視",
+      "guide": "更多 App 使用指南與教學",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite：開口練習",
+          "detail": "免費 · 一次購買解鎖,無訂閱"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "免費 · 一次購買解鎖,無訂閱"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI 一頁簡報",
+          "detail": "免費 · 一次購買解鎖,無訂閱"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "免費 · 一次購買解鎖,無訂閱"
+        }
+      ]
+    },
+    "hr": {
+      "heading": "Više aplikacija istog razvojnog programera",
+      "note": "Poveznice otvaraju App Store.",
+      "cta": "Prikaži u App Storeu",
+      "guide": "Više vodiča i uputa za aplikacije",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Besplatno · jednokratna kupnja za otključavanje, bez pretplate"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Besplatno · jednokratna kupnja za otključavanje, bez pretplate"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Besplatno · jednokratna kupnja za otključavanje, bez pretplate"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Besplatno · jednokratna kupnja za otključavanje, bez pretplate"
+        }
+      ]
+    },
+    "cs": {
+      "heading": "Další aplikace od stejného vývojáře",
+      "note": "Odkazy otevřou App Store.",
+      "cta": "Zobrazit v App Storu",
+      "guide": "Další návody a tipy k aplikacím",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Zdarma · jednorázový nákup pro odemknutí, žádné předplatné"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Zdarma · jednorázový nákup pro odemknutí, žádné předplatné"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Zdarma · jednorázový nákup pro odemknutí, žádné předplatné"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Zdarma · jednorázový nákup pro odemknutí, žádné předplatné"
+        }
+      ]
+    },
+    "da": {
+      "heading": "Flere apps fra samme udvikler",
+      "note": "Links åbner App Store.",
+      "cta": "Se i App Store",
+      "guide": "Flere app-guider og vejledninger",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Gratis · engangskøb låser alt op, intet abonnement"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Gratis · engangskøb låser alt op, intet abonnement"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Gratis · engangskøb låser alt op, intet abonnement"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Gratis · engangskøb låser alt op, intet abonnement"
+        }
+      ]
+    },
+    "nl-NL": {
+      "heading": "Meer apps van dezelfde ontwikkelaar",
+      "note": "Links openen de App Store.",
+      "cta": "Bekijk in de App Store",
+      "guide": "Meer app-gidsen en uitleg",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Spreek nu",
+          "detail": "Gratis · eenmalige aankoop om te ontgrendelen, geen abonnement"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Gratis · eenmalige aankoop om te ontgrendelen, geen abonnement"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI-dia maker",
+          "detail": "Gratis · eenmalige aankoop om te ontgrendelen, geen abonnement"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Gratis · eenmalige aankoop om te ontgrendelen, geen abonnement"
+        }
+      ]
+    },
+    "en-AU": {
+      "heading": "More apps from the same developer",
+      "note": "Links open the App Store.",
+      "cta": "View on the App Store",
+      "guide": "More app guides & how-tos",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        }
+      ]
+    },
+    "en-CA": {
+      "heading": "More apps from the same developer",
+      "note": "Links open the App Store.",
+      "cta": "View on the App Store",
+      "guide": "More app guides & how-tos",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        }
+      ]
+    },
+    "en-GB": {
+      "heading": "More apps from the same developer",
+      "note": "Links open the App Store.",
+      "cta": "View on the App Store",
+      "guide": "More app guides & how-tos",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        }
+      ]
+    },
+    "en-US": {
+      "heading": "More apps from the same developer",
+      "note": "Links open the App Store.",
+      "cta": "View on the App Store",
+      "guide": "More app guides & how-tos",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Free · one-time purchase to unlock, no subscription"
+        }
+      ]
+    },
+    "fi": {
+      "heading": "Lisää saman kehittäjän sovelluksia",
+      "note": "Linkit avaavat App Storen.",
+      "cta": "Katso App Storessa",
+      "guide": "Lisää sovellusoppaita ja ohjeita",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Ilmainen · kertaosto avaa kaiken, ei tilausta"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Ilmainen · kertaosto avaa kaiken, ei tilausta"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Ilmainen · kertaosto avaa kaiken, ei tilausta"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Ilmainen · kertaosto avaa kaiken, ei tilausta"
+        }
+      ]
+    },
+    "fr-CA": {
+      "heading": "Autres apps du même développeur",
+      "note": "Les liens ouvrent l'App Store.",
+      "cta": "Voir sur l'App Store",
+      "guide": "Plus de guides et de tutoriels d'apps",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Gratuit · achat unique pour tout débloquer, sans abonnement"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Gratuit · achat unique pour tout débloquer, sans abonnement"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Gratuit · achat unique pour tout débloquer, sans abonnement"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Gratuit · achat unique pour tout débloquer, sans abonnement"
+        }
+      ]
+    },
+    "fr-FR": {
+      "heading": "Autres apps du même développeur",
+      "note": "Les liens ouvrent l'App Store.",
+      "cta": "Voir sur l'App Store",
+      "guide": "Plus de guides et de tutoriels d'apps",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite",
+          "detail": "Gratuit · achat unique pour tout débloquer, sans abonnement"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Gratuit · achat unique pour tout débloquer, sans abonnement"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT : diapo IA",
+          "detail": "Gratuit · achat unique pour tout débloquer, sans abonnement"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Gratuit · achat unique pour tout débloquer, sans abonnement"
+        }
+      ]
+    },
+    "de-DE": {
+      "heading": "Weitere Apps desselben Entwicklers",
+      "note": "Die Links öffnen den App Store.",
+      "cta": "Im App Store ansehen",
+      "guide": "Weitere App-Anleitungen und Tipps",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Sprechen",
+          "detail": "Kostenlos · einmaliger Kauf zum Freischalten, kein Abo"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Kostenlos · einmaliger Kauf zum Freischalten, kein Abo"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: KI Folien",
+          "detail": "Kostenlos · einmaliger Kauf zum Freischalten, kein Abo"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Kostenlos · einmaliger Kauf zum Freischalten, kein Abo"
+        }
+      ]
+    },
+    "el": {
+      "heading": "Περισσότερες εφαρμογές από τον ίδιο προγραμματιστή",
+      "note": "Οι σύνδεσμοι ανοίγουν το App Store.",
+      "cta": "Προβολή στο App Store",
+      "guide": "Περισσότεροι οδηγοί και συμβουλές για εφαρμογές",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Δωρεάν · εφάπαξ αγορά για ξεκλείδωμα, χωρίς συνδρομή"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Δωρεάν · εφάπαξ αγορά για ξεκλείδωμα, χωρίς συνδρομή"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Δωρεάν · εφάπαξ αγορά για ξεκλείδωμα, χωρίς συνδρομή"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Δωρεάν · εφάπαξ αγορά για ξεκλείδωμα, χωρίς συνδρομή"
+        }
+      ]
+    },
+    "gu-IN": {
+      "heading": "એ જ ડેવલપરની વધુ ઍપ",
+      "note": "લિંક App Store ખોલે છે.",
+      "cta": "App Store પર જુઓ",
+      "guide": "વધુ ઍપ ગાઇડ અને ટ્યુટોરિયલ",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "મફત · અનલૉક કરવા માટે એક વખતની ખરીદી, કોઈ સબ્સ્ક્રિપ્શન નહીં"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "મફત · અનલૉક કરવા માટે એક વખતની ખરીદી, કોઈ સબ્સ્ક્રિપ્શન નહીં"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "મફત · અનલૉક કરવા માટે એક વખતની ખરીદી, કોઈ સબ્સ્ક્રિપ્શન નહીં"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "મફત · અનલૉક કરવા માટે એક વખતની ખરીદી, કોઈ સબ્સ્ક્રિપ્શન નહીં"
+        }
+      ]
+    },
+    "he": {
+      "heading": "אפליקציות נוספות מאותו מפתח",
+      "note": "הקישורים פותחים את App Store.",
+      "cta": "הצג ב-App Store",
+      "guide": "עוד מדריכים והסברים על אפליקציות",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "בחינם · רכישה חד-פעמית לפתיחת הכול, ללא מנוי"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "בחינם · רכישה חד-פעמית לפתיחת הכול, ללא מנוי"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "בחינם · רכישה חד-פעמית לפתיחת הכול, ללא מנוי"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "בחינם · רכישה חד-פעמית לפתיחת הכול, ללא מנוי"
+        }
+      ]
+    },
+    "hi": {
+      "heading": "इसी डेवलपर के और ऐप",
+      "note": "लिंक App Store खोलते हैं।",
+      "cta": "App Store में देखें",
+      "guide": "और ऐप गाइड और ट्यूटोरियल",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "मुफ़्त · अनलॉक करने के लिए एक बार की खरीदारी, कोई सदस्यता नहीं"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "मुफ़्त · अनलॉक करने के लिए एक बार की खरीदारी, कोई सदस्यता नहीं"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "मुफ़्त · अनलॉक करने के लिए एक बार की खरीदारी, कोई सदस्यता नहीं"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "मुफ़्त · अनलॉक करने के लिए एक बार की खरीदारी, कोई सदस्यता नहीं"
+        }
+      ]
+    },
+    "hu": {
+      "heading": "További appok ugyanattól a fejlesztőtől",
+      "note": "A hivatkozások az App Store-t nyitják meg.",
+      "cta": "Megtekintés az App Store-ban",
+      "guide": "További app-útmutatók és tippek",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Ingyenes · egyszeri vásárlás a feloldáshoz, előfizetés nélkül"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Ingyenes · egyszeri vásárlás a feloldáshoz, előfizetés nélkül"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Ingyenes · egyszeri vásárlás a feloldáshoz, előfizetés nélkül"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Ingyenes · egyszeri vásárlás a feloldáshoz, előfizetés nélkül"
+        }
+      ]
+    },
+    "id": {
+      "heading": "Aplikasi lain dari pengembang yang sama",
+      "note": "Tautan membuka App Store.",
+      "cta": "Lihat di App Store",
+      "guide": "Panduan dan tutorial aplikasi lainnya",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Gratis · sekali beli untuk membuka semua, tanpa langganan"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Gratis · sekali beli untuk membuka semua, tanpa langganan"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Gratis · sekali beli untuk membuka semua, tanpa langganan"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Gratis · sekali beli untuk membuka semua, tanpa langganan"
+        }
+      ]
+    },
+    "it": {
+      "heading": "Altre app dello stesso sviluppatore",
+      "note": "I link aprono l'App Store.",
+      "cta": "Vedi su App Store",
+      "guide": "Altre guide e tutorial sulle app",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Parla ora",
+          "detail": "Gratis · acquisto una tantum per sbloccare, nessun abbonamento"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Gratis · acquisto una tantum per sbloccare, nessun abbonamento"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: slide con IA",
+          "detail": "Gratis · acquisto una tantum per sbloccare, nessun abbonamento"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Gratis · acquisto una tantum per sbloccare, nessun abbonamento"
+        }
+      ]
+    },
+    "ja": {
+      "heading": "同じ開発者のその他のApp",
+      "note": "リンクはApp Storeを開きます。",
+      "cta": "App Storeで見る",
+      "guide": "アプリの使い方ガイドをもっと見る",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite：ひとこと練習",
+          "detail": "無料 · 買い切りでロック解除、サブスクリプションなし"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "無料 · 買い切りでロック解除、サブスクリプションなし"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI資料作成",
+          "detail": "無料 · 買い切りでロック解除、サブスクリプションなし"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "無料 · 買い切りでロック解除、サブスクリプションなし"
+        }
+      ]
+    },
+    "kn-IN": {
+      "heading": "ಅದೇ ಡೆವಲಪರ್‌ನ ಇನ್ನಷ್ಟು ಆ್ಯಪ್‌ಗಳು",
+      "note": "ಲಿಂಕ್‌ಗಳು App Store ಅನ್ನು ತೆರೆಯುತ್ತವೆ.",
+      "cta": "App Store ನಲ್ಲಿ ನೋಡಿ",
+      "guide": "ಇನ್ನಷ್ಟು ಆ್ಯಪ್ ಗೈಡ್‌ಗಳು ಮತ್ತು ಟ್ಯುಟೋರಿಯಲ್‌ಗಳು",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "ಉಚಿತ · ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಒಂದು ಬಾರಿಯ ಖರೀದಿ, ಚಂದಾದಾರಿಕೆ ಇಲ್ಲ"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "ಉಚಿತ · ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಒಂದು ಬಾರಿಯ ಖರೀದಿ, ಚಂದಾದಾರಿಕೆ ಇಲ್ಲ"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "ಉಚಿತ · ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಒಂದು ಬಾರಿಯ ಖರೀದಿ, ಚಂದಾದಾರಿಕೆ ಇಲ್ಲ"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "ಉಚಿತ · ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಒಂದು ಬಾರಿಯ ಖರೀದಿ, ಚಂದಾದಾರಿಕೆ ಇಲ್ಲ"
+        }
+      ]
+    },
+    "ko": {
+      "heading": "같은 개발자의 다른 앱",
+      "note": "링크는 App Store를 엽니다.",
+      "cta": "App Store에서 보기",
+      "guide": "더 많은 앱 가이드와 활용법",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: 바로 쓰는 한마디",
+          "detail": "무료 · 한 번 구입으로 잠금 해제, 구독 없음"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "무료 · 한 번 구입으로 잠금 해제, 구독 없음"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI 발표자료",
+          "detail": "무료 · 한 번 구입으로 잠금 해제, 구독 없음"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "무료 · 한 번 구입으로 잠금 해제, 구독 없음"
+        }
+      ]
+    },
+    "ms": {
+      "heading": "Lagi app daripada pembangun yang sama",
+      "note": "Pautan membuka App Store.",
+      "cta": "Lihat di App Store",
+      "guide": "Lagi panduan dan tutorial app",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Percuma · beli sekali untuk buka semua, tiada langganan"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Percuma · beli sekali untuk buka semua, tiada langganan"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Percuma · beli sekali untuk buka semua, tiada langganan"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Percuma · beli sekali untuk buka semua, tiada langganan"
+        }
+      ]
+    },
+    "ml-IN": {
+      "heading": "അതേ ഡെവലപ്പറുടെ മറ്റ് ആപ്പുകൾ",
+      "note": "ലിങ്കുകൾ App Store തുറക്കുന്നു.",
+      "cta": "App Store-ൽ കാണുക",
+      "guide": "കൂടുതൽ ആപ്പ് ഗൈഡുകളും ട്യൂട്ടോറിയലുകളും",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "സൗജന്യം · അൺലോക്ക് ചെയ്യാൻ ഒറ്റത്തവണ വാങ്ങൽ, സബ്‌സ്‌ക്രിപ്‌ഷൻ ഇല്ല"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "സൗജന്യം · അൺലോക്ക് ചെയ്യാൻ ഒറ്റത്തവണ വാങ്ങൽ, സബ്‌സ്‌ക്രിപ്‌ഷൻ ഇല്ല"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "സൗജന്യം · അൺലോക്ക് ചെയ്യാൻ ഒറ്റത്തവണ വാങ്ങൽ, സബ്‌സ്‌ക്രിപ്‌ഷൻ ഇല്ല"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "സൗജന്യം · അൺലോക്ക് ചെയ്യാൻ ഒറ്റത്തവണ വാങ്ങൽ, സബ്‌സ്‌ക്രിപ്‌ഷൻ ഇല്ല"
+        }
+      ]
+    },
+    "mr-IN": {
+      "heading": "याच डेव्हलपरची आणखी ॲप्स",
+      "note": "लिंक App Store उघडतात.",
+      "cta": "App Store वर पाहा",
+      "guide": "आणखी ॲप मार्गदर्शक आणि ट्युटोरियल",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "मोफत · अनलॉक करण्यासाठी एकदाच खरेदी, सदस्यता नाही"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "मोफत · अनलॉक करण्यासाठी एकदाच खरेदी, सदस्यता नाही"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "मोफत · अनलॉक करण्यासाठी एकदाच खरेदी, सदस्यता नाही"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "मोफत · अनलॉक करण्यासाठी एकदाच खरेदी, सदस्यता नाही"
+        }
+      ]
+    },
+    "no": {
+      "heading": "Flere apper fra samme utvikler",
+      "note": "Lenkene åpner App Store.",
+      "cta": "Vis i App Store",
+      "guide": "Flere appguider og veiledninger",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Gratis · engangskjøp låser opp alt, ingen abonnement"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Gratis · engangskjøp låser opp alt, ingen abonnement"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Gratis · engangskjøp låser opp alt, ingen abonnement"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Gratis · engangskjøp låser opp alt, ingen abonnement"
+        }
+      ]
+    },
+    "or-IN": {
+      "heading": "ସେହି ଡେଭଲପରଙ୍କ ଅଧିକ ଆପ୍",
+      "note": "ଲିଙ୍କଗୁଡ଼ିକ App Store ଖୋଲେ।",
+      "cta": "App Storeରେ ଦେଖନ୍ତୁ",
+      "guide": "ଅଧିକ ଆପ୍ ଗାଇଡ୍ ଓ ଟ୍ୟୁଟୋରିଆଲ୍",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "ମାଗଣା · ଅନଲକ୍ କରିବା ପାଇଁ ଥରେ କିଣନ୍ତୁ, କୌଣସି ସବସ୍କ୍ରିପସନ୍ ନାହିଁ"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "ମାଗଣା · ଅନଲକ୍ କରିବା ପାଇଁ ଥରେ କିଣନ୍ତୁ, କୌଣସି ସବସ୍କ୍ରିପସନ୍ ନାହିଁ"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "ମାଗଣା · ଅନଲକ୍ କରିବା ପାଇଁ ଥରେ କିଣନ୍ତୁ, କୌଣସି ସବସ୍କ୍ରିପସନ୍ ନାହିଁ"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "ମାଗଣା · ଅନଲକ୍ କରିବା ପାଇଁ ଥରେ କିଣନ୍ତୁ, କୌଣସି ସବସ୍କ୍ରିପସନ୍ ନାହିଁ"
+        }
+      ]
+    },
+    "pl": {
+      "heading": "Więcej aplikacji tego samego dewelopera",
+      "note": "Linki otwierają App Store.",
+      "cta": "Zobacz w App Store",
+      "guide": "Więcej poradników i instrukcji do aplikacji",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Bezpłatnie · jednorazowy zakup odblokowuje wszystko, bez subskrypcji"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Bezpłatnie · jednorazowy zakup odblokowuje wszystko, bez subskrypcji"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Bezpłatnie · jednorazowy zakup odblokowuje wszystko, bez subskrypcji"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Bezpłatnie · jednorazowy zakup odblokowuje wszystko, bez subskrypcji"
+        }
+      ]
+    },
+    "pt-BR": {
+      "heading": "Mais apps do mesmo desenvolvedor",
+      "note": "Os links abrem a App Store.",
+      "cta": "Ver na App Store",
+      "guide": "Mais guias e tutoriais de apps",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Fale agora",
+          "detail": "Grátis · compra única para desbloquear, sem assinatura"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Grátis · compra única para desbloquear, sem assinatura"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: slide com IA",
+          "detail": "Grátis · compra única para desbloquear, sem assinatura"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Grátis · compra única para desbloquear, sem assinatura"
+        }
+      ]
+    },
+    "pt-PT": {
+      "heading": "Mais apps do mesmo programador",
+      "note": "As ligações abrem a App Store.",
+      "cta": "Ver na App Store",
+      "guide": "Mais guias e tutoriais de apps",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Fale agora",
+          "detail": "Grátis · compra única para desbloquear, sem subscrição"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Grátis · compra única para desbloquear, sem subscrição"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: diapositivo IA",
+          "detail": "Grátis · compra única para desbloquear, sem subscrição"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Grátis · compra única para desbloquear, sem subscrição"
+        }
+      ]
+    },
+    "pa-IN": {
+      "heading": "ਇਸੇ ਡਿਵੈਲਪਰ ਦੀਆਂ ਹੋਰ ਐਪਾਂ",
+      "note": "ਲਿੰਕ App Store ਖੋਲ੍ਹਦੇ ਹਨ।",
+      "cta": "App Store ਵਿੱਚ ਦੇਖੋ",
+      "guide": "ਹੋਰ ਐਪ ਗਾਈਡਾਂ ਅਤੇ ਟਿਊਟੋਰਿਅਲ",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "ਮੁਫ਼ਤ · ਅਨਲਾਕ ਕਰਨ ਲਈ ਇੱਕ ਵਾਰ ਖਰੀਦ, ਕੋਈ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਨਹੀਂ"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "ਮੁਫ਼ਤ · ਅਨਲਾਕ ਕਰਨ ਲਈ ਇੱਕ ਵਾਰ ਖਰੀਦ, ਕੋਈ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਨਹੀਂ"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "ਮੁਫ਼ਤ · ਅਨਲਾਕ ਕਰਨ ਲਈ ਇੱਕ ਵਾਰ ਖਰੀਦ, ਕੋਈ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਨਹੀਂ"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "ਮੁਫ਼ਤ · ਅਨਲਾਕ ਕਰਨ ਲਈ ਇੱਕ ਵਾਰ ਖਰੀਦ, ਕੋਈ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਨਹੀਂ"
+        }
+      ]
+    },
+    "ro": {
+      "heading": "Mai multe aplicații de la același dezvoltator",
+      "note": "Linkurile deschid App Store.",
+      "cta": "Vezi în App Store",
+      "guide": "Mai multe ghiduri și tutoriale pentru aplicații",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Gratuit · achiziție unică pentru deblocare, fără abonament"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Gratuit · achiziție unică pentru deblocare, fără abonament"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Gratuit · achiziție unică pentru deblocare, fără abonament"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Gratuit · achiziție unică pentru deblocare, fără abonament"
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Другие приложения того же разработчика",
+      "note": "Ссылки открывают App Store.",
+      "cta": "Открыть в App Store",
+      "guide": "Больше руководств и инструкций по приложениям",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Живые фразы",
+          "detail": "Бесплатно · разовая покупка для разблокировки, без подписки"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Бесплатно · разовая покупка для разблокировки, без подписки"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: ИИ-слайды",
+          "detail": "Бесплатно · разовая покупка для разблокировки, без подписки"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Бесплатно · разовая покупка для разблокировки, без подписки"
+        }
+      ]
+    },
+    "sk": {
+      "heading": "Ďalšie aplikácie od rovnakého vývojára",
+      "note": "Odkazy otvoria App Store.",
+      "cta": "Zobraziť v App Store",
+      "guide": "Ďalšie návody a tipy k aplikáciám",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Zadarmo · jednorazový nákup na odomknutie, žiadne predplatné"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Zadarmo · jednorazový nákup na odomknutie, žiadne predplatné"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Zadarmo · jednorazový nákup na odomknutie, žiadne predplatné"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Zadarmo · jednorazový nákup na odomknutie, žiadne predplatné"
+        }
+      ]
+    },
+    "sl-SI": {
+      "heading": "Več aplikacij istega razvijalca",
+      "note": "Povezave odprejo App Store.",
+      "cta": "Ogled v App Storu",
+      "guide": "Več vodnikov in navodil za aplikacije",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Brezplačno · enkraten nakup za odklep, brez naročnine"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Brezplačno · enkraten nakup za odklep, brez naročnine"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Brezplačno · enkraten nakup za odklep, brez naročnine"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Brezplačno · enkraten nakup za odklep, brez naročnine"
+        }
+      ]
+    },
+    "es-MX": {
+      "heading": "Más apps del mismo desarrollador",
+      "note": "Los enlaces abren el App Store.",
+      "cta": "Ver en el App Store",
+      "guide": "Más guías y tutoriales de apps",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Habla hoy",
+          "detail": "Gratis · compra única para desbloquear, sin suscripción"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Gratis · compra única para desbloquear, sin suscripción"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: crea diapositivas",
+          "detail": "Gratis · compra única para desbloquear, sin suscripción"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Gratis · compra única para desbloquear, sin suscripción"
+        }
+      ]
+    },
+    "es-ES": {
+      "heading": "Más apps del mismo desarrollador",
+      "note": "Los enlaces abren el App Store.",
+      "cta": "Ver en el App Store",
+      "guide": "Más guías y tutoriales de apps",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Habla hoy",
+          "detail": "Gratis · compra única para desbloquear, sin suscripción"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Gratis · compra única para desbloquear, sin suscripción"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: diapositiva IA",
+          "detail": "Gratis · compra única para desbloquear, sin suscripción"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Gratis · compra única para desbloquear, sin suscripción"
+        }
+      ]
+    },
+    "sv": {
+      "heading": "Fler appar från samma utvecklare",
+      "note": "Länkarna öppnar App Store.",
+      "cta": "Visa i App Store",
+      "guide": "Fler appguider och instruktioner",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Tala idag",
+          "detail": "Gratis · engångsköp låser upp allt, ingen prenumeration"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Gratis · engångsköp låser upp allt, ingen prenumeration"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI-bildspel",
+          "detail": "Gratis · engångsköp låser upp allt, ingen prenumeration"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Gratis · engångsköp låser upp allt, ingen prenumeration"
+        }
+      ]
+    },
+    "ta-IN": {
+      "heading": "இதே டெவலப்பரின் மேலும் ஆப்ஸ்",
+      "note": "இணைப்புகள் App Store-ஐத் திறக்கும்.",
+      "cta": "App Store-இல் பார்க்கவும்",
+      "guide": "மேலும் ஆப்ஸ் வழிகாட்டிகளும் பயன்பாட்டுக் குறிப்புகளும்",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "இலவசம் · அன்லாக் செய்ய ஒரு முறை கொள்முதல், சந்தா இல்லை"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "இலவசம் · அன்லாக் செய்ய ஒரு முறை கொள்முதல், சந்தா இல்லை"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "இலவசம் · அன்லாக் செய்ய ஒரு முறை கொள்முதல், சந்தா இல்லை"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "இலவசம் · அன்லாக் செய்ய ஒரு முறை கொள்முதல், சந்தா இல்லை"
+        }
+      ]
+    },
+    "te-IN": {
+      "heading": "అదే డెవలపర్ నుండి మరిన్ని యాప్‌లు",
+      "note": "లింక్‌లు App Storeని తెరుస్తాయి.",
+      "cta": "App Storeలో చూడండి",
+      "guide": "మరిన్ని యాప్ గైడ్‌లు మరియు ట్యుటోరియల్స్",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "ఉచితం · అన్‌లాక్ చేయడానికి ఒకసారి కొనుగోలు, సబ్‌స్క్రిప్షన్ లేదు"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "ఉచితం · అన్‌లాక్ చేయడానికి ఒకసారి కొనుగోలు, సబ్‌స్క్రిప్షన్ లేదు"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "ఉచితం · అన్‌లాక్ చేయడానికి ఒకసారి కొనుగోలు, సబ్‌స్క్రిప్షన్ లేదు"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "ఉచితం · అన్‌లాక్ చేయడానికి ఒకసారి కొనుగోలు, సబ్‌స్క్రిప్షన్ లేదు"
+        }
+      ]
+    },
+    "th": {
+      "heading": "แอปอื่นจากผู้พัฒนารายเดียวกัน",
+      "note": "ลิงก์จะเปิด App Store",
+      "cta": "ดูใน App Store",
+      "guide": "ดูคู่มือและวิธีใช้แอปเพิ่มเติม",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "ฟรี · ซื้อครั้งเดียวเพื่อปลดล็อก ไม่มีการสมัครสมาชิก"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "ฟรี · ซื้อครั้งเดียวเพื่อปลดล็อก ไม่มีการสมัครสมาชิก"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "ฟรี · ซื้อครั้งเดียวเพื่อปลดล็อก ไม่มีการสมัครสมาชิก"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "ฟรี · ซื้อครั้งเดียวเพื่อปลดล็อก ไม่มีการสมัครสมาชิก"
+        }
+      ]
+    },
+    "tr": {
+      "heading": "Aynı geliştiricinin diğer uygulamaları",
+      "note": "Bağlantılar App Store'u açar.",
+      "cta": "App Store'da görüntüle",
+      "guide": "Daha fazla uygulama rehberi ve ipucu",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Ücretsiz · kilidi açmak için tek seferlik satın alma, abonelik yok"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Ücretsiz · kilidi açmak için tek seferlik satın alma, abonelik yok"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Ücretsiz · kilidi açmak için tek seferlik satın alma, abonelik yok"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Ücretsiz · kilidi açmak için tek seferlik satın alma, abonelik yok"
+        }
+      ]
+    },
+    "uk": {
+      "heading": "Інші застосунки того самого розробника",
+      "note": "Посилання відкривають App Store.",
+      "cta": "Переглянути в App Store",
+      "guide": "Більше посібників та інструкцій до застосунків",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Безкоштовно · разова покупка для розблокування, без підписки"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Безкоштовно · разова покупка для розблокування, без підписки"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Безкоштовно · разова покупка для розблокування, без підписки"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Безкоштовно · разова покупка для розблокування, без підписки"
+        }
+      ]
+    },
+    "ur-PK": {
+      "heading": "اسی ڈویلپر کی مزید ایپس",
+      "note": "لنکس App Store کھولتے ہیں۔",
+      "cta": "App Store پر دیکھیں",
+      "guide": "مزید ایپ گائیڈز اور استعمال کے طریقے",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "مفت · انلاک کرنے کے لیے ایک بار کی خریداری، کوئی سبسکرپشن نہیں"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "مفت · انلاک کرنے کے لیے ایک بار کی خریداری، کوئی سبسکرپشن نہیں"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "مفت · انلاک کرنے کے لیے ایک بار کی خریداری، کوئی سبسکرپشن نہیں"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "مفت · انلاک کرنے کے لیے ایک بار کی خریداری، کوئی سبسکرپشن نہیں"
+        }
+      ]
+    },
+    "vi": {
+      "heading": "Ứng dụng khác của cùng nhà phát triển",
+      "note": "Liên kết sẽ mở App Store.",
+      "cta": "Xem trên App Store",
+      "guide": "Thêm hướng dẫn và mẹo dùng ứng dụng",
+      "cards": [
+        {
+          "app_id": "6794725568",
+          "name": "DailyMate Lite: Speak Today",
+          "detail": "Miễn phí · mua một lần để mở khóa, không đăng ký thuê bao"
+        },
+        {
+          "app_id": "6792856304",
+          "name": "Snapport Lite",
+          "detail": "Miễn phí · mua một lần để mở khóa, không đăng ký thuê bao"
+        },
+        {
+          "app_id": "6798814385",
+          "name": "OnePage PPT: AI Slide Maker",
+          "detail": "Miễn phí · mua một lần để mở khóa, không đăng ký thuê bao"
+        },
+        {
+          "app_id": "6780223070",
+          "name": "PicClear Pro",
+          "detail": "Miễn phí · mua một lần để mở khóa, không đăng ký thuê bao"
+        }
+      ]
+    }
+  }
+}
