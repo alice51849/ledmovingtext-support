@@ -12,7 +12,7 @@ from typing import Any
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SOURCE = ROOT / "source" / "translations.json"
-BASE_URL = "https://alice51849.github.io/ledmovingtext-support/"
+BASE_URL = "https://open.cait518.cc/ledmovingtext-support/"
 UPDATED = "2026-08-23"
 EMAIL = "hourstag.app@gmail.com"
 SOCIAL_IMAGE_URL = f"{BASE_URL}assets/social-card.png"
