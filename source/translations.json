@@ -73,7 +73,7 @@
           ],
           [
             "How do photo backgrounds work?",
-            "Photo backgrounds use Apple's PhotosPicker, so LED Moving Text receives only the item you select. Choose a photo in the style tools; applying a photo background is a Premium feature."
+            "Photo backgrounds use Apple's PhotosPicker, so LED Moving Text receives only the item you select. Choose a photo in the style tools; applying a photo background is a Premium feature. On Android, this data stays on your device in the same way."
           ],
           [
             "How do I export an MP4 or GIF?",
@@ -85,7 +85,7 @@
           ],
           [
             "How do I restore Premium?",
-            "On the Premium screen, choose Restore Purchase while signed in with the Apple ID used to buy it. StoreKit checks Apple's purchase record and restores an eligible purchase without charging again."
+            "On the Premium screen, choose Restore Purchase while signed in with the Apple ID used to buy it. StoreKit checks Apple's purchase record and restores an eligible purchase without charging again. On Android, this purchase is processed by Google Play instead of the App Store, and we still never receive or store payment details."
           ]
         ],
         "contact_heading": "Need more help?",
@@ -111,15 +111,15 @@
           ],
           [
             "Selected photos only",
-            "LED Moving Text uses Apple's PhotosPicker and can read only the item you explicitly select. It does not browse your full photo library."
+            "LED Moving Text uses Apple's PhotosPicker and can read only the item you explicitly select. It does not browse your full photo library. On Android, this data stays on your device in the same way."
           ],
           [
             "Exports and sharing",
-            "MP4 and GIF files are produced on your device. Nothing is shared by the app unless you choose a destination through the iOS share or save controls."
+            "MP4 and GIF files are produced on your device. Nothing is shared by the app unless you choose a destination through the iOS share or save controls. On Android, this data stays on your device in the same way."
           ],
           [
             "Purchases",
-            "A one-time Premium purchase and Restore Purchase are handled by Apple through StoreKit. Apple processes the transaction; the app receives purchase entitlement status, not your payment details."
+            "A one-time Premium purchase and Restore Purchase are handled by Apple through StoreKit. Apple processes the transaction; the app receives purchase entitlement status, not your payment details. On Android, this purchase is processed by Google Play instead of the App Store, and we still never receive or store payment details."
           ],
           [
             "Services we do not use",
@@ -206,7 +206,7 @@
           ],
           [
             "Can I use one of my photos behind the text?",
-            "Background selection uses Apple's PhotosPicker, which gives the app only the photo you pick. Select Photo in the styling tools; applying it as a background requires Premium."
+            "Background selection uses Apple's PhotosPicker, which gives the app only the photo you pick. Select Photo in the styling tools; applying it as a background requires Premium. On Android, this data stays on your device in the same way."
           ],
           [
             "How can I make an MP4 or GIF?",
@@ -218,7 +218,7 @@
           ],
           [
             "How can I recover my Premium purchase?",
-            "Open the Premium screen and select Restore Purchase using the Apple ID that made the purchase. StoreKit checks the record held by Apple and restores an eligible purchase without a second charge."
+            "Open the Premium screen and select Restore Purchase using the Apple ID that made the purchase. StoreKit checks the record held by Apple and restores an eligible purchase without a second charge. On Android, this purchase is processed by Google Play instead of the App Store, and we still never receive or store payment details."
           ]
         ],
         "contact_heading": "Still need a hand?",
@@ -244,15 +244,15 @@
           ],
           [
             "Your chosen photos",
-            "Apple's PhotosPicker lets LED Moving Text read only the item you deliberately choose, rather than browsing your whole photo library."
+            "Apple's PhotosPicker lets LED Moving Text read only the item you deliberately choose, rather than browsing your whole photo library. On Android, this data stays on your device in the same way."
           ],
           [
             "Files you export",
-            "MP4 videos and GIF files are made on the device. They leave the app only when you select a destination using the iOS save or share controls."
+            "MP4 videos and GIF files are made on the device. They leave the app only when you select a destination using the iOS save or share controls. On Android, this data stays on your device in the same way."
           ],
           [
             "Apple purchases",
-            "Apple handles the one-off Premium purchase and Restore Purchase through StoreKit. The app receives only entitlement status and does not receive your payment details."
+            "Apple handles the one-off Premium purchase and Restore Purchase through StoreKit. The app receives only entitlement status and does not receive your payment details. On Android, this purchase is processed by Google Play instead of the App Store, and we still never receive or store payment details."
           ],
           [
             "No advertising or measurement tools",
@@ -339,7 +339,7 @@
           ],
           [
             "How do I add a photo background?",
-            "The app uses Apple's PhotosPicker and receives only the picture you choose. Select a picture with the style tools; applying photo backgrounds is included with Premium."
+            "The app uses Apple's PhotosPicker and receives only the picture you choose. Select a picture with the style tools; applying photo backgrounds is included with Premium. On Android, this data stays on your device in the same way."
           ],
           [
             "How do I create an MP4 or GIF?",
@@ -351,7 +351,7 @@
           ],
           [
             "How can I restore an earlier Premium purchase?",
-            "Choose Restore Purchase on the Premium screen while using the Apple ID that originally purchased it. StoreKit verifies the Apple record and reinstates an eligible purchase without charging you again."
+            "Choose Restore Purchase on the Premium screen while using the Apple ID that originally purchased it. StoreKit verifies the Apple record and reinstates an eligible purchase without charging you again. On Android, this purchase is processed by Google Play instead of the App Store, and we still never receive or store payment details."
           ]
         ],
         "contact_heading": "Would you like more help?",
@@ -377,15 +377,15 @@
           ],
           [
             "Limited photo access",
-            "Through Apple's PhotosPicker, LED Moving Text can read only the item you intentionally select. It cannot browse the rest of your photo library."
+            "Through Apple's PhotosPicker, LED Moving Text can read only the item you intentionally select. It cannot browse the rest of your photo library. On Android, this data stays on your device in the same way."
           ],
           [
             "Media files and sharing",
-            "Your device generates each MP4 or GIF. The app shares nothing unless you pick a destination through the iOS save or share interface."
+            "Your device generates each MP4 or GIF. The app shares nothing unless you pick a destination through the iOS save or share interface. On Android, this data stays on your device in the same way."
           ],
           [
             "Transactions through Apple",
-            "The single Premium purchase and Restore Purchase use StoreKit and are processed by Apple. LED Moving Text receives entitlement status but not your card or payment information."
+            "The single Premium purchase and Restore Purchase use StoreKit and are processed by Apple. LED Moving Text receives entitlement status but not your card or payment information. On Android, this purchase is processed by Google Play instead of the App Store, and we still never receive or store payment details."
           ],
           [
             "Tools that are absent",
@@ -472,7 +472,7 @@
           ],
           [
             "How can I choose a photographic background?",
-            "Apple's PhotosPicker supplies only the image you select. Choose Photo in the style controls; applying a photographic background is part of Premium."
+            "Apple's PhotosPicker supplies only the image you select. Choose Photo in the style controls; applying a photographic background is part of Premium. On Android, this data stays on your device in the same way."
           ],
           [
             "How can I export an MP4 or GIF?",
@@ -484,7 +484,7 @@
           ],
           [
             "How do I reinstate Premium?",
-            "On the Premium screen, choose Restore Purchase using the Apple ID used for the original order. StoreKit checks Apple's record and restores an eligible purchase without a further charge."
+            "On the Premium screen, choose Restore Purchase using the Apple ID used for the original order. StoreKit checks Apple's record and restores an eligible purchase without a further charge. On Android, this purchase is processed by Google Play instead of the App Store, and we still never receive or store payment details."
           ]
         ],
         "contact_heading": "Do you need further help?",
@@ -510,15 +510,15 @@
           ],
           [
             "Only the photograph you choose",
-            "LED Moving Text uses Apple's PhotosPicker and can read only your explicit selection, rather than looking through the complete photo library."
+            "LED Moving Text uses Apple's PhotosPicker and can read only your explicit selection, rather than looking through the complete photo library. On Android, this data stays on your device in the same way."
           ],
           [
             "Export and sharing choices",
-            "The device creates MP4 and GIF files locally. Nothing is shared unless you select a destination with the iOS save or share controls."
+            "The device creates MP4 and GIF files locally. Nothing is shared unless you select a destination with the iOS save or share controls. On Android, this data stays on your device in the same way."
           ],
           [
             "Purchases handled by Apple",
-            "Apple processes the one-off Premium purchase and Restore Purchase through StoreKit. The app receives entitlement status, not your payment information."
+            "Apple processes the one-off Premium purchase and Restore Purchase through StoreKit. The app receives entitlement status, not your payment information. On Android, this purchase is processed by Google Play instead of the App Store, and we still never receive or store payment details."
           ],
           [
             "No advertising or tracking technology",
@@ -605,7 +605,7 @@
           ],
           [
             "如何使用照片背景？",
-            "照片背景透過 Apple 的 PhotosPicker 選取，因此 LED Moving Text 只能取得你指定的項目。在樣式工具選擇照片即可；套用照片背景屬於 Premium 功能。"
+            "照片背景透過 Apple 的 PhotosPicker 選取，因此 LED Moving Text 只能取得你指定的項目。在樣式工具選擇照片即可；套用照片背景屬於 Premium 功能。 在 Android 上,這些資料同樣只留在你的裝置上。"
           ],
           [
             "如何匯出 MP4 或 GIF？",
@@ -617,7 +617,7 @@
           ],
           [
             "如何回復 Premium 購買？",
-            "使用原購買所用的 Apple ID，在 Premium 畫面點選「回復購買」。StoreKit 會向 Apple 查核購買紀錄，符合資格時不會再次收費。"
+            "使用原購買所用的 Apple ID，在 Premium 畫面點選「回復購買」。StoreKit 會向 Apple 查核購買紀錄，符合資格時不會再次收費。 在 Android 上,這筆購買改由 Google Play 處理,我們一樣不會收到或儲存付款資訊。"
           ]
         ],
         "contact_heading": "仍需要協助嗎？",
@@ -643,15 +643,15 @@
           ],
           [
             "只讀取你選取的照片",
-            "LED Moving Text 使用 Apple 的 PhotosPicker，只能讀取你明確選取的項目，不會瀏覽完整照片圖庫。"
+            "LED Moving Text 使用 Apple 的 PhotosPicker，只能讀取你明確選取的項目，不會瀏覽完整照片圖庫。 在 Android 上,這些資料同樣只留在你的裝置上。"
           ],
           [
             "匯出與分享",
-            "MP4 與 GIF 都在裝置上產生。除非你透過 iOS 的儲存或分享介面自行選擇目的地，App 不會分享任何內容。"
+            "MP4 與 GIF 都在裝置上產生。除非你透過 iOS 的儲存或分享介面自行選擇目的地，App 不會分享任何內容。 在 Android 上,這些資料同樣只留在你的裝置上。"
           ],
           [
             "購買處理",
-            "一次性 Premium 購買與「回復購買」均由 Apple 透過 StoreKit 處理。App 只會收到購買權益狀態，不會取得你的付款資料。"
+            "一次性 Premium 購買與「回復購買」均由 Apple 透過 StoreKit 處理。App 只會收到購買權益狀態，不會取得你的付款資料。 在 Android 上,這筆購買改由 Google Play 處理,我們一樣不會收到或儲存付款資訊。"
           ],
           [
             "未使用的服務",
@@ -738,7 +738,7 @@
           ],
           [
             "如何使用照片背景？",
-            "照片背景通过 Apple 的 PhotosPicker 选择，因此 LED Moving Text 只能获取你指定的项目。在样式工具中选择照片即可；应用照片背景属于 Premium 功能。"
+            "照片背景通过 Apple 的 PhotosPicker 选择，因此 LED Moving Text 只能获取你指定的项目。在样式工具中选择照片即可；应用照片背景属于 Premium 功能。 在 Android 上,这些数据同样只留在你的设备上。"
           ],
           [
             "如何导出 MP4 或 GIF？",
@@ -750,7 +750,7 @@
           ],
           [
             "如何恢复 Premium 购买？",
-            "使用原购买时的 Apple ID，在 Premium 页面选择“恢复购买”。StoreKit 会向 Apple 核验购买记录，符合条件时不会再次收费。"
+            "使用原购买时的 Apple ID，在 Premium 页面选择“恢复购买”。StoreKit 会向 Apple 核验购买记录，符合条件时不会再次收费。 在 Android 上,这笔购买改由 Google Play 处理,我们同样不会收到或储存付款信息。"
           ]
         ],
         "contact_heading": "还需要帮助吗？",
@@ -776,15 +776,15 @@
           ],
           [
             "只读取你选择的照片",
-            "LED Moving Text 使用 Apple 的 PhotosPicker，只能读取你明确选择的项目，不会浏览完整照片图库。"
+            "LED Moving Text 使用 Apple 的 PhotosPicker，只能读取你明确选择的项目，不会浏览完整照片图库。 在 Android 上,这些数据同样只留在你的设备上。"
           ],
           [
             "导出和分享",
-            "MP4 与 GIF 均在设备上生成。除非你通过 iOS 的保存或分享界面自行选择目的地，App 不会分享任何内容。"
+            "MP4 与 GIF 均在设备上生成。除非你通过 iOS 的保存或分享界面自行选择目的地，App 不会分享任何内容。 在 Android 上,这些数据同样只留在你的设备上。"
           ],
           [
             "购买处理",
-            "一次性 Premium 购买和“恢复购买”均由 Apple 通过 StoreKit 处理。App 只接收购买权益状态，不会获取你的付款信息。"
+            "一次性 Premium 购买和“恢复购买”均由 Apple 通过 StoreKit 处理。App 只接收购买权益状态，不会获取你的付款信息。 在 Android 上,这笔购买改由 Google Play 处理,我们同样不会收到或储存付款信息。"
           ],
           [
             "不会使用的服务",
@@ -871,7 +871,7 @@
           ],
           [
             "写真を背景にするには？",
-            "Apple の PhotosPicker を使うため、App が受け取るのは選んだ項目だけです。スタイルツールで写真を選択してください。写真背景の適用は Premium 機能です。"
+            "Apple の PhotosPicker を使うため、App が受け取るのは選んだ項目だけです。スタイルツールで写真を選択してください。写真背景の適用は Premium 機能です。 Android でも、このデータは同じようにお使いの端末内にのみ保存されます。"
           ],
           [
             "MP4 や GIF を書き出すには？",
@@ -883,7 +883,7 @@
           ],
           [
             "Premium を復元するには？",
-            "購入時と同じ Apple ID で、Premium 画面の「購入を復元」を選びます。StoreKit が Apple の購入記録を確認し、対象の購入を追加料金なしで復元します。"
+            "購入時と同じ Apple ID で、Premium 画面の「購入を復元」を選びます。StoreKit が Apple の購入記録を確認し、対象の購入を追加料金なしで復元します。 Android では、この購入は App Store の代わりに Google Play が処理し、支払い情報を受け取ったり保存したりすることはありません。"
           ]
         ],
         "contact_heading": "解決しない場合",
@@ -909,15 +909,15 @@
           ],
           [
             "選んだ写真だけ",
-            "LED Moving Text は Apple の PhotosPicker を使用し、明示的に選んだ項目だけを読み取れます。写真ライブラリ全体を閲覧することはありません。"
+            "LED Moving Text は Apple の PhotosPicker を使用し、明示的に選んだ項目だけを読み取れます。写真ライブラリ全体を閲覧することはありません。 Android でも、このデータは同じようにお使いの端末内にのみ保存されます。"
           ],
           [
             "書き出しと共有",
-            "MP4 と GIF は端末上で作成されます。iOS の保存・共有画面で利用者が送信先を選ばない限り、App が内容を共有することはありません。"
+            "MP4 と GIF は端末上で作成されます。iOS の保存・共有画面で利用者が送信先を選ばない限り、App が内容を共有することはありません。 Android でも、このデータは同じようにお使いの端末内にのみ保存されます。"
           ],
           [
             "購入について",
-            "1回限りの Premium 購入と「購入を復元」は Apple が StoreKit を通じて処理します。App が受け取るのは購入権利の状態であり、支払い情報ではありません。"
+            "1回限りの Premium 購入と「購入を復元」は Apple が StoreKit を通じて処理します。App が受け取るのは購入権利の状態であり、支払い情報ではありません。 Android では、この購入は App Store の代わりに Google Play が処理し、支払い情報を受け取ったり保存したりすることはありません。"
           ],
           [
             "使用しないサービス",
@@ -1004,7 +1004,7 @@
           ],
           [
             "사진 배경은 어떻게 사용하나요?",
-            "Apple의 PhotosPicker를 사용하므로 LED Moving Text는 사용자가 고른 항목만 받습니다. 스타일 도구에서 사진을 선택하세요. 사진 배경 적용은 Premium 기능입니다."
+            "Apple의 PhotosPicker를 사용하므로 LED Moving Text는 사용자가 고른 항목만 받습니다. 스타일 도구에서 사진을 선택하세요. 사진 배경 적용은 Premium 기능입니다. Android에서도 이 데이터는 동일하게 기기에만 저장됩니다."
           ],
           [
             "MP4 또는 GIF는 어떻게 내보내나요?",
@@ -1016,7 +1016,7 @@
           ],
           [
             "Premium 구매는 어떻게 복원하나요?",
-            "처음 구매한 Apple ID로 로그인한 상태에서 Premium 화면의 ‘구매 복원’을 선택하세요. StoreKit이 Apple의 구매 기록을 확인하고 대상 구매를 추가 결제 없이 복원합니다."
+            "처음 구매한 Apple ID로 로그인한 상태에서 Premium 화면의 ‘구매 복원’을 선택하세요. StoreKit이 Apple의 구매 기록을 확인하고 대상 구매를 추가 결제 없이 복원합니다. Android에서는 이 구매가 App Store 대신 Google Play를 통해 처리되며, 결제 정보를 받거나 저장하지 않는 것은 동일합니다."
           ]
         ],
         "contact_heading": "도움이 더 필요한가요?",
@@ -1042,15 +1042,15 @@
           ],
           [
             "선택한 사진만 접근",
-            "LED Moving Text는 Apple의 PhotosPicker로 사용자가 명시적으로 선택한 항목만 읽습니다. 전체 사진 보관함을 둘러보지 않습니다."
+            "LED Moving Text는 Apple의 PhotosPicker로 사용자가 명시적으로 선택한 항목만 읽습니다. 전체 사진 보관함을 둘러보지 않습니다. Android에서도 이 데이터는 동일하게 기기에만 저장됩니다."
           ],
           [
             "내보내기와 공유",
-            "MP4와 GIF는 기기에서 만들어집니다. 사용자가 iOS 저장 또는 공유 화면에서 대상을 선택하지 않는 한 App이 내용을 공유하지 않습니다."
+            "MP4와 GIF는 기기에서 만들어집니다. 사용자가 iOS 저장 또는 공유 화면에서 대상을 선택하지 않는 한 App이 내용을 공유하지 않습니다. Android에서도 이 데이터는 동일하게 기기에만 저장됩니다."
           ],
           [
             "구매 처리",
-            "한 번만 결제하는 Premium 구매와 ‘구매 복원’은 Apple이 StoreKit으로 처리합니다. App은 결제 정보가 아니라 구매 권한 상태만 받습니다."
+            "한 번만 결제하는 Premium 구매와 ‘구매 복원’은 Apple이 StoreKit으로 처리합니다. App은 결제 정보가 아니라 구매 권한 상태만 받습니다. Android에서는 이 구매가 App Store 대신 Google Play를 통해 처리되며, 결제 정보를 받거나 저장하지 않는 것은 동일합니다."
           ],
           [
             "사용하지 않는 서비스",
@@ -1137,7 +1137,7 @@
           ],
           [
             "Comment utiliser une photo en arrière-plan ?",
-            "LED Moving Text passe par le PhotosPicker d’Apple et ne reçoit que l’élément choisi. Sélectionnez une photo dans les outils de style ; son application en arrière-plan est une fonction Premium."
+            "LED Moving Text passe par le PhotosPicker d’Apple et ne reçoit que l’élément choisi. Sélectionnez une photo dans les outils de style ; son application en arrière-plan est une fonction Premium. Sur Android, ces données restent de la même façon sur votre appareil."
           ],
           [
             "Comment exporter en MP4 ou GIF ?",
@@ -1149,7 +1149,7 @@
           ],
           [
             "Comment restaurer Premium ?",
-            "Sur l’écran Premium, choisissez « Restaurer l’achat » avec l’identifiant Apple utilisé lors de l’achat. StoreKit vérifie le reçu auprès d’Apple et restaure tout achat admissible sans nouveau paiement."
+            "Sur l’écran Premium, choisissez « Restaurer l’achat » avec l’identifiant Apple utilisé lors de l’achat. StoreKit vérifie le reçu auprès d’Apple et restaure tout achat admissible sans nouveau paiement. Sur Android, cet achat est traité par Google Play au lieu de l'App Store, et nous ne recevons ni ne conservons jamais vos informations de paiement."
           ]
         ],
         "contact_heading": "Besoin d’aide supplémentaire ?",
@@ -1175,15 +1175,15 @@
           ],
           [
             "Uniquement les photos choisies",
-            "Avec le PhotosPicker d’Apple, LED Moving Text ne peut lire que l’élément que vous sélectionnez explicitement et ne parcourt pas toute votre photothèque."
+            "Avec le PhotosPicker d’Apple, LED Moving Text ne peut lire que l’élément que vous sélectionnez explicitement et ne parcourt pas toute votre photothèque. Sur Android, ces données restent de la même façon sur votre appareil."
           ],
           [
             "Exports et partage",
-            "Les fichiers MP4 et GIF sont produits sur votre appareil. Aucun contenu n’est partagé tant que vous ne choisissez pas une destination avec les commandes d’enregistrement ou de partage d’iOS."
+            "Les fichiers MP4 et GIF sont produits sur votre appareil. Aucun contenu n’est partagé tant que vous ne choisissez pas une destination avec les commandes d’enregistrement ou de partage d’iOS. Sur Android, ces données restent de la même façon sur votre appareil."
           ],
           [
             "Achats",
-            "L’achat unique de Premium et la restauration sont traités par Apple au moyen de StoreKit. L’App reçoit l’état du droit d’utilisation, et non vos données de paiement."
+            "L’achat unique de Premium et la restauration sont traités par Apple au moyen de StoreKit. L’App reçoit l’état du droit d’utilisation, et non vos données de paiement. Sur Android, cet achat est traité par Google Play au lieu de l'App Store, et nous ne recevons ni ne conservons jamais vos informations de paiement."
           ],
           [
             "Services absents",
@@ -1270,7 +1270,7 @@
           ],
           [
             "Comment ajouter une photo en arrière-plan ?",
-            "Le PhotosPicker d’Apple remet à LED Moving Text uniquement l’image choisie. Sélectionnez Photo dans les outils de style ; l’application d’une photo en arrière-plan nécessite Premium."
+            "Le PhotosPicker d’Apple remet à LED Moving Text uniquement l’image choisie. Sélectionnez Photo dans les outils de style ; l’application d’une photo en arrière-plan nécessite Premium. Sur Android, ces données restent de la même façon sur votre appareil."
           ],
           [
             "Comment produire un MP4 ou un GIF ?",
@@ -1282,7 +1282,7 @@
           ],
           [
             "Comment récupérer mon achat Premium ?",
-            "Dans l’écran Premium, choisissez « Restaurer l’achat » avec l’identifiant Apple qui a servi à l’achat initial. StoreKit consulte le dossier d’Apple et rétablit tout achat admissible sans nouveau débit."
+            "Dans l’écran Premium, choisissez « Restaurer l’achat » avec l’identifiant Apple qui a servi à l’achat initial. StoreKit consulte le dossier d’Apple et rétablit tout achat admissible sans nouveau débit. Sur Android, cet achat est traité par Google Play au lieu de l'App Store, et nous ne recevons ni ne conservons jamais vos informations de paiement."
           ]
         ],
         "contact_heading": "Vous avez encore besoin d’aide ?",
@@ -1308,15 +1308,15 @@
           ],
           [
             "Seulement la photo sélectionnée",
-            "Grâce au PhotosPicker d’Apple, LED Moving Text peut lire uniquement l’élément que vous choisissez expressément, sans parcourir toute votre photothèque."
+            "Grâce au PhotosPicker d’Apple, LED Moving Text peut lire uniquement l’élément que vous choisissez expressément, sans parcourir toute votre photothèque. Sur Android, ces données restent de la même façon sur votre appareil."
           ],
           [
             "Exportation et partage",
-            "Chaque MP4 ou GIF est créé sur l’appareil. Rien n’est partagé à moins que vous choisissiez une destination dans les commandes d’enregistrement ou de partage d’iOS."
+            "Chaque MP4 ou GIF est créé sur l’appareil. Rien n’est partagé à moins que vous choisissiez une destination dans les commandes d’enregistrement ou de partage d’iOS. Sur Android, ces données restent de la même façon sur votre appareil."
           ],
           [
             "Transactions Apple",
-            "L’achat Premium unique et la restauration passent par StoreKit et sont traités par Apple. L’App reçoit seulement l’état du droit d’accès, jamais vos renseignements de paiement."
+            "L’achat Premium unique et la restauration passent par StoreKit et sont traités par Apple. L’App reçoit seulement l’état du droit d’accès, jamais vos renseignements de paiement. Sur Android, cet achat est traité par Google Play au lieu de l'App Store, et nous ne recevons ni ne conservons jamais vos informations de paiement."
           ],
           [
             "Aucun outil publicitaire ou de mesure",
@@ -1403,7 +1403,7 @@
           ],
           [
             "Wie verwende ich ein Foto als Hintergrund?",
-            "Über Apples PhotosPicker erhält LED Moving Text nur das ausgewählte Element. Wähle in den Stilwerkzeugen ein Foto; das Anwenden eines Fotohintergrunds gehört zu Premium."
+            "Über Apples PhotosPicker erhält LED Moving Text nur das ausgewählte Element. Wähle in den Stilwerkzeugen ein Foto; das Anwenden eines Fotohintergrunds gehört zu Premium. Auf Android verbleiben diese Daten auf die gleiche Weise auf deinem Gerät."
           ],
           [
             "Wie exportiere ich MP4 oder GIF?",
@@ -1415,7 +1415,7 @@
           ],
           [
             "Wie stelle ich Premium wieder her?",
-            "Wähle im Premium-Bildschirm „Kauf wiederherstellen“ und nutze die Apple-ID des ursprünglichen Kaufs. StoreKit prüft den Kaufbeleg bei Apple und stellt einen berechtigten Kauf ohne erneute Belastung wieder her."
+            "Wähle im Premium-Bildschirm „Kauf wiederherstellen“ und nutze die Apple-ID des ursprünglichen Kaufs. StoreKit prüft den Kaufbeleg bei Apple und stellt einen berechtigten Kauf ohne erneute Belastung wieder her. Auf Android wird dieser Kauf stattdessen über Google Play abgewickelt, und wir erhalten oder speichern auch dort keine Zahlungsdaten."
           ]
         ],
         "contact_heading": "Weitere Hilfe benötigt?",
@@ -1441,15 +1441,15 @@
           ],
           [
             "Nur ausgewählte Fotos",
-            "LED Moving Text kann über Apples PhotosPicker ausschließlich das ausdrücklich gewählte Element lesen und durchsucht nicht deine gesamte Fotomediathek."
+            "LED Moving Text kann über Apples PhotosPicker ausschließlich das ausdrücklich gewählte Element lesen und durchsucht nicht deine gesamte Fotomediathek. Auf Android verbleiben diese Daten auf die gleiche Weise auf deinem Gerät."
           ],
           [
             "Export und Teilen",
-            "MP4- und GIF-Dateien entstehen auf deinem Gerät. Die App teilt nichts, solange du nicht selbst über die iOS-Steuerung ein Speicher- oder Freigabeziel auswählst."
+            "MP4- und GIF-Dateien entstehen auf deinem Gerät. Die App teilt nichts, solange du nicht selbst über die iOS-Steuerung ein Speicher- oder Freigabeziel auswählst. Auf Android verbleiben diese Daten auf die gleiche Weise auf deinem Gerät."
           ],
           [
             "Käufe",
-            "Apple verarbeitet den einmaligen Premium-Kauf und die Wiederherstellung über StoreKit. Die App erhält den Berechtigungsstatus, aber keine Zahlungsdaten."
+            "Apple verarbeitet den einmaligen Premium-Kauf und die Wiederherstellung über StoreKit. Die App erhält den Berechtigungsstatus, aber keine Zahlungsdaten. Auf Android wird dieser Kauf stattdessen über Google Play abgewickelt, und wir erhalten oder speichern auch dort keine Zahlungsdaten."
           ],
           [
             "Nicht eingesetzte Dienste",
@@ -1536,7 +1536,7 @@
           ],
           [
             "¿Cómo uso una foto de fondo?",
-            "LED Moving Text utiliza el PhotosPicker de Apple y solo recibe el elemento que selecciones. Elige una foto en las herramientas de estilo; aplicarla como fondo es una función Premium."
+            "LED Moving Text utiliza el PhotosPicker de Apple y solo recibe el elemento que selecciones. Elige una foto en las herramientas de estilo; aplicarla como fondo es una función Premium. En Android, estos datos permanecen igualmente en tu dispositivo."
           ],
           [
             "¿Cómo exporto un MP4 o GIF?",
@@ -1548,7 +1548,7 @@
           ],
           [
             "¿Cómo restauro Premium?",
-            "En la pantalla Premium, elige «Restaurar compra» con el Apple ID utilizado en la compra original. StoreKit comprueba el registro de Apple y recupera una compra válida sin cobrar de nuevo."
+            "En la pantalla Premium, elige «Restaurar compra» con el Apple ID utilizado en la compra original. StoreKit comprueba el registro de Apple y recupera una compra válida sin cobrar de nuevo. En Android, esta compra la procesa Google Play en lugar de la App Store, y tampoco recibimos ni almacenamos los datos de pago."
           ]
         ],
         "contact_heading": "¿Necesitas más ayuda?",
@@ -1574,15 +1574,15 @@
           ],
           [
             "Solo las fotos elegidas",
-            "Mediante el PhotosPicker de Apple, LED Moving Text solo puede leer el elemento que seleccionas expresamente y no examina toda la fototeca."
+            "Mediante el PhotosPicker de Apple, LED Moving Text solo puede leer el elemento que seleccionas expresamente y no examina toda la fototeca. En Android, estos datos permanecen igualmente en tu dispositivo."
           ],
           [
             "Exportación y uso compartido",
-            "Los archivos MP4 y GIF se crean en el dispositivo. La App no comparte nada salvo que elijas un destino con los controles de guardar o compartir de iOS."
+            "Los archivos MP4 y GIF se crean en el dispositivo. La App no comparte nada salvo que elijas un destino con los controles de guardar o compartir de iOS. En Android, estos datos permanecen igualmente en tu dispositivo."
           ],
           [
             "Compras",
-            "Apple procesa la compra única de Premium y la restauración mediante StoreKit. La App recibe el estado del derecho de acceso, no tus datos de pago."
+            "Apple procesa la compra única de Premium y la restauración mediante StoreKit. La App recibe el estado del derecho de acceso, no tus datos de pago. En Android, esta compra la procesa Google Play en lugar de la App Store, y tampoco recibimos ni almacenamos los datos de pago."
           ],
           [
             "Servicios que no usamos",
@@ -1669,7 +1669,7 @@
           ],
           [
             "¿Cómo agrego una foto de fondo?",
-            "El PhotosPicker de Apple entrega a LED Moving Text únicamente la foto que eliges. Selecciona Foto en los controles de estilo; aplicarla como fondo requiere Premium."
+            "El PhotosPicker de Apple entrega a LED Moving Text únicamente la foto que eliges. Selecciona Foto en los controles de estilo; aplicarla como fondo requiere Premium. En Android, estos datos permanecen igualmente en tu dispositivo."
           ],
           [
             "¿Cómo creo un MP4 o GIF?",
@@ -1681,7 +1681,7 @@
           ],
           [
             "¿Cómo restauro una compra de Premium?",
-            "En la pantalla Premium, selecciona «Restaurar compra» con el Apple ID usado originalmente. StoreKit revisa el registro de Apple y restablece una compra válida sin volver a cobrarte."
+            "En la pantalla Premium, selecciona «Restaurar compra» con el Apple ID usado originalmente. StoreKit revisa el registro de Apple y restablece una compra válida sin volver a cobrarte. En Android, esta compra la procesa Google Play en lugar de la App Store, y tampoco recibimos ni almacenamos los datos de pago."
           ]
         ],
         "contact_heading": "¿Aún necesitas ayuda?",
@@ -1707,15 +1707,15 @@
           ],
           [
             "Únicamente la foto elegida",
-            "Mediante el PhotosPicker de Apple, LED Moving Text solo puede leer el elemento que seleccionas de forma explícita y no recorre toda tu fototeca."
+            "Mediante el PhotosPicker de Apple, LED Moving Text solo puede leer el elemento que seleccionas de forma explícita y no recorre toda tu fototeca. En Android, estos datos permanecen igualmente en tu dispositivo."
           ],
           [
             "Exportación y compartir",
-            "Los MP4 y GIF se producen en tu dispositivo. La App no comparte contenido a menos que elijas un destino mediante los controles de guardar o compartir de iOS."
+            "Los MP4 y GIF se producen en tu dispositivo. La App no comparte contenido a menos que elijas un destino mediante los controles de guardar o compartir de iOS. En Android, estos datos permanecen igualmente en tu dispositivo."
           ],
           [
             "Compras con Apple",
-            "Apple procesa la compra única de Premium y la restauración por medio de StoreKit. La App recibe el estado del acceso, no tus datos de pago."
+            "Apple procesa la compra única de Premium y la restauración por medio de StoreKit. La App recibe el estado del acceso, no tus datos de pago. En Android, esta compra la procesa Google Play en lugar de la App Store, y tampoco recibimos ni almacenamos los datos de pago."
           ],
           [
             "Sin publicidad ni medición",
@@ -1802,7 +1802,7 @@
           ],
           [
             "Come si usa una foto come sfondo?",
-            "LED Moving Text usa il PhotosPicker di Apple e riceve solo l’elemento che selezioni. Scegli una foto negli strumenti di stile; applicarla come sfondo è una funzione Premium."
+            "LED Moving Text usa il PhotosPicker di Apple e riceve solo l’elemento che selezioni. Scegli una foto negli strumenti di stile; applicarla come sfondo è una funzione Premium. Su Android questi dati restano allo stesso modo solo sul tuo dispositivo."
           ],
           [
             "Come esporto un MP4 o una GIF?",
@@ -1814,7 +1814,7 @@
           ],
           [
             "Come ripristino Premium?",
-            "Nella schermata Premium scegli «Ripristina acquisto» usando l’Apple ID dell’acquisto originale. StoreKit verifica il registro di Apple e ripristina un acquisto idoneo senza un nuovo addebito."
+            "Nella schermata Premium scegli «Ripristina acquisto» usando l’Apple ID dell’acquisto originale. StoreKit verifica il registro di Apple e ripristina un acquisto idoneo senza un nuovo addebito. Su Android, questo acquisto viene elaborato da Google Play anziché dall'App Store, e anche in questo caso non riceviamo né conserviamo i dati di pagamento."
           ]
         ],
         "contact_heading": "Serve ancora aiuto?",
@@ -1840,15 +1840,15 @@
           ],
           [
             "Solo le foto selezionate",
-            "Grazie al PhotosPicker di Apple, LED Moving Text può leggere esclusivamente l’elemento scelto in modo esplicito e non esplora l’intera libreria foto."
+            "Grazie al PhotosPicker di Apple, LED Moving Text può leggere esclusivamente l’elemento scelto in modo esplicito e non esplora l’intera libreria foto. Su Android questi dati restano allo stesso modo solo sul tuo dispositivo."
           ],
           [
             "Esportazione e condivisione",
-            "I file MP4 e GIF vengono prodotti sul dispositivo. L’App non condivide nulla finché non scegli una destinazione tramite i controlli di salvataggio o condivisione di iOS."
+            "I file MP4 e GIF vengono prodotti sul dispositivo. L’App non condivide nulla finché non scegli una destinazione tramite i controlli di salvataggio o condivisione di iOS. Su Android questi dati restano allo stesso modo solo sul tuo dispositivo."
           ],
           [
             "Acquisti",
-            "Apple gestisce l’acquisto Premium una tantum e il ripristino tramite StoreKit. L’App riceve lo stato del diritto di accesso, non i dati di pagamento."
+            "Apple gestisce l’acquisto Premium una tantum e il ripristino tramite StoreKit. L’App riceve lo stato del diritto di accesso, non i dati di pagamento. Su Android, questo acquisto viene elaborato da Google Play anziché dall'App Store, e anche in questo caso non riceviamo né conserviamo i dati di pagamento."
           ],
           [
             "Servizi non utilizzati",
@@ -1935,7 +1935,7 @@
           ],
           [
             "Como uso uma foto de fundo?",
-            "O LED Moving Text usa o PhotosPicker da Apple e recebe apenas o item selecionado. Escolha uma foto nas ferramentas de estilo; aplicar o fundo fotográfico é um recurso Premium."
+            "O LED Moving Text usa o PhotosPicker da Apple e recebe apenas o item selecionado. Escolha uma foto nas ferramentas de estilo; aplicar o fundo fotográfico é um recurso Premium. No Android, esses dados também permanecem apenas no seu dispositivo."
           ],
           [
             "Como exporto MP4 ou GIF?",
@@ -1947,7 +1947,7 @@
           ],
           [
             "Como restauro o Premium?",
-            "Na tela Premium, escolha “Restaurar Compra” com o Apple ID usado originalmente. O StoreKit verifica o registro da Apple e recupera uma compra qualificada sem nova cobrança."
+            "Na tela Premium, escolha “Restaurar Compra” com o Apple ID usado originalmente. O StoreKit verifica o registro da Apple e recupera uma compra qualificada sem nova cobrança. No Android, essa compra é processada pelo Google Play em vez da App Store, e também não recebemos nem armazenamos dados de pagamento."
           ]
         ],
         "contact_heading": "Ainda precisa de ajuda?",
@@ -1973,15 +1973,15 @@
           ],
           [
             "Somente as fotos escolhidas",
-            "Com o PhotosPicker da Apple, o LED Moving Text só lê o item selecionado explicitamente e não percorre toda a fototeca."
+            "Com o PhotosPicker da Apple, o LED Moving Text só lê o item selecionado explicitamente e não percorre toda a fototeca. No Android, esses dados também permanecem apenas no seu dispositivo."
           ],
           [
             "Exportação e compartilhamento",
-            "Os arquivos MP4 e GIF são produzidos no aparelho. O App não compartilha nada até você escolher um destino pelos controles de salvar ou compartilhar do iOS."
+            "Os arquivos MP4 e GIF são produzidos no aparelho. O App não compartilha nada até você escolher um destino pelos controles de salvar ou compartilhar do iOS. No Android, esses dados também permanecem apenas no seu dispositivo."
           ],
           [
             "Compras",
-            "A Apple processa a compra única do Premium e a restauração pelo StoreKit. O App recebe o status do direito de acesso, não seus dados de pagamento."
+            "A Apple processa a compra única do Premium e a restauração pelo StoreKit. O App recebe o status do direito de acesso, não seus dados de pagamento. No Android, essa compra é processada pelo Google Play em vez da App Store, e também não recebemos nem armazenamos dados de pagamento."
           ],
           [
             "Serviços que não usamos",
@@ -2068,7 +2068,7 @@
           ],
           [
             "Como utilizo uma fotografia de fundo?",
-            "O LED Moving Text usa o PhotosPicker da Apple e recebe apenas o elemento escolhido. Selecione uma fotografia nas ferramentas de estilo; aplicá-la como fundo é uma funcionalidade Premium."
+            "O LED Moving Text usa o PhotosPicker da Apple e recebe apenas o elemento escolhido. Selecione uma fotografia nas ferramentas de estilo; aplicá-la como fundo é uma funcionalidade Premium. No Android, estes dados permanecem igualmente apenas no seu dispositivo."
           ],
           [
             "Como exporto MP4 ou GIF?",
@@ -2080,7 +2080,7 @@
           ],
           [
             "Como restauro o Premium?",
-            "No ecrã Premium, escolha «Restaurar compra» com o Apple ID utilizado originalmente. O StoreKit verifica o registo da Apple e repõe uma compra elegível sem nova cobrança."
+            "No ecrã Premium, escolha «Restaurar compra» com o Apple ID utilizado originalmente. O StoreKit verifica o registo da Apple e repõe uma compra elegível sem nova cobrança. No Android, esta compra é processada pela Google Play em vez da App Store, e também não recebemos nem armazenamos dados de pagamento."
           ]
         ],
         "contact_heading": "Ainda precisa de ajuda?",
@@ -2106,15 +2106,15 @@
           ],
           [
             "Apenas as fotografias escolhidas",
-            "Com o PhotosPicker da Apple, o LED Moving Text só consegue ler o elemento selecionado explicitamente e não percorre toda a fototeca."
+            "Com o PhotosPicker da Apple, o LED Moving Text só consegue ler o elemento selecionado explicitamente e não percorre toda a fototeca. No Android, estes dados permanecem igualmente apenas no seu dispositivo."
           ],
           [
             "Exportação e partilha",
-            "Os ficheiros MP4 e GIF são produzidos no dispositivo. A App não partilha nada até que escolha um destino nos controlos de guardar ou partilhar do iOS."
+            "Os ficheiros MP4 e GIF são produzidos no dispositivo. A App não partilha nada até que escolha um destino nos controlos de guardar ou partilhar do iOS. No Android, estes dados permanecem igualmente apenas no seu dispositivo."
           ],
           [
             "Compras",
-            "A Apple processa a compra Premium única e o restauro através do StoreKit. A App recebe o estado do direito de acesso, não os seus dados de pagamento."
+            "A Apple processa a compra Premium única e o restauro através do StoreKit. A App recebe o estado do direito de acesso, não os seus dados de pagamento. No Android, esta compra é processada pela Google Play em vez da App Store, e também não recebemos nem armazenamos dados de pagamento."
           ],
           [
             "Serviços não utilizados",
@@ -2201,7 +2201,7 @@
           ],
           [
             "Hoe gebruik ik een foto als achtergrond?",
-            "Via Apple's PhotosPicker ontvangt LED Moving Text alleen het onderdeel dat je kiest. Selecteer een foto in de stijlopties; een fotoachtergrond toepassen is een Premium-functie."
+            "Via Apple's PhotosPicker ontvangt LED Moving Text alleen het onderdeel dat je kiest. Selecteer een foto in de stijlopties; een fotoachtergrond toepassen is een Premium-functie. Op Android blijven deze gegevens op dezelfde manier alleen op je toestel."
           ],
           [
             "Hoe exporteer ik MP4 of GIF?",
@@ -2213,7 +2213,7 @@
           ],
           [
             "Hoe herstel ik Premium?",
-            "Kies op het Premium-scherm ‘Herstel aankoop’ met de Apple ID van de oorspronkelijke aankoop. StoreKit controleert de registratie bij Apple en herstelt een geldige aankoop zonder opnieuw af te rekenen."
+            "Kies op het Premium-scherm ‘Herstel aankoop’ met de Apple ID van de oorspronkelijke aankoop. StoreKit controleert de registratie bij Apple en herstelt een geldige aankoop zonder opnieuw af te rekenen. Op Android wordt deze aankoop verwerkt door Google Play in plaats van de App Store, en ook dan ontvangen of bewaren we geen betaalgegevens."
           ]
         ],
         "contact_heading": "Nog hulp nodig?",
@@ -2239,15 +2239,15 @@
           ],
           [
             "Alleen gekozen foto's",
-            "Met Apple's PhotosPicker kan LED Moving Text uitsluitend het expliciet gekozen onderdeel lezen en niet door je volledige fotobibliotheek bladeren."
+            "Met Apple's PhotosPicker kan LED Moving Text uitsluitend het expliciet gekozen onderdeel lezen en niet door je volledige fotobibliotheek bladeren. Op Android blijven deze gegevens op dezelfde manier alleen op je toestel."
           ],
           [
             "Exporteren en delen",
-            "MP4- en GIF-bestanden worden op je apparaat gemaakt. De app deelt niets totdat je via de bewaar- of deelopties van iOS zelf een bestemming kiest."
+            "MP4- en GIF-bestanden worden op je apparaat gemaakt. De app deelt niets totdat je via de bewaar- of deelopties van iOS zelf een bestemming kiest. Op Android blijven deze gegevens op dezelfde manier alleen op je toestel."
           ],
           [
             "Aankopen",
-            "Apple verwerkt de eenmalige Premium-aankoop en het herstel via StoreKit. De app ontvangt de toegangsstatus, niet je betaalgegevens."
+            "Apple verwerkt de eenmalige Premium-aankoop en het herstel via StoreKit. De app ontvangt de toegangsstatus, niet je betaalgegevens. Op Android wordt deze aankoop verwerkt door Google Play in plaats van de App Store, en ook dan ontvangen of bewaren we geen betaalgegevens."
           ],
           [
             "Diensten die we niet gebruiken",
@@ -2334,7 +2334,7 @@
           ],
           [
             "Hur använder jag ett foto som bakgrund?",
-            "Via Apples PhotosPicker får LED Moving Text endast det objekt du väljer. Välj ett foto bland stilverktygen; att använda fotobakgrund är en Premium-funktion."
+            "Via Apples PhotosPicker får LED Moving Text endast det objekt du väljer. Välj ett foto bland stilverktygen; att använda fotobakgrund är en Premium-funktion. På Android stannar de här uppgifterna på samma sätt bara på din enhet."
           ],
           [
             "Hur exporterar jag MP4 eller GIF?",
@@ -2346,7 +2346,7 @@
           ],
           [
             "Hur återställer jag Premium?",
-            "Välj Återställ köp på Premium-skärmen med samma Apple ID som användes vid köpet. StoreKit kontrollerar Apples köphistorik och återställer ett giltigt köp utan ny debitering."
+            "Välj Återställ köp på Premium-skärmen med samma Apple ID som användes vid köpet. StoreKit kontrollerar Apples köphistorik och återställer ett giltigt köp utan ny debitering. På Android hanteras det här köpet av Google Play istället för App Store, och inte heller där tar vi emot eller sparar betalningsuppgifter."
           ]
         ],
         "contact_heading": "Behöver du mer hjälp?",
@@ -2372,15 +2372,15 @@
           ],
           [
             "Endast valda foton",
-            "Med Apples PhotosPicker kan LED Moving Text endast läsa det objekt du uttryckligen väljer och inte bläddra i hela bildbiblioteket."
+            "Med Apples PhotosPicker kan LED Moving Text endast läsa det objekt du uttryckligen väljer och inte bläddra i hela bildbiblioteket. På Android stannar de här uppgifterna på samma sätt bara på din enhet."
           ],
           [
             "Export och delning",
-            "MP4- och GIF-filer skapas på enheten. Appen delar inget förrän du själv väljer ett mål med iOS reglage för att spara eller dela."
+            "MP4- och GIF-filer skapas på enheten. Appen delar inget förrän du själv väljer ett mål med iOS reglage för att spara eller dela. På Android stannar de här uppgifterna på samma sätt bara på din enhet."
           ],
           [
             "Köp",
-            "Apple behandlar engångsköpet av Premium och återställning via StoreKit. Appen får behörighetsstatus, inte dina betalningsuppgifter."
+            "Apple behandlar engångsköpet av Premium och återställning via StoreKit. Appen får behörighetsstatus, inte dina betalningsuppgifter. På Android hanteras det här köpet av Google Play istället för App Store, och inte heller där tar vi emot eller sparar betalningsuppgifter."
           ],
           [
             "Tjänster som inte används",
@@ -2467,7 +2467,7 @@
           ],
           [
             "Hvordan bruger jeg et billede som baggrund?",
-            "Med Apples PhotosPicker får LED Moving Text kun det valgte element. Vælg et billede i designværktøjerne; billedbaggrund er en Premium-funktion."
+            "Med Apples PhotosPicker får LED Moving Text kun det valgte element. Vælg et billede i designværktøjerne; billedbaggrund er en Premium-funktion. På Android forbliver disse data på samme måde kun på din enhed."
           ],
           [
             "Hvordan eksporterer jeg MP4 eller GIF?",
@@ -2479,7 +2479,7 @@
           ],
           [
             "Hvordan gendanner jeg Premium?",
-            "Vælg Gendan køb på Premium-skærmen med det Apple ID, der blev brugt til købet. StoreKit kontrollerer Apples købsregister og gendanner et berettiget køb uden ny betaling."
+            "Vælg Gendan køb på Premium-skærmen med det Apple ID, der blev brugt til købet. StoreKit kontrollerer Apples købsregister og gendanner et berettiget køb uden ny betaling. På Android behandles dette køb af Google Play i stedet for App Store, og heller ikke der modtager eller gemmer vi betalingsoplysninger."
           ]
         ],
         "contact_heading": "Har du brug for mere hjælp?",
@@ -2505,15 +2505,15 @@
           ],
           [
             "Kun valgte billeder",
-            "Via Apples PhotosPicker kan LED Moving Text kun læse det element, du udtrykkeligt vælger, og ikke gennemse hele fotobiblioteket."
+            "Via Apples PhotosPicker kan LED Moving Text kun læse det element, du udtrykkeligt vælger, og ikke gennemse hele fotobiblioteket. På Android forbliver disse data på samme måde kun på din enhed."
           ],
           [
             "Eksport og deling",
-            "MP4- og GIF-filer fremstilles på enheden. Appen deler intet, før du selv vælger en destination med iOS-funktionerne til at gemme eller dele."
+            "MP4- og GIF-filer fremstilles på enheden. Appen deler intet, før du selv vælger en destination med iOS-funktionerne til at gemme eller dele. På Android forbliver disse data på samme måde kun på din enhed."
           ],
           [
             "Køb",
-            "Apple behandler det enkelte Premium-køb og gendannelse gennem StoreKit. Appen modtager adgangsstatus, ikke dine betalingsoplysninger."
+            "Apple behandler det enkelte Premium-køb og gendannelse gennem StoreKit. Appen modtager adgangsstatus, ikke dine betalingsoplysninger. På Android behandles dette køb af Google Play i stedet for App Store, og heller ikke der modtager eller gemmer vi betalingsoplysninger."
           ],
           [
             "Tjenester vi ikke bruger",
@@ -2600,7 +2600,7 @@
           ],
           [
             "Miten käytän kuvaa taustana?",
-            "Applen PhotosPicker antaa LED Moving Textille vain valitsemasi kohteen. Valitse kuva tyylityökaluista; kuvataustan käyttö on Premium-ominaisuus."
+            "Applen PhotosPicker antaa LED Moving Textille vain valitsemasi kohteen. Valitse kuva tyylityökaluista; kuvataustan käyttö on Premium-ominaisuus. Androidissa nämä tiedot pysyvät samalla tavalla vain laitteellasi."
           ],
           [
             "Miten vien MP4- tai GIF-tiedoston?",
@@ -2612,7 +2612,7 @@
           ],
           [
             "Miten palautan Premium-oston?",
-            "Valitse Premium-näkymässä Palauta ostos samalla Apple ID:llä, jota käytettiin ostamiseen. StoreKit tarkistaa Applen ostotiedon ja palauttaa oikeutetun oston ilman uutta veloitusta."
+            "Valitse Premium-näkymässä Palauta ostos samalla Apple ID:llä, jota käytettiin ostamiseen. StoreKit tarkistaa Applen ostotiedon ja palauttaa oikeutetun oston ilman uutta veloitusta. Androidissa tämän oston käsittelee Google Play App Storen sijaan, emmekä saa tai tallenna maksutietoja silloinkaan."
           ]
         ],
         "contact_heading": "Tarvitsetko vielä apua?",
@@ -2638,15 +2638,15 @@
           ],
           [
             "Vain valitut kuvat",
-            "Applen PhotosPickerin avulla LED Moving Text voi lukea vain nimenomaisesti valitsemasi kohteen eikä selaa koko kuvakirjastoa."
+            "Applen PhotosPickerin avulla LED Moving Text voi lukea vain nimenomaisesti valitsemasi kohteen eikä selaa koko kuvakirjastoa. Androidissa nämä tiedot pysyvät samalla tavalla vain laitteellasi."
           ],
           [
             "Vienti ja jakaminen",
-            "MP4- ja GIF-tiedostot luodaan laitteella. Sovellus ei jaa mitään, ellet itse valitse kohdetta iOS:n tallennus- tai jakamistoiminnoilla."
+            "MP4- ja GIF-tiedostot luodaan laitteella. Sovellus ei jaa mitään, ellet itse valitse kohdetta iOS:n tallennus- tai jakamistoiminnoilla. Androidissa nämä tiedot pysyvät samalla tavalla vain laitteellasi."
           ],
           [
             "Ostot",
-            "Apple käsittelee Premium-kertaoston ja palautuksen StoreKitin kautta. Sovellus saa käyttöoikeuden tilan, ei maksutietojasi."
+            "Apple käsittelee Premium-kertaoston ja palautuksen StoreKitin kautta. Sovellus saa käyttöoikeuden tilan, ei maksutietojasi. Androidissa tämän oston käsittelee Google Play App Storen sijaan, emmekä saa tai tallenna maksutietoja silloinkaan."
           ],
           [
             "Palvelut, joita ei käytetä",
@@ -2733,7 +2733,7 @@
           ],
           [
             "Hvordan bruker jeg et bilde som bakgrunn?",
-            "Med Apples PhotosPicker mottar LED Moving Text bare elementet du velger. Velg et bilde i stilverktøyene; bildebakgrunn er en Premium-funksjon."
+            "Med Apples PhotosPicker mottar LED Moving Text bare elementet du velger. Velg et bilde i stilverktøyene; bildebakgrunn er en Premium-funksjon. På Android forblir disse dataene på samme måte bare på enheten din."
           ],
           [
             "Hvordan eksporterer jeg MP4 eller GIF?",
@@ -2745,7 +2745,7 @@
           ],
           [
             "Hvordan gjenoppretter jeg Premium?",
-            "Velg Gjenopprett kjøp på Premium-skjermen med Apple ID-en som ble brukt ved kjøpet. StoreKit kontrollerer Apples kjøpsregister og gjenoppretter et gyldig kjøp uten ny belastning."
+            "Velg Gjenopprett kjøp på Premium-skjermen med Apple ID-en som ble brukt ved kjøpet. StoreKit kontrollerer Apples kjøpsregister og gjenoppretter et gyldig kjøp uten ny belastning. På Android behandles dette kjøpet av Google Play i stedet for App Store, og heller ikke der mottar eller lagrer vi betalingsopplysninger."
           ]
         ],
         "contact_heading": "Trenger du mer hjelp?",
@@ -2771,15 +2771,15 @@
           ],
           [
             "Bare valgte bilder",
-            "Gjennom Apples PhotosPicker kan LED Moving Text kun lese elementet du uttrykkelig velger, og ikke bla i hele bildebiblioteket."
+            "Gjennom Apples PhotosPicker kan LED Moving Text kun lese elementet du uttrykkelig velger, og ikke bla i hele bildebiblioteket. På Android forblir disse dataene på samme måte bare på enheten din."
           ],
           [
             "Eksport og deling",
-            "MP4- og GIF-filer produseres på enheten. Appen deler ingenting før du selv velger et mål med iOS-kontrollene for lagring eller deling."
+            "MP4- og GIF-filer produseres på enheten. Appen deler ingenting før du selv velger et mål med iOS-kontrollene for lagring eller deling. På Android forblir disse dataene på samme måte bare på enheten din."
           ],
           [
             "Kjøp",
-            "Apple behandler engangskjøpet av Premium og gjenoppretting gjennom StoreKit. Appen mottar tilgangsstatus, ikke betalingsopplysningene dine."
+            "Apple behandler engangskjøpet av Premium og gjenoppretting gjennom StoreKit. Appen mottar tilgangsstatus, ikke betalingsopplysningene dine. På Android behandles dette kjøpet av Google Play i stedet for App Store, og heller ikke der mottar eller lagrer vi betalingsopplysninger."
           ],
           [
             "Tjenester vi ikke bruker",
@@ -2866,7 +2866,7 @@
           ],
           [
             "Com faig servir una foto de fons?",
-            "LED Moving Text utilitza el PhotosPicker d’Apple i només rep l’element que tries. Selecciona una foto a les eines d’estil; aplicar-la com a fons és una funció Premium."
+            "LED Moving Text utilitza el PhotosPicker d’Apple i només rep l’element que tries. Selecciona una foto a les eines d’estil; aplicar-la com a fons és una funció Premium. A Android, aquestes dades es queden igualment només al teu dispositiu."
           ],
           [
             "Com exporto MP4 o GIF?",
@@ -2878,7 +2878,7 @@
           ],
           [
             "Com restauro Premium?",
-            "A la pantalla Premium, tria «Restaura la compra» amb l’Apple ID utilitzat originalment. StoreKit comprova el registre d’Apple i restaura una compra vàlida sense tornar a cobrar."
+            "A la pantalla Premium, tria «Restaura la compra» amb l’Apple ID utilitzat originalment. StoreKit comprova el registre d’Apple i restaura una compra vàlida sense tornar a cobrar. A Android, aquesta compra la processa Google Play en lloc de l'App Store, i tampoc rebem ni emmagatzemem les dades de pagament."
           ]
         ],
         "contact_heading": "Necessites més ajuda?",
@@ -2904,15 +2904,15 @@
           ],
           [
             "Només les fotos triades",
-            "Amb el PhotosPicker d’Apple, LED Moving Text només pot llegir l’element que selecciones expressament i no explora tota la fototeca."
+            "Amb el PhotosPicker d’Apple, LED Moving Text només pot llegir l’element que selecciones expressament i no explora tota la fototeca. A Android, aquestes dades es queden igualment només al teu dispositiu."
           ],
           [
             "Exportació i compartició",
-            "Els fitxers MP4 i GIF es produeixen al dispositiu. L’App no comparteix res fins que tries una destinació amb els controls de desar o compartir d’iOS."
+            "Els fitxers MP4 i GIF es produeixen al dispositiu. L’App no comparteix res fins que tries una destinació amb els controls de desar o compartir d’iOS. A Android, aquestes dades es queden igualment només al teu dispositiu."
           ],
           [
             "Compres",
-            "Apple processa la compra única de Premium i la restauració mitjançant StoreKit. L’App rep l’estat del dret d’accés, no les teves dades de pagament."
+            "Apple processa la compra única de Premium i la restauració mitjançant StoreKit. L’App rep l’estat del dret d’accés, no les teves dades de pagament. A Android, aquesta compra la processa Google Play en lloc de l'App Store, i tampoc rebem ni emmagatzemem les dades de pagament."
           ],
           [
             "Serveis que no utilitzem",
@@ -2999,7 +2999,7 @@
           ],
           [
             "Kako koristiti fotografiju kao pozadinu?",
-            "Uz Appleov PhotosPicker LED Moving Text prima samo stavku koju odaberete. Odaberite fotografiju u alatima za stil; primjena foto-pozadine značajka je Premium verzije."
+            "Uz Appleov PhotosPicker LED Moving Text prima samo stavku koju odaberete. Odaberite fotografiju u alatima za stil; primjena foto-pozadine značajka je Premium verzije. Na Androidu ti podaci na isti način ostaju samo na vašem uređaju."
           ],
           [
             "Kako izvesti MP4 ili GIF?",
@@ -3011,7 +3011,7 @@
           ],
           [
             "Kako obnoviti Premium?",
-            "Na zaslonu Premium odaberite Obnovi kupnju uz Apple ID korišten za izvornu kupnju. StoreKit provjerava Appleovu evidenciju i obnavlja prihvatljivu kupnju bez nove naplate."
+            "Na zaslonu Premium odaberite Obnovi kupnju uz Apple ID korišten za izvornu kupnju. StoreKit provjerava Appleovu evidenciju i obnavlja prihvatljivu kupnju bez nove naplate. Na Androidu tu kupnju obrađuje Google Play umjesto App Storea, i ondje isto tako ne primamo niti pohranjujemo podatke o plaćanju."
           ]
         ],
         "contact_heading": "Trebate dodatnu pomoć?",
@@ -3037,15 +3037,15 @@
           ],
           [
             "Samo odabrane fotografije",
-            "Putem Appleova PhotosPickera LED Moving Text može pročitati samo izričito odabranu stavku i ne pregledava cijelu fototeku."
+            "Putem Appleova PhotosPickera LED Moving Text može pročitati samo izričito odabranu stavku i ne pregledava cijelu fototeku. Na Androidu ti podaci na isti način ostaju samo na vašem uređaju."
           ],
           [
             "Izvoz i dijeljenje",
-            "MP4 i GIF datoteke stvaraju se na uređaju. Aplikacija ništa ne dijeli dok sami ne odaberete odredište u kontrolama za spremanje ili dijeljenje sustava iOS."
+            "MP4 i GIF datoteke stvaraju se na uređaju. Aplikacija ništa ne dijeli dok sami ne odaberete odredište u kontrolama za spremanje ili dijeljenje sustava iOS. Na Androidu ti podaci na isti način ostaju samo na vašem uređaju."
           ],
           [
             "Kupnje",
-            "Apple obrađuje jednokratnu Premium kupnju i obnovu putem StoreKita. Aplikacija prima status prava pristupa, a ne vaše podatke o plaćanju."
+            "Apple obrađuje jednokratnu Premium kupnju i obnovu putem StoreKita. Aplikacija prima status prava pristupa, a ne vaše podatke o plaćanju. Na Androidu tu kupnju obrađuje Google Play umjesto App Storea, i ondje isto tako ne primamo niti pohranjujemo podatke o plaćanju."
           ],
           [
             "Usluge koje ne koristimo",
@@ -3132,7 +3132,7 @@
           ],
           [
             "Jak použiji fotografii na pozadí?",
-            "Díky PhotosPickeru od Apple obdrží LED Moving Text pouze vybranou položku. Vyberte fotografii v nástrojích stylu; použití foto-pozadí je funkcí Premium."
+            "Díky PhotosPickeru od Apple obdrží LED Moving Text pouze vybranou položku. Vyberte fotografii v nástrojích stylu; použití foto-pozadí je funkcí Premium. V systému Android zůstávají tato data stejným způsobem pouze ve vašem zařízení."
           ],
           [
             "Jak exportuji MP4 nebo GIF?",
@@ -3144,7 +3144,7 @@
           ],
           [
             "Jak obnovím Premium?",
-            "Na obrazovce Premium vyberte Obnovit nákup s Apple ID použitým při původním nákupu. StoreKit ověří záznam u Apple a oprávněný nákup obnoví bez další platby."
+            "Na obrazovce Premium vyberte Obnovit nákup s Apple ID použitým při původním nákupu. StoreKit ověří záznam u Apple a oprávněný nákup obnoví bez další platby. V systému Android tento nákup zpracovává Google Play místo App Store, a ani tam neuchováváme žádné platební údaje."
           ]
         ],
         "contact_heading": "Potřebujete další pomoc?",
@@ -3170,15 +3170,15 @@
           ],
           [
             "Jen vybrané fotografie",
-            "Pomocí PhotosPickeru od Apple může LED Moving Text přečíst pouze výslovně vybranou položku a neprochází celou knihovnu fotografií."
+            "Pomocí PhotosPickeru od Apple může LED Moving Text přečíst pouze výslovně vybranou položku a neprochází celou knihovnu fotografií. V systému Android zůstávají tato data stejným způsobem pouze ve vašem zařízení."
           ],
           [
             "Export a sdílení",
-            "Soubory MP4 a GIF vznikají v zařízení. Aplikace nic nesdílí, dokud sami nezvolíte cíl pomocí ovládacích prvků iOS pro uložení či sdílení."
+            "Soubory MP4 a GIF vznikají v zařízení. Aplikace nic nesdílí, dokud sami nezvolíte cíl pomocí ovládacích prvků iOS pro uložení či sdílení. V systému Android zůstávají tato data stejným způsobem pouze ve vašem zařízení."
           ],
           [
             "Nákupy",
-            "Jednorázový nákup Premium a jeho obnovení zpracovává Apple prostřednictvím StoreKitu. Aplikace obdrží stav oprávnění, nikoli vaše platební údaje."
+            "Jednorázový nákup Premium a jeho obnovení zpracovává Apple prostřednictvím StoreKitu. Aplikace obdrží stav oprávnění, nikoli vaše platební údaje. V systému Android tento nákup zpracovává Google Play místo App Store, a ani tam neuchováváme žádné platební údaje."
           ],
           [
             "Nepoužívané služby",
@@ -3265,7 +3265,7 @@
           ],
           [
             "Hogyan használható fotó háttérként?",
-            "Az Apple PhotosPicker segítségével a LED Moving Text csak a kiválasztott elemet kapja meg. Válassz fotót a stíluseszközökben; a fotóháttér alkalmazása Premium-funkció."
+            "Az Apple PhotosPicker segítségével a LED Moving Text csak a kiválasztott elemet kapja meg. Válassz fotót a stíluseszközökben; a fotóháttér alkalmazása Premium-funkció. Androidon ezek az adatok ugyanúgy csak az eszközödön maradnak."
           ],
           [
             "Hogyan exportálható MP4 vagy GIF?",
@@ -3277,7 +3277,7 @@
           ],
           [
             "Hogyan állítható vissza a Premium?",
-            "A Premium képernyőn válaszd a Vásárlás visszaállítása lehetőséget az eredeti vásárláshoz használt Apple ID-val. A StoreKit ellenőrzi az Apple nyilvántartását, és újabb terhelés nélkül visszaállítja a jogosult vásárlást."
+            "A Premium képernyőn válaszd a Vásárlás visszaállítása lehetőséget az eredeti vásárláshoz használt Apple ID-val. A StoreKit ellenőrzi az Apple nyilvántartását, és újabb terhelés nélkül visszaállítja a jogosult vásárlást. Androidon ezt a vásárlást az App Store helyett a Google Play dolgozza fel, és ott sem kapjuk meg vagy tároljuk a fizetési adatokat."
           ]
         ],
         "contact_heading": "További segítségre van szükséged?",
@@ -3303,15 +3303,15 @@
           ],
           [
             "Csak a kiválasztott fotók",
-            "Az Apple PhotosPicker révén a LED Moving Text kizárólag a kifejezetten kiválasztott elemet olvashatja, a teljes fotókönyvtárat nem böngészi."
+            "Az Apple PhotosPicker révén a LED Moving Text kizárólag a kifejezetten kiválasztott elemet olvashatja, a teljes fotókönyvtárat nem böngészi. Androidon ezek az adatok ugyanúgy csak az eszközödön maradnak."
           ],
           [
             "Export és megosztás",
-            "Az MP4- és GIF-fájlok az eszközön készülnek. Az App addig nem oszt meg semmit, amíg az iOS mentési vagy megosztási vezérlőjében nem választasz célhelyet."
+            "Az MP4- és GIF-fájlok az eszközön készülnek. Az App addig nem oszt meg semmit, amíg az iOS mentési vagy megosztási vezérlőjében nem választasz célhelyet. Androidon ezek az adatok ugyanúgy csak az eszközödön maradnak."
           ],
           [
             "Vásárlások",
-            "Az egyszeri Premium-vásárlást és a visszaállítást az Apple kezeli a StoreKiten keresztül. Az App a jogosultsági állapotot kapja meg, nem a fizetési adataidat."
+            "Az egyszeri Premium-vásárlást és a visszaállítást az Apple kezeli a StoreKiten keresztül. Az App a jogosultsági állapotot kapja meg, nem a fizetési adataidat. Androidon ezt a vásárlást az App Store helyett a Google Play dolgozza fel, és ott sem kapjuk meg vagy tároljuk a fizetési adatokat."
           ],
           [
             "Nem használt szolgáltatások",
@@ -3398,7 +3398,7 @@
           ],
           [
             "Jak użyć zdjęcia jako tła?",
-            "Dzięki funkcji PhotosPicker firmy Apple LED Moving Text otrzymuje tylko wybrany element. Wybierz zdjęcie w narzędziach stylu; zastosowanie tła fotograficznego jest funkcją Premium."
+            "Dzięki funkcji PhotosPicker firmy Apple LED Moving Text otrzymuje tylko wybrany element. Wybierz zdjęcie w narzędziach stylu; zastosowanie tła fotograficznego jest funkcją Premium. Na Androidzie te dane również pozostają wyłącznie na Twoim urządzeniu."
           ],
           [
             "Jak wyeksportować MP4 lub GIF?",
@@ -3410,7 +3410,7 @@
           ],
           [
             "Jak przywrócić Premium?",
-            "Na ekranie Premium wybierz Przywróć zakup przy użyciu Apple ID z pierwotnego zakupu. StoreKit sprawdzi zapis Apple i przywróci uprawniony zakup bez ponownej opłaty."
+            "Na ekranie Premium wybierz Przywróć zakup przy użyciu Apple ID z pierwotnego zakupu. StoreKit sprawdzi zapis Apple i przywróci uprawniony zakup bez ponownej opłaty. Na Androidzie ten zakup jest obsługiwany przez Google Play zamiast App Store, i tam również nie otrzymujemy ani nie przechowujemy danych płatności."
           ]
         ],
         "contact_heading": "Potrzebujesz dalszej pomocy?",
@@ -3436,15 +3436,15 @@
           ],
           [
             "Tylko wybrane zdjęcia",
-            "Za pomocą PhotosPicker firmy Apple LED Moving Text może odczytać wyłącznie jawnie wybrany element i nie przegląda całej biblioteki zdjęć."
+            "Za pomocą PhotosPicker firmy Apple LED Moving Text może odczytać wyłącznie jawnie wybrany element i nie przegląda całej biblioteki zdjęć. Na Androidzie te dane również pozostają wyłącznie na Twoim urządzeniu."
           ],
           [
             "Eksport i udostępnianie",
-            "Pliki MP4 i GIF powstają na urządzeniu. Aplikacja niczego nie udostępnia, dopóki nie wybierzesz miejsca docelowego w systemowych opcjach zapisu lub udostępniania iOS."
+            "Pliki MP4 i GIF powstają na urządzeniu. Aplikacja niczego nie udostępnia, dopóki nie wybierzesz miejsca docelowego w systemowych opcjach zapisu lub udostępniania iOS. Na Androidzie te dane również pozostają wyłącznie na Twoim urządzeniu."
           ],
           [
             "Zakupy",
-            "Jednorazowy zakup Premium i przywracanie obsługuje Apple przez StoreKit. Aplikacja otrzymuje stan uprawnienia, a nie dane płatnicze."
+            "Jednorazowy zakup Premium i przywracanie obsługuje Apple przez StoreKit. Aplikacja otrzymuje stan uprawnienia, a nie dane płatnicze. Na Androidzie ten zakup jest obsługiwany przez Google Play zamiast App Store, i tam również nie otrzymujemy ani nie przechowujemy danych płatności."
           ],
           [
             "Usługi, których nie używamy",
@@ -3531,7 +3531,7 @@
           ],
           [
             "Cum folosesc o fotografie ca fundal?",
-            "Prin PhotosPicker de la Apple, LED Moving Text primește doar elementul ales. Selectează fotografia din instrumentele de stil; aplicarea fundalului foto este o funcție Premium."
+            "Prin PhotosPicker de la Apple, LED Moving Text primește doar elementul ales. Selectează fotografia din instrumentele de stil; aplicarea fundalului foto este o funcție Premium. Pe Android, aceste date rămân în același mod doar pe dispozitivul tău."
           ],
           [
             "Cum export MP4 sau GIF?",
@@ -3543,7 +3543,7 @@
           ],
           [
             "Cum restaurez Premium?",
-            "Pe ecranul Premium alege Restaurează achiziția folosind Apple ID-ul cumpărării inițiale. StoreKit verifică evidența Apple și restaurează o achiziție eligibilă fără o nouă plată."
+            "Pe ecranul Premium alege Restaurează achiziția folosind Apple ID-ul cumpărării inițiale. StoreKit verifică evidența Apple și restaurează o achiziție eligibilă fără o nouă plată. Pe Android, această achiziție este procesată de Google Play în loc de App Store, și nici acolo nu primim sau stocăm date de plată."
           ]
         ],
         "contact_heading": "Mai ai nevoie de ajutor?",
@@ -3569,15 +3569,15 @@
           ],
           [
             "Numai fotografiile selectate",
-            "Cu PhotosPicker de la Apple, LED Moving Text poate citi exclusiv elementul ales în mod explicit și nu răsfoiește întreaga fototecă."
+            "Cu PhotosPicker de la Apple, LED Moving Text poate citi exclusiv elementul ales în mod explicit și nu răsfoiește întreaga fototecă. Pe Android, aceste date rămân în același mod doar pe dispozitivul tău."
           ],
           [
             "Export și distribuire",
-            "Fișierele MP4 și GIF sunt produse pe dispozitiv. App-ul nu distribuie nimic până când nu alegi o destinație prin comenzile iOS de salvare sau distribuire."
+            "Fișierele MP4 și GIF sunt produse pe dispozitiv. App-ul nu distribuie nimic până când nu alegi o destinație prin comenzile iOS de salvare sau distribuire. Pe Android, aceste date rămân în același mod doar pe dispozitivul tău."
           ],
           [
             "Achiziții",
-            "Apple procesează achiziția Premium unică și restaurarea prin StoreKit. App-ul primește starea dreptului de acces, nu datele tale de plată."
+            "Apple procesează achiziția Premium unică și restaurarea prin StoreKit. App-ul primește starea dreptului de acces, nu datele tale de plată. Pe Android, această achiziție este procesată de Google Play în loc de App Store, și nici acolo nu primim sau stocăm date de plată."
           ],
           [
             "Servicii nefolosite",
@@ -3664,7 +3664,7 @@
           ],
           [
             "Ako použijem fotografiu na pozadí?",
-            "Vďaka PhotosPickeru od Apple dostane LED Moving Text iba vybranú položku. Vyberte fotografiu v nástrojoch štýlu; použitie foto-pozadia je funkcia Premium."
+            "Vďaka PhotosPickeru od Apple dostane LED Moving Text iba vybranú položku. Vyberte fotografiu v nástrojoch štýlu; použitie foto-pozadia je funkcia Premium. V systéme Android zostávajú tieto údaje rovnakým spôsobom iba vo vašom zariadení."
           ],
           [
             "Ako exportujem MP4 alebo GIF?",
@@ -3676,7 +3676,7 @@
           ],
           [
             "Ako obnovím Premium?",
-            "Na obrazovke Premium vyberte Obnoviť nákup s Apple ID použitým pri pôvodnom nákupe. StoreKit overí záznam u Apple a oprávnený nákup obnoví bez ďalšej platby."
+            "Na obrazovke Premium vyberte Obnoviť nákup s Apple ID použitým pri pôvodnom nákupe. StoreKit overí záznam u Apple a oprávnený nákup obnoví bez ďalšej platby. V systéme Android tento nákup spracúva Google Play namiesto App Store, a ani tam neuchovávame žiadne platobné údaje."
           ]
         ],
         "contact_heading": "Potrebujete ďalšiu pomoc?",
@@ -3702,15 +3702,15 @@
           ],
           [
             "Iba vybrané fotografie",
-            "Pomocou PhotosPickeru od Apple môže LED Moving Text čítať výhradne výslovne vybranú položku a neprehľadáva celú fotoknižnicu."
+            "Pomocou PhotosPickeru od Apple môže LED Moving Text čítať výhradne výslovne vybranú položku a neprehľadáva celú fotoknižnicu. V systéme Android zostávajú tieto údaje rovnakým spôsobom iba vo vašom zariadení."
           ],
           [
             "Export a zdieľanie",
-            "Súbory MP4 a GIF vznikajú v zariadení. App nič nezdieľa, kým sami nevyberiete cieľ pomocou ovládacích prvkov iOS na uloženie alebo zdieľanie."
+            "Súbory MP4 a GIF vznikajú v zariadení. App nič nezdieľa, kým sami nevyberiete cieľ pomocou ovládacích prvkov iOS na uloženie alebo zdieľanie. V systéme Android zostávajú tieto údaje rovnakým spôsobom iba vo vašom zariadení."
           ],
           [
             "Nákupy",
-            "Jednorazový nákup Premium a obnovenie spracúva Apple cez StoreKit. App dostane stav oprávnenia, nie vaše platobné údaje."
+            "Jednorazový nákup Premium a obnovenie spracúva Apple cez StoreKit. App dostane stav oprávnenia, nie vaše platobné údaje. V systéme Android tento nákup spracúva Google Play namiesto App Store, a ani tam neuchovávame žiadne platobné údaje."
           ],
           [
             "Nepoužívané služby",
@@ -3797,7 +3797,7 @@
           ],
           [
             "Kako uporabim fotografijo za ozadje?",
-            "Z Applovim PhotosPickerjem LED Moving Text prejme samo izbrani element. V orodjih za slog izberite fotografijo; uporaba fotografskega ozadja je funkcija Premium."
+            "Z Applovim PhotosPickerjem LED Moving Text prejme samo izbrani element. V orodjih za slog izberite fotografijo; uporaba fotografskega ozadja je funkcija Premium. V Androidu ti podatki na enak način ostanejo samo v vaši napravi."
           ],
           [
             "Kako izvozim MP4 ali GIF?",
@@ -3809,7 +3809,7 @@
           ],
           [
             "Kako obnovim Premium?",
-            "Na zaslonu Premium izberite Obnovi nakup z Apple ID-jem prvotnega nakupa. StoreKit preveri Applov zapis in upravičen nakup obnovi brez novega plačila."
+            "Na zaslonu Premium izberite Obnovi nakup z Apple ID-jem prvotnega nakupa. StoreKit preveri Applov zapis in upravičen nakup obnovi brez novega plačila. V Androidu ta nakup namesto App Store obdela Google Play, in tudi tam ne prejemamo ali shranjujemo podatkov o plačilu."
           ]
         ],
         "contact_heading": "Potrebujete še pomoč?",
@@ -3835,15 +3835,15 @@
           ],
           [
             "Samo izbrane fotografije",
-            "Z Applovim PhotosPickerjem lahko LED Moving Text prebere le izrecno izbrani element in ne pregleduje celotne knjižnice fotografij."
+            "Z Applovim PhotosPickerjem lahko LED Moving Text prebere le izrecno izbrani element in ne pregleduje celotne knjižnice fotografij. V Androidu ti podatki na enak način ostanejo samo v vaši napravi."
           ],
           [
             "Izvoz in deljenje",
-            "Datoteke MP4 in GIF nastanejo v napravi. App ničesar ne deli, dokler sami ne izberete cilja z možnostmi iOS za shranjevanje ali deljenje."
+            "Datoteke MP4 in GIF nastanejo v napravi. App ničesar ne deli, dokler sami ne izberete cilja z možnostmi iOS za shranjevanje ali deljenje. V Androidu ti podatki na enak način ostanejo samo v vaši napravi."
           ],
           [
             "Nakupi",
-            "Enkratni nakup Premium in obnovitev obravnava Apple prek StoreKita. App prejme stanje upravičenosti, ne vaših plačilnih podatkov."
+            "Enkratni nakup Premium in obnovitev obravnava Apple prek StoreKita. App prejme stanje upravičenosti, ne vaših plačilnih podatkov. V Androidu ta nakup namesto App Store obdela Google Play, in tudi tam ne prejemamo ali shranjujemo podatkov o plačilu."
           ],
           [
             "Storitve, ki jih ne uporabljamo",
@@ -3930,7 +3930,7 @@
           ],
           [
             "Как поставить фотографию на фон?",
-            "Благодаря PhotosPicker от Apple LED Moving Text получает только выбранный вами объект. Выберите фотографию в инструментах стиля; применение фотофона входит в Premium."
+            "Благодаря PhotosPicker от Apple LED Moving Text получает только выбранный вами объект. Выберите фотографию в инструментах стиля; применение фотофона входит в Premium. На Android эти данные точно так же остаются только на вашем устройстве."
           ],
           [
             "Как экспортировать MP4 или GIF?",
@@ -3942,7 +3942,7 @@
           ],
           [
             "Как восстановить Premium?",
-            "На экране Premium выберите «Восстановить покупку» с Apple ID, использованным при покупке. StoreKit проверит запись Apple и восстановит подходящую покупку без повторного списания."
+            "На экране Premium выберите «Восстановить покупку» с Apple ID, использованным при покупке. StoreKit проверит запись Apple и восстановит подходящую покупку без повторного списания. На Android эта покупка обрабатывается через Google Play вместо App Store, и мы точно так же не получаем и не храним данные об оплате."
           ]
         ],
         "contact_heading": "Нужна дополнительная помощь?",
@@ -3968,15 +3968,15 @@
           ],
           [
             "Только выбранные фотографии",
-            "Через PhotosPicker от Apple LED Moving Text может прочитать лишь явно выбранный объект и не просматривает всю медиатеку."
+            "Через PhotosPicker от Apple LED Moving Text может прочитать лишь явно выбранный объект и не просматривает всю медиатеку. На Android эти данные точно так же остаются только на вашем устройстве."
           ],
           [
             "Экспорт и отправка",
-            "Файлы MP4 и GIF создаются на устройстве. Приложение ничего не отправляет, пока вы сами не выберете место назначения через средства сохранения или отправки iOS."
+            "Файлы MP4 и GIF создаются на устройстве. Приложение ничего не отправляет, пока вы сами не выберете место назначения через средства сохранения или отправки iOS. На Android эти данные точно так же остаются только на вашем устройстве."
           ],
           [
             "Покупки",
-            "Однократную покупку Premium и восстановление обрабатывает Apple через StoreKit. Приложение получает статус права доступа, а не ваши платёжные данные."
+            "Однократную покупку Premium и восстановление обрабатывает Apple через StoreKit. Приложение получает статус права доступа, а не ваши платёжные данные. На Android эта покупка обрабатывается через Google Play вместо App Store, и мы точно так же не получаем и не храним данные об оплате."
           ],
           [
             "Неиспользуемые службы",
@@ -4063,7 +4063,7 @@
           ],
           [
             "Як установити фотографію на тло?",
-            "Завдяки PhotosPicker від Apple LED Moving Text отримує лише вибраний вами об’єкт. Виберіть фото в інструментах стилю; застосування фототла входить до Premium."
+            "Завдяки PhotosPicker від Apple LED Moving Text отримує лише вибраний вами об’єкт. Виберіть фото в інструментах стилю; застосування фототла входить до Premium. На Android ці дані так само залишаються лише на вашому пристрої."
           ],
           [
             "Як експортувати MP4 або GIF?",
@@ -4075,7 +4075,7 @@
           ],
           [
             "Як відновити Premium?",
-            "На екрані Premium виберіть «Відновити покупку» з Apple ID, використаним для початкової покупки. StoreKit перевірить запис Apple і відновить належну покупку без повторної оплати."
+            "На екрані Premium виберіть «Відновити покупку» з Apple ID, використаним для початкової покупки. StoreKit перевірить запис Apple і відновить належну покупку без повторної оплати. На Android цю покупку обробляє Google Play замість App Store, і там ми так само не отримуємо й не зберігаємо дані про оплату."
           ]
         ],
         "contact_heading": "Потрібна додаткова допомога?",
@@ -4101,15 +4101,15 @@
           ],
           [
             "Лише вибрані фотографії",
-            "Через PhotosPicker від Apple LED Moving Text може прочитати тільки явно вибраний об’єкт і не переглядає всю фототеку."
+            "Через PhotosPicker від Apple LED Moving Text може прочитати тільки явно вибраний об’єкт і не переглядає всю фототеку. На Android ці дані так само залишаються лише на вашому пристрої."
           ],
           [
             "Експорт і поширення",
-            "Файли MP4 та GIF створюються на пристрої. App нічого не поширює, доки ви самі не виберете місце призначення засобами збереження чи поширення iOS."
+            "Файли MP4 та GIF створюються на пристрої. App нічого не поширює, доки ви самі не виберете місце призначення засобами збереження чи поширення iOS. На Android ці дані так само залишаються лише на вашому пристрої."
           ],
           [
             "Покупки",
-            "Одноразову покупку Premium та відновлення обробляє Apple через StoreKit. App отримує статус права доступу, а не ваші платіжні дані."
+            "Одноразову покупку Premium та відновлення обробляє Apple через StoreKit. App отримує статус права доступу, а не ваші платіжні дані. На Android цю покупку обробляє Google Play замість App Store, і там ми так само не отримуємо й не зберігаємо дані про оплату."
           ],
           [
             "Служби, яких немає",
@@ -4196,7 +4196,7 @@
           ],
           [
             "Πώς χρησιμοποιώ φωτογραφία ως φόντο;",
-            "Με το PhotosPicker της Apple, το LED Moving Text λαμβάνει μόνο το στοιχείο που επιλέγετε. Διαλέξτε φωτογραφία στα εργαλεία στυλ· η εφαρμογή φωτογραφικού φόντου είναι λειτουργία Premium."
+            "Με το PhotosPicker της Apple, το LED Moving Text λαμβάνει μόνο το στοιχείο που επιλέγετε. Διαλέξτε φωτογραφία στα εργαλεία στυλ· η εφαρμογή φωτογραφικού φόντου είναι λειτουργία Premium. Στο Android, αυτά τα δεδομένα παραμένουν με τον ίδιο τρόπο μόνο στη συσκευή σας."
           ],
           [
             "Πώς εξάγω MP4 ή GIF;",
@@ -4208,7 +4208,7 @@
           ],
           [
             "Πώς επαναφέρω το Premium;",
-            "Στην οθόνη Premium επιλέξτε Επαναφορά αγοράς με το Apple ID της αρχικής αγοράς. Το StoreKit ελέγχει το αρχείο της Apple και επαναφέρει μια επιλέξιμη αγορά χωρίς νέα χρέωση."
+            "Στην οθόνη Premium επιλέξτε Επαναφορά αγοράς με το Apple ID της αρχικής αγοράς. Το StoreKit ελέγχει το αρχείο της Apple και επαναφέρει μια επιλέξιμη αγορά χωρίς νέα χρέωση. Στο Android, αυτή η αγορά επεξεργάζεται από το Google Play αντί για το App Store, και ούτε εκεί λαμβάνουμε ή αποθηκεύουμε στοιχεία πληρωμής."
           ]
         ],
         "contact_heading": "Χρειάζεστε περισσότερη βοήθεια;",
@@ -4234,15 +4234,15 @@
           ],
           [
             "Μόνο επιλεγμένες φωτογραφίες",
-            "Μέσω του PhotosPicker της Apple, το LED Moving Text μπορεί να διαβάσει μόνο το στοιχείο που επιλέγετε ρητά και δεν περιηγείται σε ολόκληρη τη βιβλιοθήκη φωτογραφιών."
+            "Μέσω του PhotosPicker της Apple, το LED Moving Text μπορεί να διαβάσει μόνο το στοιχείο που επιλέγετε ρητά και δεν περιηγείται σε ολόκληρη τη βιβλιοθήκη φωτογραφιών. Στο Android, αυτά τα δεδομένα παραμένουν με τον ίδιο τρόπο μόνο στη συσκευή σας."
           ],
           [
             "Εξαγωγή και κοινοποίηση",
-            "Τα αρχεία MP4 και GIF δημιουργούνται στη συσκευή. Η App δεν κοινοποιεί τίποτα έως ότου επιλέξετε προορισμό από τα στοιχεία αποθήκευσης ή κοινοποίησης του iOS."
+            "Τα αρχεία MP4 και GIF δημιουργούνται στη συσκευή. Η App δεν κοινοποιεί τίποτα έως ότου επιλέξετε προορισμό από τα στοιχεία αποθήκευσης ή κοινοποίησης του iOS. Στο Android, αυτά τα δεδομένα παραμένουν με τον ίδιο τρόπο μόνο στη συσκευή σας."
           ],
           [
             "Αγορές",
-            "Η Apple επεξεργάζεται την εφάπαξ αγορά Premium και την επαναφορά μέσω StoreKit. Η App λαμβάνει την κατάσταση δικαιώματος και όχι τα στοιχεία πληρωμής σας."
+            "Η Apple επεξεργάζεται την εφάπαξ αγορά Premium και την επαναφορά μέσω StoreKit. Η App λαμβάνει την κατάσταση δικαιώματος και όχι τα στοιχεία πληρωμής σας. Στο Android, αυτή η αγορά επεξεργάζεται από το Google Play αντί για το App Store, και ούτε εκεί λαμβάνουμε ή αποθηκεύουμε στοιχεία πληρωμής."
           ],
           [
             "Υπηρεσίες που δεν χρησιμοποιούμε",
@@ -4329,7 +4329,7 @@
           ],
           [
             "Fotoğrafı nasıl arka plan yaparım?",
-            "Apple'ın PhotosPicker özelliği sayesinde LED Moving Text yalnızca seçtiğiniz öğeyi alır. Stil araçlarından fotoğraf seçin; fotoğraf arka planını uygulamak Premium özelliğidir."
+            "Apple'ın PhotosPicker özelliği sayesinde LED Moving Text yalnızca seçtiğiniz öğeyi alır. Stil araçlarından fotoğraf seçin; fotoğraf arka planını uygulamak Premium özelliğidir. Android'de de bu veriler aynı şekilde yalnızca cihazınızda kalır."
           ],
           [
             "MP4 veya GIF nasıl dışa aktarılır?",
@@ -4341,7 +4341,7 @@
           ],
           [
             "Premium'yu nasıl geri yüklerim?",
-            "Premium ekranında ilk satın alımda kullanılan Apple ID ile Satın Alımı Geri Yükle'yi seçin. StoreKit Apple kaydını denetler ve uygun satın alımı yeniden ücret almadan geri yükler."
+            "Premium ekranında ilk satın alımda kullanılan Apple ID ile Satın Alımı Geri Yükle'yi seçin. StoreKit Apple kaydını denetler ve uygun satın alımı yeniden ücret almadan geri yükler. Android'de bu satın alma işlemi App Store yerine Google Play tarafından işlenir ve ödeme bilgilerinizi orada da almayız ya da saklamayız."
           ]
         ],
         "contact_heading": "Daha fazla yardım mı gerekiyor?",
@@ -4367,15 +4367,15 @@
           ],
           [
             "Yalnızca seçilen fotoğraflar",
-            "Apple'ın PhotosPicker özelliğiyle LED Moving Text sadece açıkça seçtiğiniz öğeyi okuyabilir ve fotoğraf arşivinizin tamamına göz atmaz."
+            "Apple'ın PhotosPicker özelliğiyle LED Moving Text sadece açıkça seçtiğiniz öğeyi okuyabilir ve fotoğraf arşivinizin tamamına göz atmaz. Android'de de bu veriler aynı şekilde yalnızca cihazınızda kalır."
           ],
           [
             "Dışa aktarma ve paylaşma",
-            "MP4 ve GIF dosyaları aygıtta üretilir. iOS kaydetme veya paylaşma kontrollerinden hedef seçmedikçe App hiçbir şeyi paylaşmaz."
+            "MP4 ve GIF dosyaları aygıtta üretilir. iOS kaydetme veya paylaşma kontrollerinden hedef seçmedikçe App hiçbir şeyi paylaşmaz. Android'de de bu veriler aynı şekilde yalnızca cihazınızda kalır."
           ],
           [
             "Satın alımlar",
-            "Tek seferlik Premium satın alımını ve geri yüklemeyi StoreKit üzerinden Apple işler. App ödeme bilgilerinizi değil, erişim hakkı durumunu alır."
+            "Tek seferlik Premium satın alımını ve geri yüklemeyi StoreKit üzerinden Apple işler. App ödeme bilgilerinizi değil, erişim hakkı durumunu alır. Android'de bu satın alma işlemi App Store yerine Google Play tarafından işlenir ve ödeme bilgilerinizi orada da almayız ya da saklamayız."
           ],
           [
             "Kullanmadığımız hizmetler",
@@ -4462,7 +4462,7 @@
           ],
           [
             "Bagaimana cara memakai foto sebagai latar?",
-            "Melalui PhotosPicker Apple, LED Moving Text hanya menerima item yang Anda pilih. Pilih foto di alat gaya; menerapkan latar foto adalah fitur Premium."
+            "Melalui PhotosPicker Apple, LED Moving Text hanya menerima item yang Anda pilih. Pilih foto di alat gaya; menerapkan latar foto adalah fitur Premium. Di Android, data ini tetap tersimpan hanya di perangkat Anda dengan cara yang sama."
           ],
           [
             "Bagaimana cara mengekspor MP4 atau GIF?",
@@ -4474,7 +4474,7 @@
           ],
           [
             "Bagaimana cara memulihkan Premium?",
-            "Di layar Premium, pilih Pulihkan Pembelian dengan Apple ID yang digunakan saat membeli. StoreKit memeriksa catatan Apple dan memulihkan pembelian yang memenuhi syarat tanpa biaya lagi."
+            "Di layar Premium, pilih Pulihkan Pembelian dengan Apple ID yang digunakan saat membeli. StoreKit memeriksa catatan Apple dan memulihkan pembelian yang memenuhi syarat tanpa biaya lagi. Di Android, pembelian ini diproses oleh Google Play, bukan App Store, dan kami tetap tidak pernah menerima atau menyimpan data pembayaran."
           ]
         ],
         "contact_heading": "Masih perlu bantuan?",
@@ -4500,15 +4500,15 @@
           ],
           [
             "Hanya foto yang dipilih",
-            "Dengan PhotosPicker Apple, LED Moving Text hanya dapat membaca item yang Anda pilih secara jelas dan tidak menelusuri seluruh perpustakaan foto."
+            "Dengan PhotosPicker Apple, LED Moving Text hanya dapat membaca item yang Anda pilih secara jelas dan tidak menelusuri seluruh perpustakaan foto. Di Android, data ini tetap tersimpan hanya di perangkat Anda dengan cara yang sama."
           ],
           [
             "Ekspor dan berbagi",
-            "File MP4 dan GIF dibuat di perangkat. App tidak membagikan apa pun sampai Anda memilih tujuan melalui kontrol simpan atau bagikan iOS."
+            "File MP4 dan GIF dibuat di perangkat. App tidak membagikan apa pun sampai Anda memilih tujuan melalui kontrol simpan atau bagikan iOS. Di Android, data ini tetap tersimpan hanya di perangkat Anda dengan cara yang sama."
           ],
           [
             "Pembelian",
-            "Apple memproses pembelian Premium satu kali dan pemulihan melalui StoreKit. App menerima status hak akses, bukan data pembayaran Anda."
+            "Apple memproses pembelian Premium satu kali dan pemulihan melalui StoreKit. App menerima status hak akses, bukan data pembayaran Anda. Di Android, pembelian ini diproses oleh Google Play, bukan App Store, dan kami tetap tidak pernah menerima atau menyimpan data pembayaran."
           ],
           [
             "Layanan yang tidak digunakan",
@@ -4595,7 +4595,7 @@
           ],
           [
             "Bagaimanakah saya menggunakan foto sebagai latar?",
-            "Melalui PhotosPicker Apple, LED Moving Text hanya menerima item yang dipilih. Pilih foto dalam alat gaya; menggunakan latar foto ialah ciri Premium."
+            "Melalui PhotosPicker Apple, LED Moving Text hanya menerima item yang dipilih. Pilih foto dalam alat gaya; menggunakan latar foto ialah ciri Premium. Di Android, data ini kekal tersimpan hanya pada peranti anda dengan cara yang sama."
           ],
           [
             "Bagaimanakah saya mengeksport MP4 atau GIF?",
@@ -4607,7 +4607,7 @@
           ],
           [
             "Bagaimanakah saya memulihkan Premium?",
-            "Pada skrin Premium, pilih Pulihkan Pembelian dengan Apple ID yang digunakan dahulu. StoreKit menyemak rekod Apple dan memulihkan pembelian yang layak tanpa caj baharu."
+            "Pada skrin Premium, pilih Pulihkan Pembelian dengan Apple ID yang digunakan dahulu. StoreKit menyemak rekod Apple dan memulihkan pembelian yang layak tanpa caj baharu. Di Android, pembelian ini diproses oleh Google Play dan bukannya App Store, dan kami tetap tidak menerima atau menyimpan butiran pembayaran."
           ]
         ],
         "contact_heading": "Masih perlukan bantuan?",
@@ -4633,15 +4633,15 @@
           ],
           [
             "Hanya foto yang dipilih",
-            "Dengan PhotosPicker Apple, LED Moving Text hanya boleh membaca item yang anda pilih dengan jelas dan tidak menyemak seluruh pustaka foto."
+            "Dengan PhotosPicker Apple, LED Moving Text hanya boleh membaca item yang anda pilih dengan jelas dan tidak menyemak seluruh pustaka foto. Di Android, data ini kekal tersimpan hanya pada peranti anda dengan cara yang sama."
           ],
           [
             "Eksport dan perkongsian",
-            "Fail MP4 dan GIF dihasilkan pada peranti. App tidak berkongsi apa-apa sehingga anda memilih destinasi melalui kawalan simpan atau kongsi iOS."
+            "Fail MP4 dan GIF dihasilkan pada peranti. App tidak berkongsi apa-apa sehingga anda memilih destinasi melalui kawalan simpan atau kongsi iOS. Di Android, data ini kekal tersimpan hanya pada peranti anda dengan cara yang sama."
           ],
           [
             "Pembelian",
-            "Apple memproses pembelian Premium sekali sahaja dan pemulihan melalui StoreKit. App menerima status kelayakan, bukan butiran pembayaran anda."
+            "Apple memproses pembelian Premium sekali sahaja dan pemulihan melalui StoreKit. App menerima status kelayakan, bukan butiran pembayaran anda. Di Android, pembelian ini diproses oleh Google Play dan bukannya App Store, dan kami tetap tidak menerima atau menyimpan butiran pembayaran."
           ],
           [
             "Perkhidmatan yang tidak digunakan",
@@ -4728,7 +4728,7 @@
           ],
           [
             "Làm thế nào để dùng ảnh làm nền?",
-            "Nhờ PhotosPicker của Apple, LED Moving Text chỉ nhận mục bạn chọn. Chọn ảnh trong công cụ kiểu; áp dụng nền ảnh là tính năng Premium."
+            "Nhờ PhotosPicker của Apple, LED Moving Text chỉ nhận mục bạn chọn. Chọn ảnh trong công cụ kiểu; áp dụng nền ảnh là tính năng Premium. Trên Android, dữ liệu này cũng chỉ được lưu trên thiết bị của bạn theo cách tương tự."
           ],
           [
             "Làm thế nào để xuất MP4 hoặc GIF?",
@@ -4740,7 +4740,7 @@
           ],
           [
             "Làm thế nào để khôi phục Premium?",
-            "Trên màn hình Premium, chọn Khôi phục mục mua bằng Apple ID đã dùng lúc mua. StoreKit kiểm tra hồ sơ của Apple và khôi phục giao dịch hợp lệ mà không tính phí lại."
+            "Trên màn hình Premium, chọn Khôi phục mục mua bằng Apple ID đã dùng lúc mua. StoreKit kiểm tra hồ sơ của Apple và khôi phục giao dịch hợp lệ mà không tính phí lại. Trên Android, giao dịch mua này do Google Play xử lý thay vì App Store, và chúng tôi cũng không bao giờ nhận hay lưu trữ thông tin thanh toán."
           ]
         ],
         "contact_heading": "Bạn vẫn cần trợ giúp?",
@@ -4766,15 +4766,15 @@
           ],
           [
             "Chỉ ảnh đã chọn",
-            "Với PhotosPicker của Apple, LED Moving Text chỉ có thể đọc mục bạn chủ động chọn và không duyệt toàn bộ thư viện ảnh."
+            "Với PhotosPicker của Apple, LED Moving Text chỉ có thể đọc mục bạn chủ động chọn và không duyệt toàn bộ thư viện ảnh. Trên Android, dữ liệu này cũng chỉ được lưu trên thiết bị của bạn theo cách tương tự."
           ],
           [
             "Xuất và chia sẻ",
-            "Tệp MP4 và GIF được tạo trên thiết bị. App không chia sẻ gì cho đến khi bạn chọn đích bằng công cụ lưu hoặc chia sẻ của iOS."
+            "Tệp MP4 và GIF được tạo trên thiết bị. App không chia sẻ gì cho đến khi bạn chọn đích bằng công cụ lưu hoặc chia sẻ của iOS. Trên Android, dữ liệu này cũng chỉ được lưu trên thiết bị của bạn theo cách tương tự."
           ],
           [
             "Mục mua",
-            "Apple xử lý lần mua Premium duy nhất và việc khôi phục qua StoreKit. App nhận trạng thái quyền sử dụng, không nhận thông tin thanh toán của bạn."
+            "Apple xử lý lần mua Premium duy nhất và việc khôi phục qua StoreKit. App nhận trạng thái quyền sử dụng, không nhận thông tin thanh toán của bạn. Trên Android, giao dịch mua này do Google Play xử lý thay vì App Store, và chúng tôi cũng không bao giờ nhận hay lưu trữ thông tin thanh toán."
           ],
           [
             "Những dịch vụ không dùng",
@@ -4861,7 +4861,7 @@
           ],
           [
             "ใช้รูปภาพเป็นพื้นหลังอย่างไร?",
-            "PhotosPicker ของ Apple ทำให้ LED Moving Text ได้รับเฉพาะรายการที่คุณเลือก เลือกรูปในเครื่องมือสไตล์ การใช้พื้นหลังรูปภาพเป็นคุณสมบัติ Premium"
+            "PhotosPicker ของ Apple ทำให้ LED Moving Text ได้รับเฉพาะรายการที่คุณเลือก เลือกรูปในเครื่องมือสไตล์ การใช้พื้นหลังรูปภาพเป็นคุณสมบัติ Premium บน Android ข้อมูลนี้จะยังคงอยู่บนอุปกรณ์ของคุณในลักษณะเดียวกัน"
           ],
           [
             "ส่งออก MP4 หรือ GIF อย่างไร?",
@@ -4873,7 +4873,7 @@
           ],
           [
             "กู้คืน Premium อย่างไร?",
-            "ในหน้าจอ Premium เลือกกู้คืนการซื้อโดยใช้ Apple ID เดิม StoreKit จะตรวจสอบประวัติของ Apple และกู้คืนรายการที่มีสิทธิ์โดยไม่เรียกเก็บเงินอีก"
+            "ในหน้าจอ Premium เลือกกู้คืนการซื้อโดยใช้ Apple ID เดิม StoreKit จะตรวจสอบประวัติของ Apple และกู้คืนรายการที่มีสิทธิ์โดยไม่เรียกเก็บเงินอีก บน Android การซื้อนี้จะประมวลผลโดย Google Play แทนที่จะเป็น App Store และเราก็จะไม่ได้รับหรือจัดเก็บข้อมูลการชำระเงินเช่นกัน"
           ]
         ],
         "contact_heading": "ยังต้องการความช่วยเหลือไหม?",
@@ -4899,15 +4899,15 @@
           ],
           [
             "เฉพาะรูปที่เลือก",
-            "ด้วย PhotosPicker ของ Apple ทำให้ LED Moving Text อ่านได้เฉพาะรายการที่คุณเลือกอย่างชัดเจน และไม่เรียกดูคลังรูปทั้งหมด"
+            "ด้วย PhotosPicker ของ Apple ทำให้ LED Moving Text อ่านได้เฉพาะรายการที่คุณเลือกอย่างชัดเจน และไม่เรียกดูคลังรูปทั้งหมด บน Android ข้อมูลนี้จะยังคงอยู่บนอุปกรณ์ของคุณในลักษณะเดียวกัน"
           ],
           [
             "การส่งออกและแชร์",
-            "ไฟล์ MP4 และ GIF สร้างบนอุปกรณ์ App จะไม่แชร์สิ่งใดจนกว่าคุณจะเลือกปลายทางผ่านเครื่องมือบันทึกหรือแชร์ของ iOS"
+            "ไฟล์ MP4 และ GIF สร้างบนอุปกรณ์ App จะไม่แชร์สิ่งใดจนกว่าคุณจะเลือกปลายทางผ่านเครื่องมือบันทึกหรือแชร์ของ iOS บน Android ข้อมูลนี้จะยังคงอยู่บนอุปกรณ์ของคุณในลักษณะเดียวกัน"
           ],
           [
             "การซื้อ",
-            "Apple ประมวลผลการซื้อ Premium ครั้งเดียวและการกู้คืนผ่าน StoreKit App ได้รับเพียงสถานะสิทธิ์ ไม่ได้รับข้อมูลการชำระเงิน"
+            "Apple ประมวลผลการซื้อ Premium ครั้งเดียวและการกู้คืนผ่าน StoreKit App ได้รับเพียงสถานะสิทธิ์ ไม่ได้รับข้อมูลการชำระเงิน บน Android การซื้อนี้จะประมวลผลโดย Google Play แทนที่จะเป็น App Store และเราก็จะไม่ได้รับหรือจัดเก็บข้อมูลการชำระเงินเช่นกัน"
           ],
           [
             "บริการที่เราไม่ใช้",
@@ -4994,7 +4994,7 @@
           ],
           [
             "كيف أستخدم صورة كخلفية؟",
-            "باستخدام PhotosPicker من Apple، لا يحصل LED Moving Text إلا على العنصر الذي تختاره. حدد صورة من أدوات النمط؛ تطبيق خلفية صورة من ميزات Premium."
+            "باستخدام PhotosPicker من Apple، لا يحصل LED Moving Text إلا على العنصر الذي تختاره. حدد صورة من أدوات النمط؛ تطبيق خلفية صورة من ميزات Premium. على أندرويد، تبقى هذه البيانات على جهازك بنفس الطريقة."
           ],
           [
             "كيف أصدّر MP4 أو GIF؟",
@@ -5006,7 +5006,7 @@
           ],
           [
             "كيف أستعيد Premium؟",
-            "من شاشة Premium اختر «استعادة الشراء» باستخدام Apple ID الذي أُجري به الشراء الأصلي. يتحقق StoreKit من سجل Apple ويستعيد عملية الشراء المؤهلة من دون تحصيل رسوم جديدة."
+            "من شاشة Premium اختر «استعادة الشراء» باستخدام Apple ID الذي أُجري به الشراء الأصلي. يتحقق StoreKit من سجل Apple ويستعيد عملية الشراء المؤهلة من دون تحصيل رسوم جديدة. على أندرويد، تتم معالجة عملية الشراء هذه عبر Google Play بدلاً من App Store، ولا نتلقى أو نخزّن بيانات الدفع هناك أيضًا."
           ]
         ],
         "contact_heading": "هل تحتاج إلى مزيد من المساعدة؟",
@@ -5032,15 +5032,15 @@
           ],
           [
             "الصور التي تختارها فقط",
-            "يتيح PhotosPicker من Apple لتطبيق LED Moving Text قراءة العنصر الذي تحدده صراحة فقط، ولا يتصفح مكتبة الصور كاملة."
+            "يتيح PhotosPicker من Apple لتطبيق LED Moving Text قراءة العنصر الذي تحدده صراحة فقط، ولا يتصفح مكتبة الصور كاملة. على أندرويد، تبقى هذه البيانات على جهازك بنفس الطريقة."
           ],
           [
             "التصدير والمشاركة",
-            "تُنشأ ملفات MP4 وGIF على الجهاز. لا يشارك التطبيق أي شيء ما لم تختر أنت وجهة عبر أدوات الحفظ أو المشاركة في iOS."
+            "تُنشأ ملفات MP4 وGIF على الجهاز. لا يشارك التطبيق أي شيء ما لم تختر أنت وجهة عبر أدوات الحفظ أو المشاركة في iOS. على أندرويد، تبقى هذه البيانات على جهازك بنفس الطريقة."
           ],
           [
             "عمليات الشراء",
-            "تعالج Apple شراء Premium لمرة واحدة والاستعادة عبر StoreKit. يستقبل التطبيق حالة الاستحقاق فقط، ولا يستقبل تفاصيل الدفع."
+            "تعالج Apple شراء Premium لمرة واحدة والاستعادة عبر StoreKit. يستقبل التطبيق حالة الاستحقاق فقط، ولا يستقبل تفاصيل الدفع. على أندرويد، تتم معالجة عملية الشراء هذه عبر Google Play بدلاً من App Store، ولا نتلقى أو نخزّن بيانات الدفع هناك أيضًا."
           ],
           [
             "خدمات لا نستخدمها",
@@ -5127,7 +5127,7 @@
           ],
           [
             "איך משתמשים בתמונה כרקע?",
-            "באמצעות PhotosPicker של Apple, ‏LED Moving Text מקבל רק את הפריט שבחרתם. בחרו תמונה בכלי העיצוב; החלת רקע תמונה היא תכונת Premium."
+            "באמצעות PhotosPicker של Apple, ‏LED Moving Text מקבל רק את הפריט שבחרתם. בחרו תמונה בכלי העיצוב; החלת רקע תמונה היא תכונת Premium. באנדרואיד, הנתונים האלה נשארים באותו אופן רק במכשיר שלך."
           ],
           [
             "איך מייצאים MP4 או GIF?",
@@ -5139,7 +5139,7 @@
           ],
           [
             "איך משחזרים Premium?",
-            "במסך Premium בחרו ״שחזור רכישה״ עם ה-Apple ID ששימש לרכישה המקורית. StoreKit בודק את הרשומה של Apple ומשחזר רכישה זכאית ללא חיוב נוסף."
+            "במסך Premium בחרו ״שחזור רכישה״ עם ה-Apple ID ששימש לרכישה המקורית. StoreKit בודק את הרשומה של Apple ומשחזר רכישה זכאית ללא חיוב נוסף. באנדרואיד, הרכישה הזו מעובדת על ידי Google Play במקום App Store, וגם שם אנחנו לא מקבלים או שומרים פרטי תשלום."
           ]
         ],
         "contact_heading": "דרושה עזרה נוספת?",
@@ -5165,15 +5165,15 @@
           ],
           [
             "רק התמונות שנבחרו",
-            "באמצעות PhotosPicker של Apple, ‏LED Moving Text יכול לקרוא רק את הפריט שנבחר במפורש ואינו מעיין בכל ספריית התמונות."
+            "באמצעות PhotosPicker של Apple, ‏LED Moving Text יכול לקרוא רק את הפריט שנבחר במפורש ואינו מעיין בכל ספריית התמונות. באנדרואיד, הנתונים האלה נשארים באותו אופן רק במכשיר שלך."
           ],
           [
             "ייצוא ושיתוף",
-            "קובצי MP4 ו-GIF נוצרים במכשיר. ה-App אינו משתף דבר עד שאתם בוחרים יעד דרך פקדי השמירה או השיתוף של iOS."
+            "קובצי MP4 ו-GIF נוצרים במכשיר. ה-App אינו משתף דבר עד שאתם בוחרים יעד דרך פקדי השמירה או השיתוף של iOS. באנדרואיד, הנתונים האלה נשארים באותו אופן רק במכשיר שלך."
           ],
           [
             "רכישות",
-            "Apple מטפלת ברכישה החד-פעמית של Premium ובשחזור דרך StoreKit. ה-App מקבל את מצב הזכאות ולא את פרטי התשלום שלכם."
+            "Apple מטפלת ברכישה החד-פעמית של Premium ובשחזור דרך StoreKit. ה-App מקבל את מצב הזכאות ולא את פרטי התשלום שלכם. באנדרואיד, הרכישה הזו מעובדת על ידי Google Play במקום App Store, וגם שם אנחנו לא מקבלים או שומרים פרטי תשלום."
           ],
           [
             "שירותים שאינם בשימוש",
@@ -5260,7 +5260,7 @@
           ],
           [
             "تصویر کو پس منظر کیسے بناؤں؟",
-            "Apple کے PhotosPicker کے ذریعے LED Moving Text کو صرف آپ کی منتخب کردہ چیز ملتی ہے۔ انداز کے ٹولز میں تصویر چنیں؛ تصویر کا پس منظر لگانا Premium خصوصیت ہے۔"
+            "Apple کے PhotosPicker کے ذریعے LED Moving Text کو صرف آپ کی منتخب کردہ چیز ملتی ہے۔ انداز کے ٹولز میں تصویر چنیں؛ تصویر کا پس منظر لگانا Premium خصوصیت ہے۔ Android پر بھی یہ ڈیٹا اسی طرح صرف آپ کے ڈیوائس پر رہتا ہے۔"
           ],
           [
             "MP4 یا GIF کیسے برآمد کروں؟",
@@ -5272,7 +5272,7 @@
           ],
           [
             "Premium کیسے بحال کروں؟",
-            "Premium اسکرین پر اسی Apple ID کے ساتھ خریداری بحال کریں منتخب کریں جو اصل خریداری میں استعمال ہوئی تھی۔ StoreKit، Apple کا ریکارڈ دیکھ کر اہل خریداری کو دوبارہ فیس لیے بغیر بحال کرتا ہے۔"
+            "Premium اسکرین پر اسی Apple ID کے ساتھ خریداری بحال کریں منتخب کریں جو اصل خریداری میں استعمال ہوئی تھی۔ StoreKit، Apple کا ریکارڈ دیکھ کر اہل خریداری کو دوبارہ فیس لیے بغیر بحال کرتا ہے۔ Android پر، یہ خریداری App Store کے بجائے Google Play کے ذریعے پراسیس ہوتی ہے، اور وہاں بھی ہم ادائیگی کی معلومات وصول یا محفوظ نہیں کرتے۔"
           ]
         ],
         "contact_heading": "مزید مدد درکار ہے؟",
@@ -5298,15 +5298,15 @@
           ],
           [
             "صرف منتخب تصاویر",
-            "Apple کے PhotosPicker سے LED Moving Text صرف وہ چیز پڑھ سکتا ہے جسے آپ واضح طور پر منتخب کریں، پوری فوٹو لائبریری نہیں دیکھتا۔"
+            "Apple کے PhotosPicker سے LED Moving Text صرف وہ چیز پڑھ سکتا ہے جسے آپ واضح طور پر منتخب کریں، پوری فوٹو لائبریری نہیں دیکھتا۔ Android پر بھی یہ ڈیٹا اسی طرح صرف آپ کے ڈیوائس پر رہتا ہے۔"
           ],
           [
             "برآمد اور اشتراک",
-            "MP4 اور GIF فائلیں آلے پر بنتی ہیں۔ جب تک آپ iOS کے محفوظ یا شیئر کنٹرول سے منزل نہ چنیں، App کچھ شیئر نہیں کرتی۔"
+            "MP4 اور GIF فائلیں آلے پر بنتی ہیں۔ جب تک آپ iOS کے محفوظ یا شیئر کنٹرول سے منزل نہ چنیں، App کچھ شیئر نہیں کرتی۔ Android پر بھی یہ ڈیٹا اسی طرح صرف آپ کے ڈیوائس پر رہتا ہے۔"
           ],
           [
             "خریداریاں",
-            "Premium کی ایک بار خریداری اور بحالی Apple، StoreKit کے ذریعے سنبھالتا ہے۔ App کو صرف حقِ استعمال کی حالت ملتی ہے، آپ کی ادائیگی کی تفصیل نہیں۔"
+            "Premium کی ایک بار خریداری اور بحالی Apple، StoreKit کے ذریعے سنبھالتا ہے۔ App کو صرف حقِ استعمال کی حالت ملتی ہے، آپ کی ادائیگی کی تفصیل نہیں۔ Android پر، یہ خریداری App Store کے بجائے Google Play کے ذریعے پراسیس ہوتی ہے، اور وہاں بھی ہم ادائیگی کی معلومات وصول یا محفوظ نہیں کرتے۔"
           ],
           [
             "وہ خدمات جو استعمال نہیں ہوتیں",
@@ -5393,7 +5393,7 @@
           ],
           [
             "फ़ोटो को बैकग्राउंड कैसे बनाऊँ?",
-            "Apple के PhotosPicker के कारण LED Moving Text को केवल आपका चुना हुआ आइटम मिलता है। शैली टूल में फ़ोटो चुनें; फ़ोटो बैकग्राउंड लगाना Premium सुविधा है।"
+            "Apple के PhotosPicker के कारण LED Moving Text को केवल आपका चुना हुआ आइटम मिलता है। शैली टूल में फ़ोटो चुनें; फ़ोटो बैकग्राउंड लगाना Premium सुविधा है। Android पर भी यह डेटा उसी तरह केवल आपकी डिवाइस पर रहता है।"
           ],
           [
             "MP4 या GIF कैसे एक्सपोर्ट करूँ?",
@@ -5405,7 +5405,7 @@
           ],
           [
             "Premium कैसे रीस्टोर करूँ?",
-            "Premium स्क्रीन पर उसी Apple ID से ‘खरीदारी रीस्टोर करें’ चुनें जिससे मूल खरीद हुई थी। StoreKit, Apple का रिकॉर्ड जाँचकर योग्य खरीद को बिना दोबारा शुल्क के बहाल करता है।"
+            "Premium स्क्रीन पर उसी Apple ID से ‘खरीदारी रीस्टोर करें’ चुनें जिससे मूल खरीद हुई थी। StoreKit, Apple का रिकॉर्ड जाँचकर योग्य खरीद को बिना दोबारा शुल्क के बहाल करता है। Android पर, यह खरीदारी App Store की जगह Google Play द्वारा प्रोसेस की जाती है, और वहाँ भी हमें भुगतान की जानकारी न तो मिलती है और न ही हम उसे सुरक्षित रखते हैं।"
           ]
         ],
         "contact_heading": "और मदद चाहिए?",
@@ -5431,15 +5431,15 @@
           ],
           [
             "केवल चुनी हुई फ़ोटो",
-            "Apple के PhotosPicker से LED Moving Text केवल साफ़ तौर पर चुना गया आइटम पढ़ सकता है और पूरी फ़ोटो लाइब्रेरी नहीं देखता।"
+            "Apple के PhotosPicker से LED Moving Text केवल साफ़ तौर पर चुना गया आइटम पढ़ सकता है और पूरी फ़ोटो लाइब्रेरी नहीं देखता। Android पर भी यह डेटा उसी तरह केवल आपकी डिवाइस पर रहता है।"
           ],
           [
             "एक्सपोर्ट और साझा करना",
-            "MP4 और GIF फ़ाइलें डिवाइस पर बनती हैं। जब तक आप iOS के सेव या शेयर कंट्रोल से स्थान नहीं चुनते, App कुछ साझा नहीं करता।"
+            "MP4 और GIF फ़ाइलें डिवाइस पर बनती हैं। जब तक आप iOS के सेव या शेयर कंट्रोल से स्थान नहीं चुनते, App कुछ साझा नहीं करता। Android पर भी यह डेटा उसी तरह केवल आपकी डिवाइस पर रहता है।"
           ],
           [
             "खरीदारियाँ",
-            "Premium की एक बार की खरीद और रीस्टोर को Apple, StoreKit के ज़रिए संभालता है। App को केवल अधिकार की स्थिति मिलती है, आपकी भुगतान जानकारी नहीं।"
+            "Premium की एक बार की खरीद और रीस्टोर को Apple, StoreKit के ज़रिए संभालता है। App को केवल अधिकार की स्थिति मिलती है, आपकी भुगतान जानकारी नहीं। Android पर, यह खरीदारी App Store की जगह Google Play द्वारा प्रोसेस की जाती है, और वहाँ भी हमें भुगतान की जानकारी न तो मिलती है और न ही हम उसे सुरक्षित रखते हैं।"
           ],
           [
             "जिन सेवाओं का उपयोग नहीं होता",
@@ -5526,7 +5526,7 @@
           ],
           [
             "ছবি ব্যাকগ্রাউন্ড হিসেবে ব্যবহার করব কীভাবে?",
-            "Apple-এর PhotosPicker ব্যবহারের ফলে LED Moving Text শুধু আপনার বেছে নেওয়া আইটেমটি পায়। স্টাইল টুলে ছবি বেছে নিন; ছবির ব্যাকগ্রাউন্ড প্রয়োগ করা Premium সুবিধা।"
+            "Apple-এর PhotosPicker ব্যবহারের ফলে LED Moving Text শুধু আপনার বেছে নেওয়া আইটেমটি পায়। স্টাইল টুলে ছবি বেছে নিন; ছবির ব্যাকগ্রাউন্ড প্রয়োগ করা Premium সুবিধা। অ্যান্ড্রয়েডেও এই ডেটা একইভাবে শুধু আপনার ডিভাইসে থাকে।"
           ],
           [
             "MP4 বা GIF কীভাবে এক্সপোর্ট করব?",
@@ -5538,7 +5538,7 @@
           ],
           [
             "Premium কীভাবে পুনরুদ্ধার করব?",
-            "Premium স্ক্রিনে মূল কেনাকাটায় ব্যবহৃত Apple ID দিয়ে ‘কেনাকাটা পুনরুদ্ধার’ বেছে নিন। StoreKit, Apple-এর রেকর্ড যাচাই করে যোগ্য কেনাকাটা নতুন করে চার্জ ছাড়াই ফিরিয়ে দেয়।"
+            "Premium স্ক্রিনে মূল কেনাকাটায় ব্যবহৃত Apple ID দিয়ে ‘কেনাকাটা পুনরুদ্ধার’ বেছে নিন। StoreKit, Apple-এর রেকর্ড যাচাই করে যোগ্য কেনাকাটা নতুন করে চার্জ ছাড়াই ফিরিয়ে দেয়। অ্যান্ড্রয়েডে, এই ক্রয়টি App Store-এর পরিবর্তে Google Play দ্বারা প্রক্রিয়া করা হয়, এবং সেখানেও আমরা পেমেন্টের তথ্য গ্রহণ বা সংরক্ষণ করি না।"
           ]
         ],
         "contact_heading": "আরও সাহায্য দরকার?",
@@ -5564,15 +5564,15 @@
           ],
           [
             "শুধু নির্বাচিত ছবি",
-            "Apple-এর PhotosPicker দিয়ে LED Moving Text কেবল আপনার স্পষ্টভাবে বেছে নেওয়া আইটেম পড়তে পারে, পুরো ফটো লাইব্রেরি দেখে না।"
+            "Apple-এর PhotosPicker দিয়ে LED Moving Text কেবল আপনার স্পষ্টভাবে বেছে নেওয়া আইটেম পড়তে পারে, পুরো ফটো লাইব্রেরি দেখে না। অ্যান্ড্রয়েডেও এই ডেটা একইভাবে শুধু আপনার ডিভাইসে থাকে।"
           ],
           [
             "এক্সপোর্ট ও শেয়ার",
-            "MP4 এবং GIF ফাইল ডিভাইসে তৈরি হয়। iOS-এর সংরক্ষণ বা শেয়ার কন্ট্রোল দিয়ে আপনি গন্তব্য না বাছা পর্যন্ত App কিছুই শেয়ার করে না।"
+            "MP4 এবং GIF ফাইল ডিভাইসে তৈরি হয়। iOS-এর সংরক্ষণ বা শেয়ার কন্ট্রোল দিয়ে আপনি গন্তব্য না বাছা পর্যন্ত App কিছুই শেয়ার করে না। অ্যান্ড্রয়েডেও এই ডেটা একইভাবে শুধু আপনার ডিভাইসে থাকে।"
           ],
           [
             "কেনাকাটা",
-            "একবারের Premium কেনা ও পুনরুদ্ধার Apple, StoreKit-এর মাধ্যমে পরিচালনা করে। App শুধু অধিকার-অবস্থা পায়, আপনার পেমেন্ট তথ্য নয়।"
+            "একবারের Premium কেনা ও পুনরুদ্ধার Apple, StoreKit-এর মাধ্যমে পরিচালনা করে। App শুধু অধিকার-অবস্থা পায়, আপনার পেমেন্ট তথ্য নয়। অ্যান্ড্রয়েডে, এই ক্রয়টি App Store-এর পরিবর্তে Google Play দ্বারা প্রক্রিয়া করা হয়, এবং সেখানেও আমরা পেমেন্টের তথ্য গ্রহণ বা সংরক্ষণ করি না।"
           ],
           [
             "যে সেবা ব্যবহার করা হয় না",
@@ -5659,7 +5659,7 @@
           ],
           [
             "ફોટો બૅકગ્રાઉન્ડ કેવી રીતે વાપરવો?",
-            "Appleના PhotosPickerથી LED Moving Textને ફક્ત તમે પસંદ કરેલી વસ્તુ મળે છે. સ્ટાઇલ ટૂલમાં ફોટો પસંદ કરો; ફોટો બૅકગ્રાઉન્ડ લાગુ કરવું Premium સુવિધા છે."
+            "Appleના PhotosPickerથી LED Moving Textને ફક્ત તમે પસંદ કરેલી વસ્તુ મળે છે. સ્ટાઇલ ટૂલમાં ફોટો પસંદ કરો; ફોટો બૅકગ્રાઉન્ડ લાગુ કરવું Premium સુવિધા છે. Android પર પણ આ ડેટા એ જ રીતે ફક્ત તમારા ડિવાઇસ પર રહે છે."
           ],
           [
             "MP4 કે GIF કેવી રીતે નિકાસ કરવું?",
@@ -5671,7 +5671,7 @@
           ],
           [
             "Premium કેવી રીતે પુનઃસ્થાપિત કરવું?",
-            "Premium સ્ક્રીન પર મૂળ ખરીદીમાં વપરાયેલ Apple IDથી ‘ખરીદી પુનઃસ્થાપિત કરો’ પસંદ કરો. StoreKit, Appleનો રેકોર્ડ તપાસીને યોગ્ય ખરીદી ફરી ચાર્જ કર્યા વગર પુનઃસ્થાપિત કરે છે."
+            "Premium સ્ક્રીન પર મૂળ ખરીદીમાં વપરાયેલ Apple IDથી ‘ખરીદી પુનઃસ્થાપિત કરો’ પસંદ કરો. StoreKit, Appleનો રેકોર્ડ તપાસીને યોગ્ય ખરીદી ફરી ચાર્જ કર્યા વગર પુનઃસ્થાપિત કરે છે. Android પર, આ ખરીદી App Store ને બદલે Google Play દ્વારા પ્રક્રિયા કરવામાં આવે છે, અને ત્યાં પણ અમે ચુકવણીની વિગતો મેળવતા કે સંગ્રહતા નથી."
           ]
         ],
         "contact_heading": "વધુ મદદ જોઈએ છે?",
@@ -5697,15 +5697,15 @@
           ],
           [
             "ફક્ત પસંદ કરેલા ફોટા",
-            "Appleના PhotosPickerથી LED Moving Text ફક્ત તમે સ્પષ્ટ રીતે પસંદ કરેલી વસ્તુ વાંચી શકે છે અને આખી ફોટો લાઇબ્રેરી જોતી નથી."
+            "Appleના PhotosPickerથી LED Moving Text ફક્ત તમે સ્પષ્ટ રીતે પસંદ કરેલી વસ્તુ વાંચી શકે છે અને આખી ફોટો લાઇબ્રેરી જોતી નથી. Android પર પણ આ ડેટા એ જ રીતે ફક્ત તમારા ડિવાઇસ પર રહે છે."
           ],
           [
             "નિકાસ અને શેરિંગ",
-            "MP4 અને GIF ફાઇલ ઉપકરણ પર બને છે. iOSના સેવ કે શેર નિયંત્રણથી તમે સ્થળ પસંદ ન કરો ત્યાં સુધી App કંઈ શેર કરતી નથી."
+            "MP4 અને GIF ફાઇલ ઉપકરણ પર બને છે. iOSના સેવ કે શેર નિયંત્રણથી તમે સ્થળ પસંદ ન કરો ત્યાં સુધી App કંઈ શેર કરતી નથી. Android પર પણ આ ડેટા એ જ રીતે ફક્ત તમારા ડિવાઇસ પર રહે છે."
           ],
           [
             "ખરીદીઓ",
-            "Premiumની એક વખતની ખરીદી અને પુનઃસ્થાપન Apple, StoreKit મારફતે સંભાળે છે. Appને ફક્ત અધિકારની સ્થિતિ મળે છે, તમારી ચુકવણી માહિતી નહીં."
+            "Premiumની એક વખતની ખરીદી અને પુનઃસ્થાપન Apple, StoreKit મારફતે સંભાળે છે. Appને ફક્ત અધિકારની સ્થિતિ મળે છે, તમારી ચુકવણી માહિતી નહીં. Android પર, આ ખરીદી App Store ને બદલે Google Play દ્વારા પ્રક્રિયા કરવામાં આવે છે, અને ત્યાં પણ અમે ચુકવણીની વિગતો મેળવતા કે સંગ્રહતા નથી."
           ],
           [
             "ઉપયોગ ન થતી સેવાઓ",
@@ -5792,7 +5792,7 @@
           ],
           [
             "फोटो पार्श्वभूमी म्हणून कसा वापरायचा?",
-            "Appleच्या PhotosPickerमुळे LED Moving Textला फक्त तुम्ही निवडलेला घटक मिळतो. शैली साधनांमध्ये फोटो निवडा; फोटो पार्श्वभूमी लावणे Premium वैशिष्ट्य आहे."
+            "Appleच्या PhotosPickerमुळे LED Moving Textला फक्त तुम्ही निवडलेला घटक मिळतो. शैली साधनांमध्ये फोटो निवडा; फोटो पार्श्वभूमी लावणे Premium वैशिष्ट्य आहे. Android वरही हा डेटा त्याच प्रकारे फक्त तुमच्या डिव्हाइसवर राहतो."
           ],
           [
             "MP4 किंवा GIF कसे निर्यात करायचे?",
@@ -5804,7 +5804,7 @@
           ],
           [
             "Premium कसे पुनर्संचयित करायचे?",
-            "Premium स्क्रीनवर मूळ खरेदीत वापरलेल्या Apple IDने ‘खरेदी पुनर्संचयित करा’ निवडा. StoreKit, Appleची नोंद तपासून पात्र खरेदी पुन्हा शुल्क न आकारता बहाल करते."
+            "Premium स्क्रीनवर मूळ खरेदीत वापरलेल्या Apple IDने ‘खरेदी पुनर्संचयित करा’ निवडा. StoreKit, Appleची नोंद तपासून पात्र खरेदी पुन्हा शुल्क न आकारता बहाल करते. Android वर, ही खरेदी App Store ऐवजी Google Play द्वारे प्रक्रिया केली जाते, आणि तिथेही आम्ही पेमेंट माहिती स्वीकारत नाही किंवा साठवत नाही."
           ]
         ],
         "contact_heading": "अधिक मदत हवी आहे?",
@@ -5830,15 +5830,15 @@
           ],
           [
             "फक्त निवडलेले फोटो",
-            "Appleच्या PhotosPickerमुळे LED Moving Text फक्त तुम्ही स्पष्टपणे निवडलेला घटक वाचते आणि संपूर्ण फोटो लायब्ररी पाहत नाही."
+            "Appleच्या PhotosPickerमुळे LED Moving Text फक्त तुम्ही स्पष्टपणे निवडलेला घटक वाचते आणि संपूर्ण फोटो लायब्ररी पाहत नाही. Android वरही हा डेटा त्याच प्रकारे फक्त तुमच्या डिव्हाइसवर राहतो."
           ],
           [
             "निर्यात आणि शेअरिंग",
-            "MP4 आणि GIF फाइल डिव्हाइसवर तयार होतात. iOSच्या सेव्ह किंवा शेअर नियंत्रणातून तुम्ही ठिकाण निवडेपर्यंत App काहीही शेअर करत नाही."
+            "MP4 आणि GIF फाइल डिव्हाइसवर तयार होतात. iOSच्या सेव्ह किंवा शेअर नियंत्रणातून तुम्ही ठिकाण निवडेपर्यंत App काहीही शेअर करत नाही. Android वरही हा डेटा त्याच प्रकारे फक्त तुमच्या डिव्हाइसवर राहतो."
           ],
           [
             "खरेदी",
-            "Premiumची एकदाची खरेदी आणि पुनर्संचयित करणे Apple, StoreKitद्वारे हाताळते. Appला फक्त हक्काची स्थिती मिळते, तुमची पेमेंट माहिती नाही."
+            "Premiumची एकदाची खरेदी आणि पुनर्संचयित करणे Apple, StoreKitद्वारे हाताळते. Appला फक्त हक्काची स्थिती मिळते, तुमची पेमेंट माहिती नाही. Android वर, ही खरेदी App Store ऐवजी Google Play द्वारे प्रक्रिया केली जाते, आणि तिथेही आम्ही पेमेंट माहिती स्वीकारत नाही किंवा साठवत नाही."
           ],
           [
             "न वापरलेल्या सेवा",
@@ -5925,7 +5925,7 @@
           ],
           [
             "ਫ਼ੋਟੋ ਨੂੰ ਬੈਕਗ੍ਰਾਊਂਡ ਕਿਵੇਂ ਬਣਾਵਾਂ?",
-            "Apple ਦੇ PhotosPicker ਕਾਰਨ LED Moving Text ਨੂੰ ਸਿਰਫ਼ ਤੁਹਾਡੀ ਚੁਣੀ ਚੀਜ਼ ਮਿਲਦੀ ਹੈ। ਸਟਾਈਲ ਟੂਲ ਵਿੱਚ ਫ਼ੋਟੋ ਚੁਣੋ; ਫ਼ੋਟੋ ਬੈਕਗ੍ਰਾਊਂਡ ਲਗਾਉਣਾ Premium ਸੁਵਿਧਾ ਹੈ।"
+            "Apple ਦੇ PhotosPicker ਕਾਰਨ LED Moving Text ਨੂੰ ਸਿਰਫ਼ ਤੁਹਾਡੀ ਚੁਣੀ ਚੀਜ਼ ਮਿਲਦੀ ਹੈ। ਸਟਾਈਲ ਟੂਲ ਵਿੱਚ ਫ਼ੋਟੋ ਚੁਣੋ; ਫ਼ੋਟੋ ਬੈਕਗ੍ਰਾਊਂਡ ਲਗਾਉਣਾ Premium ਸੁਵਿਧਾ ਹੈ। Android ਉੱਤੇ ਵੀ ਇਹ ਡਾਟਾ ਇਸੇ ਤਰ੍ਹਾਂ ਸਿਰਫ਼ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਉੱਤੇ ਰਹਿੰਦਾ ਹੈ।"
           ],
           [
             "MP4 ਜਾਂ GIF ਕਿਵੇਂ ਐਕਸਪੋਰਟ ਕਰਾਂ?",
@@ -5937,7 +5937,7 @@
           ],
           [
             "Premium ਕਿਵੇਂ ਮੁੜ ਪ੍ਰਾਪਤ ਕਰਾਂ?",
-            "Premium ਸਕ੍ਰੀਨ ਉੱਤੇ ਮੂਲ ਖਰੀਦ ਵਾਲੇ Apple ID ਨਾਲ ‘ਖਰੀਦ ਮੁੜ ਪ੍ਰਾਪਤ ਕਰੋ’ ਚੁਣੋ। StoreKit, Apple ਦਾ ਰਿਕਾਰਡ ਜਾਂਚ ਕੇ ਯੋਗ ਖਰੀਦ ਨੂੰ ਬਿਨਾਂ ਦੁਬਾਰਾ ਚਾਰਜ ਦੇ ਵਾਪਸ ਲਿਆਉਂਦਾ ਹੈ।"
+            "Premium ਸਕ੍ਰੀਨ ਉੱਤੇ ਮੂਲ ਖਰੀਦ ਵਾਲੇ Apple ID ਨਾਲ ‘ਖਰੀਦ ਮੁੜ ਪ੍ਰਾਪਤ ਕਰੋ’ ਚੁਣੋ। StoreKit, Apple ਦਾ ਰਿਕਾਰਡ ਜਾਂਚ ਕੇ ਯੋਗ ਖਰੀਦ ਨੂੰ ਬਿਨਾਂ ਦੁਬਾਰਾ ਚਾਰਜ ਦੇ ਵਾਪਸ ਲਿਆਉਂਦਾ ਹੈ। Android ਉੱਤੇ, ਇਹ ਖਰੀਦ App Store ਦੀ ਬਜਾਏ Google Play ਰਾਹੀਂ ਪ੍ਰੋਸੈੱਸ ਕੀਤੀ ਜਾਂਦੀ ਹੈ, ਅਤੇ ਉੱਥੇ ਵੀ ਅਸੀਂ ਭੁਗਤਾਨ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਜਾਂ ਸਟੋਰ ਨਹੀਂ ਕਰਦੇ।"
           ]
         ],
         "contact_heading": "ਹੋਰ ਮਦਦ ਚਾਹੀਦੀ ਹੈ?",
@@ -5963,15 +5963,15 @@
           ],
           [
             "ਸਿਰਫ਼ ਚੁਣੀਆਂ ਫ਼ੋਟੋਆਂ",
-            "Apple ਦੇ PhotosPicker ਨਾਲ LED Moving Text ਸਿਰਫ਼ ਤੁਹਾਡੇ ਵੱਲੋਂ ਸਪਸ਼ਟ ਚੁਣੀ ਚੀਜ਼ ਪੜ੍ਹ ਸਕਦਾ ਹੈ ਅਤੇ ਪੂਰੀ ਫ਼ੋਟੋ ਲਾਇਬ੍ਰੇਰੀ ਨਹੀਂ ਵੇਖਦਾ।"
+            "Apple ਦੇ PhotosPicker ਨਾਲ LED Moving Text ਸਿਰਫ਼ ਤੁਹਾਡੇ ਵੱਲੋਂ ਸਪਸ਼ਟ ਚੁਣੀ ਚੀਜ਼ ਪੜ੍ਹ ਸਕਦਾ ਹੈ ਅਤੇ ਪੂਰੀ ਫ਼ੋਟੋ ਲਾਇਬ੍ਰੇਰੀ ਨਹੀਂ ਵੇਖਦਾ। Android ਉੱਤੇ ਵੀ ਇਹ ਡਾਟਾ ਇਸੇ ਤਰ੍ਹਾਂ ਸਿਰਫ਼ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਉੱਤੇ ਰਹਿੰਦਾ ਹੈ।"
           ],
           [
             "ਐਕਸਪੋਰਟ ਅਤੇ ਸਾਂਝਾ ਕਰਨਾ",
-            "MP4 ਅਤੇ GIF ਫ਼ਾਈਲਾਂ ਡਿਵਾਈਸ ਉੱਤੇ ਬਣਦੀਆਂ ਹਨ। ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ iOS ਦੇ ਸੰਭਾਲੋ ਜਾਂ ਸਾਂਝਾ ਕਰੋ ਕੰਟਰੋਲ ਰਾਹੀਂ ਟਿਕਾਣਾ ਨਹੀਂ ਚੁਣਦੇ, App ਕੁਝ ਸਾਂਝਾ ਨਹੀਂ ਕਰਦਾ।"
+            "MP4 ਅਤੇ GIF ਫ਼ਾਈਲਾਂ ਡਿਵਾਈਸ ਉੱਤੇ ਬਣਦੀਆਂ ਹਨ। ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ iOS ਦੇ ਸੰਭਾਲੋ ਜਾਂ ਸਾਂਝਾ ਕਰੋ ਕੰਟਰੋਲ ਰਾਹੀਂ ਟਿਕਾਣਾ ਨਹੀਂ ਚੁਣਦੇ, App ਕੁਝ ਸਾਂਝਾ ਨਹੀਂ ਕਰਦਾ। Android ਉੱਤੇ ਵੀ ਇਹ ਡਾਟਾ ਇਸੇ ਤਰ੍ਹਾਂ ਸਿਰਫ਼ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਉੱਤੇ ਰਹਿੰਦਾ ਹੈ।"
           ],
           [
             "ਖਰੀਦਾਂ",
-            "Premium ਦੀ ਇੱਕ ਵਾਰ ਖਰੀਦ ਅਤੇ ਮੁੜ ਪ੍ਰਾਪਤੀ Apple, StoreKit ਰਾਹੀਂ ਸੰਭਾਲਦਾ ਹੈ। App ਨੂੰ ਸਿਰਫ਼ ਹੱਕ ਦੀ ਸਥਿਤੀ ਮਿਲਦੀ ਹੈ, ਤੁਹਾਡੀ ਭੁਗਤਾਨ ਜਾਣਕਾਰੀ ਨਹੀਂ।"
+            "Premium ਦੀ ਇੱਕ ਵਾਰ ਖਰੀਦ ਅਤੇ ਮੁੜ ਪ੍ਰਾਪਤੀ Apple, StoreKit ਰਾਹੀਂ ਸੰਭਾਲਦਾ ਹੈ। App ਨੂੰ ਸਿਰਫ਼ ਹੱਕ ਦੀ ਸਥਿਤੀ ਮਿਲਦੀ ਹੈ, ਤੁਹਾਡੀ ਭੁਗਤਾਨ ਜਾਣਕਾਰੀ ਨਹੀਂ। Android ਉੱਤੇ, ਇਹ ਖਰੀਦ App Store ਦੀ ਬਜਾਏ Google Play ਰਾਹੀਂ ਪ੍ਰੋਸੈੱਸ ਕੀਤੀ ਜਾਂਦੀ ਹੈ, ਅਤੇ ਉੱਥੇ ਵੀ ਅਸੀਂ ਭੁਗਤਾਨ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਜਾਂ ਸਟੋਰ ਨਹੀਂ ਕਰਦੇ।"
           ],
           [
             "ਨਾ ਵਰਤੀਆਂ ਜਾਣ ਵਾਲੀਆਂ ਸੇਵਾਵਾਂ",
@@ -6058,7 +6058,7 @@
           ],
           [
             "ಫೋಟೋವನ್ನು ಹಿನ್ನೆಲೆಯಾಗಿ ಹೇಗೆ ಬಳಸುವುದು?",
-            "Appleನ PhotosPicker ಮೂಲಕ LED Moving Textಗೆ ನೀವು ಆಯ್ದ ಅಂಶ ಮಾತ್ರ ಸಿಗುತ್ತದೆ. ಶೈಲಿ ಸಾಧನಗಳಲ್ಲಿ ಫೋಟೋ ಆಯ್ಕೆಮಾಡಿ; ಫೋಟೋ ಹಿನ್ನೆಲೆ ಅನ್ವಯಿಸುವುದು Premium ವೈಶಿಷ್ಟ್ಯ."
+            "Appleನ PhotosPicker ಮೂಲಕ LED Moving Textಗೆ ನೀವು ಆಯ್ದ ಅಂಶ ಮಾತ್ರ ಸಿಗುತ್ತದೆ. ಶೈಲಿ ಸಾಧನಗಳಲ್ಲಿ ಫೋಟೋ ಆಯ್ಕೆಮಾಡಿ; ಫೋಟೋ ಹಿನ್ನೆಲೆ ಅನ್ವಯಿಸುವುದು Premium ವೈಶಿಷ್ಟ್ಯ. Android ನಲ್ಲಿಯೂ ಈ ಡೇಟಾ ಅದೇ ರೀತಿ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಮಾತ್ರ ಉಳಿಯುತ್ತದೆ."
           ],
           [
             "MP4 ಅಥವಾ GIF ಹೇಗೆ ರಫ್ತು ಮಾಡುವುದು?",
@@ -6070,7 +6070,7 @@
           ],
           [
             "Premium ಅನ್ನು ಹೇಗೆ ಮರುಸ್ಥಾಪಿಸುವುದು?",
-            "Premium ಪರದೆಯಲ್ಲಿ ಮೂಲ ಖರೀದಿಗೆ ಬಳಸಿದ Apple IDಯೊಂದಿಗೆ ‘ಖರೀದಿ ಮರುಸ್ಥಾಪಿಸಿ’ ಆಯ್ಕೆಮಾಡಿ. StoreKit, Apple ದಾಖಲೆಯನ್ನು ಪರಿಶೀಲಿಸಿ ಅರ್ಹ ಖರೀದಿಯನ್ನು ಮತ್ತೆ ಶುಲ್ಕವಿಲ್ಲದೆ ಮರುಸ್ಥಾಪಿಸುತ್ತದೆ."
+            "Premium ಪರದೆಯಲ್ಲಿ ಮೂಲ ಖರೀದಿಗೆ ಬಳಸಿದ Apple IDಯೊಂದಿಗೆ ‘ಖರೀದಿ ಮರುಸ್ಥಾಪಿಸಿ’ ಆಯ್ಕೆಮಾಡಿ. StoreKit, Apple ದಾಖಲೆಯನ್ನು ಪರಿಶೀಲಿಸಿ ಅರ್ಹ ಖರೀದಿಯನ್ನು ಮತ್ತೆ ಶುಲ್ಕವಿಲ್ಲದೆ ಮರುಸ್ಥಾಪಿಸುತ್ತದೆ. Android ನಲ್ಲಿ, ಈ ಖರೀದಿಯನ್ನು App Store ಬದಲಿಗೆ Google Play ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುತ್ತದೆ, ಮತ್ತು ಅಲ್ಲಿಯೂ ನಾವು ಪಾವತಿ ಮಾಹಿತಿಯನ್ನು ಸ್ವೀಕರಿಸುವುದಿಲ್ಲ ಅಥವಾ ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ."
           ]
         ],
         "contact_heading": "ಇನ್ನಷ್ಟು ಸಹಾಯ ಬೇಕೇ?",
@@ -6096,15 +6096,15 @@
           ],
           [
             "ಆಯ್ದ ಫೋಟೋಗಳು ಮಾತ್ರ",
-            "Appleನ PhotosPicker ಬಳಸಿ LED Moving Text ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ಆಯ್ದ ಅಂಶವನ್ನು ಮಾತ್ರ ಓದಬಲ್ಲದು ಮತ್ತು ಸಂಪೂರ್ಣ ಫೋಟೋ ಲೈಬ್ರರಿಯನ್ನು ವೀಕ್ಷಿಸುವುದಿಲ್ಲ."
+            "Appleನ PhotosPicker ಬಳಸಿ LED Moving Text ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ಆಯ್ದ ಅಂಶವನ್ನು ಮಾತ್ರ ಓದಬಲ್ಲದು ಮತ್ತು ಸಂಪೂರ್ಣ ಫೋಟೋ ಲೈಬ್ರರಿಯನ್ನು ವೀಕ್ಷಿಸುವುದಿಲ್ಲ. Android ನಲ್ಲಿಯೂ ಈ ಡೇಟಾ ಅದೇ ರೀತಿ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಮಾತ್ರ ಉಳಿಯುತ್ತದೆ."
           ],
           [
             "ರಫ್ತು ಮತ್ತು ಹಂಚಿಕೆ",
-            "MP4 ಮತ್ತು GIF ಫೈಲ್‌ಗಳು ಸಾಧನದಲ್ಲೇ ಸಿದ್ಧವಾಗುತ್ತವೆ. iOS ಉಳಿಸುವ ಅಥವಾ ಹಂಚುವ ನಿಯಂತ್ರಣದಿಂದ ನೀವು ಗಮ್ಯಸ್ಥಾನ ಆಯ್ಕೆಮಾಡುವವರೆಗೆ App ಏನನ್ನೂ ಹಂಚುವುದಿಲ್ಲ."
+            "MP4 ಮತ್ತು GIF ಫೈಲ್‌ಗಳು ಸಾಧನದಲ್ಲೇ ಸಿದ್ಧವಾಗುತ್ತವೆ. iOS ಉಳಿಸುವ ಅಥವಾ ಹಂಚುವ ನಿಯಂತ್ರಣದಿಂದ ನೀವು ಗಮ್ಯಸ್ಥಾನ ಆಯ್ಕೆಮಾಡುವವರೆಗೆ App ಏನನ್ನೂ ಹಂಚುವುದಿಲ್ಲ. Android ನಲ್ಲಿಯೂ ಈ ಡೇಟಾ ಅದೇ ರೀತಿ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಮಾತ್ರ ಉಳಿಯುತ್ತದೆ."
           ],
           [
             "ಖರೀದಿಗಳು",
-            "ಒಮ್ಮೆ ಮಾಡುವ Premium ಖರೀದಿ ಮತ್ತು ಮರುಸ್ಥಾಪನೆಯನ್ನು Apple, StoreKit ಮೂಲಕ ನಿರ್ವಹಿಸುತ್ತದೆ. Appಗೆ ಹಕ್ಕಿನ ಸ್ಥಿತಿ ಮಾತ್ರ ಸಿಗುತ್ತದೆ, ನಿಮ್ಮ ಪಾವತಿ ವಿವರಗಳಲ್ಲ."
+            "ಒಮ್ಮೆ ಮಾಡುವ Premium ಖರೀದಿ ಮತ್ತು ಮರುಸ್ಥಾಪನೆಯನ್ನು Apple, StoreKit ಮೂಲಕ ನಿರ್ವಹಿಸುತ್ತದೆ. Appಗೆ ಹಕ್ಕಿನ ಸ್ಥಿತಿ ಮಾತ್ರ ಸಿಗುತ್ತದೆ, ನಿಮ್ಮ ಪಾವತಿ ವಿವರಗಳಲ್ಲ. Android ನಲ್ಲಿ, ಈ ಖರೀದಿಯನ್ನು App Store ಬದಲಿಗೆ Google Play ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುತ್ತದೆ, ಮತ್ತು ಅಲ್ಲಿಯೂ ನಾವು ಪಾವತಿ ಮಾಹಿತಿಯನ್ನು ಸ್ವೀಕರಿಸುವುದಿಲ್ಲ ಅಥವಾ ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ."
           ],
           [
             "ಬಳಸದ ಸೇವೆಗಳು",
@@ -6191,7 +6191,7 @@
           ],
           [
             "ഫോട്ടോ പശ്ചാത്തലമായി എങ്ങനെ ഉപയോഗിക്കാം?",
-            "Apple-ന്റെ PhotosPicker വഴി LED Moving Text-ന് നിങ്ങൾ തിരഞ്ഞെടുത്ത ഇനം മാത്രം ലഭിക്കും. സ്റ്റൈൽ ടൂളുകളിൽ ഫോട്ടോ തിരഞ്ഞെടുക്കുക; ഫോട്ടോ പശ്ചാത്തലം പ്രയോഗിക്കുന്നത് Premium ഫീച്ചറാണ്."
+            "Apple-ന്റെ PhotosPicker വഴി LED Moving Text-ന് നിങ്ങൾ തിരഞ്ഞെടുത്ത ഇനം മാത്രം ലഭിക്കും. സ്റ്റൈൽ ടൂളുകളിൽ ഫോട്ടോ തിരഞ്ഞെടുക്കുക; ഫോട്ടോ പശ്ചാത്തലം പ്രയോഗിക്കുന്നത് Premium ഫീച്ചറാണ്. Android-ലും ഈ ഡാറ്റ അതേ രീതിയിൽ നിങ്ങളുടെ ഉപകരണത്തിൽ മാത്രം നിലനിൽക്കുന്നു."
           ],
           [
             "MP4 അല്ലെങ്കിൽ GIF എങ്ങനെ എക്സ്പോർട്ട് ചെയ്യാം?",
@@ -6203,7 +6203,7 @@
           ],
           [
             "Premium എങ്ങനെ പുനഃസ്ഥാപിക്കാം?",
-            "Premium സ്ക്രീനിൽ ആദ്യ വാങ്ങലിന് ഉപയോഗിച്ച Apple ID ഉപയോഗിച്ച് ‘വാങ്ങൽ പുനഃസ്ഥാപിക്കുക’ തിരഞ്ഞെടുക്കുക. StoreKit, Apple രേഖ പരിശോധിച്ച് അർഹമായ വാങ്ങൽ വീണ്ടും നിരക്ക് ഈടാക്കാതെ പുനഃസ്ഥാപിക്കും."
+            "Premium സ്ക്രീനിൽ ആദ്യ വാങ്ങലിന് ഉപയോഗിച്ച Apple ID ഉപയോഗിച്ച് ‘വാങ്ങൽ പുനഃസ്ഥാപിക്കുക’ തിരഞ്ഞെടുക്കുക. StoreKit, Apple രേഖ പരിശോധിച്ച് അർഹമായ വാങ്ങൽ വീണ്ടും നിരക്ക് ഈടാക്കാതെ പുനഃസ്ഥാപിക്കും. Android-ൽ, ഈ വാങ്ങൽ App Store-ന് പകരം Google Play ആണ് പ്രോസസ് ചെയ്യുന്നത്, അവിടെയും ഞങ്ങൾ പേയ്‌മെന്റ് വിവരങ്ങൾ സ്വീകരിക്കുകയോ സൂക്ഷിക്കുകയോ ചെയ്യുന്നില്ല."
           ]
         ],
         "contact_heading": "കൂടുതൽ സഹായം വേണോ?",
@@ -6229,15 +6229,15 @@
           ],
           [
             "തിരഞ്ഞെടുത്ത ഫോട്ടോകൾ മാത്രം",
-            "Apple-ന്റെ PhotosPicker ഉപയോഗിച്ച് LED Moving Text-ന് നിങ്ങൾ വ്യക്തമായി തിരഞ്ഞെടുത്ത ഇനം മാത്രം വായിക്കാനാകും; മുഴുവൻ ഫോട്ടോ ലൈബ്രറി പരിശോധിക്കില്ല."
+            "Apple-ന്റെ PhotosPicker ഉപയോഗിച്ച് LED Moving Text-ന് നിങ്ങൾ വ്യക്തമായി തിരഞ്ഞെടുത്ത ഇനം മാത്രം വായിക്കാനാകും; മുഴുവൻ ഫോട്ടോ ലൈബ്രറി പരിശോധിക്കില്ല. Android-ലും ഈ ഡാറ്റ അതേ രീതിയിൽ നിങ്ങളുടെ ഉപകരണത്തിൽ മാത്രം നിലനിൽക്കുന്നു."
           ],
           [
             "എക്സ്പോർട്ടും പങ്കിടലും",
-            "MP4, GIF ഫയലുകൾ ഉപകരണത്തിൽ സൃഷ്ടിക്കുന്നു. iOS സേവ് അല്ലെങ്കിൽ ഷെയർ നിയന്ത്രണങ്ങളിൽ നിങ്ങൾ ലക്ഷ്യസ്ഥാനം തിരഞ്ഞെടുക്കുന്നതുവരെ App ഒന്നും പങ്കിടില്ല."
+            "MP4, GIF ഫയലുകൾ ഉപകരണത്തിൽ സൃഷ്ടിക്കുന്നു. iOS സേവ് അല്ലെങ്കിൽ ഷെയർ നിയന്ത്രണങ്ങളിൽ നിങ്ങൾ ലക്ഷ്യസ്ഥാനം തിരഞ്ഞെടുക്കുന്നതുവരെ App ഒന്നും പങ്കിടില്ല. Android-ലും ഈ ഡാറ്റ അതേ രീതിയിൽ നിങ്ങളുടെ ഉപകരണത്തിൽ മാത്രം നിലനിൽക്കുന്നു."
           ],
           [
             "വാങ്ങലുകൾ",
-            "Premium ഒറ്റത്തവണ വാങ്ങലും പുനഃസ്ഥാപനവും StoreKit വഴി Apple കൈകാര്യം ചെയ്യുന്നു. App-ന് അവകാശ നില മാത്രം ലഭിക്കും, നിങ്ങളുടെ പണമടയ്ക്കൽ വിവരങ്ങൾ ലഭിക്കില്ല."
+            "Premium ഒറ്റത്തവണ വാങ്ങലും പുനഃസ്ഥാപനവും StoreKit വഴി Apple കൈകാര്യം ചെയ്യുന്നു. App-ന് അവകാശ നില മാത്രം ലഭിക്കും, നിങ്ങളുടെ പണമടയ്ക്കൽ വിവരങ്ങൾ ലഭിക്കില്ല. Android-ൽ, ഈ വാങ്ങൽ App Store-ന് പകരം Google Play ആണ് പ്രോസസ് ചെയ്യുന്നത്, അവിടെയും ഞങ്ങൾ പേയ്‌മെന്റ് വിവരങ്ങൾ സ്വീകരിക്കുകയോ സൂക്ഷിക്കുകയോ ചെയ്യുന്നില്ല."
           ],
           [
             "ഉപയോഗിക്കാത്ത സേവനങ്ങൾ",
@@ -6324,7 +6324,7 @@
           ],
           [
             "ଫଟୋକୁ ପୃଷ୍ଠଭୂମି କିପରି କରିବି?",
-            "Appleର PhotosPicker ଦ୍ୱାରା LED Moving Text କେବଳ ଆପଣ ବାଛିଥିବା ଆଇଟମ୍ ପାଏ। ଶୈଳୀ ଟୁଲ୍‌ରେ ଫଟୋ ବାଛନ୍ତୁ; ଫଟୋ ପୃଷ୍ଠଭୂମି ଲାଗୁ କରିବା Premium ସୁବିଧା।"
+            "Appleର PhotosPicker ଦ୍ୱାରା LED Moving Text କେବଳ ଆପଣ ବାଛିଥିବା ଆଇଟମ୍ ପାଏ। ଶୈଳୀ ଟୁଲ୍‌ରେ ଫଟୋ ବାଛନ୍ତୁ; ଫଟୋ ପୃଷ୍ଠଭୂମି ଲାଗୁ କରିବା Premium ସୁବିଧା। Android ରେ ମଧ୍ୟ ଏହି ତଥ୍ୟ ସମାନ ଭାବରେ କେବଳ ଆପଣଙ୍କ ଡିଭାଇସରେ ରହିଥାଏ।"
           ],
           [
             "MP4 କିମ୍ବା GIF କିପରି ରପ୍ତାନି କରିବି?",
@@ -6336,7 +6336,7 @@
           ],
           [
             "Premium କିପରି ପୁନଃସ୍ଥାପନ କରିବି?",
-            "Premium ସ୍କ୍ରିନ୍‌ରେ ମୂଳ କ୍ରୟର Apple ID ସହ ‘କ୍ରୟ ପୁନଃସ୍ଥାପନ’ ବାଛନ୍ତୁ। StoreKit, Apple ରେକର୍ଡ ଯାଞ୍ଚ କରି ଯୋଗ୍ୟ କ୍ରୟକୁ ପୁନର୍ବାର ଶୁଳ୍କ ବିନା ଫେରାଇଦିଏ।"
+            "Premium ସ୍କ୍ରିନ୍‌ରେ ମୂଳ କ୍ରୟର Apple ID ସହ ‘କ୍ରୟ ପୁନଃସ୍ଥାପନ’ ବାଛନ୍ତୁ। StoreKit, Apple ରେକର୍ଡ ଯାଞ୍ଚ କରି ଯୋଗ୍ୟ କ୍ରୟକୁ ପୁନର୍ବାର ଶୁଳ୍କ ବିନା ଫେରାଇଦିଏ। Android ରେ, ଏହି କ୍ରୟ App Store ପରିବର୍ତ୍ତେ Google Play ଦ୍ୱାରା ପ୍ରକ୍ରିୟାକରଣ ହୁଏ, ଏବଂ ସେଠାରେ ମଧ୍ୟ ଆମେ ଦେୟ ସୂଚନା ଗ୍ରହଣ କିମ୍ବା ସଂରକ୍ଷଣ କରୁ ନାହୁଁ।"
           ]
         ],
         "contact_heading": "ଅଧିକ ସହାୟତା ଦରକାର କି?",
@@ -6362,15 +6362,15 @@
           ],
           [
             "କେବଳ ବାଛିଥିବା ଫଟୋ",
-            "Appleର PhotosPicker ଦ୍ୱାରା LED Moving Text କେବଳ ଆପଣ ସ୍ପଷ୍ଟ ଭାବେ ବାଛିଥିବା ଆଇଟମ୍ ପଢ଼ିପାରେ ଏବଂ ସମ୍ପୂର୍ଣ୍ଣ ଫଟୋ ଲାଇବ୍ରେରୀ ଦେଖେ ନାହିଁ।"
+            "Appleର PhotosPicker ଦ୍ୱାରା LED Moving Text କେବଳ ଆପଣ ସ୍ପଷ୍ଟ ଭାବେ ବାଛିଥିବା ଆଇଟମ୍ ପଢ଼ିପାରେ ଏବଂ ସମ୍ପୂର୍ଣ୍ଣ ଫଟୋ ଲାଇବ୍ରେରୀ ଦେଖେ ନାହିଁ। Android ରେ ମଧ୍ୟ ଏହି ତଥ୍ୟ ସମାନ ଭାବରେ କେବଳ ଆପଣଙ୍କ ଡିଭାଇସରେ ରହିଥାଏ।"
           ],
           [
             "ରପ୍ତାନି ଓ ସେୟାର୍",
-            "MP4 ଓ GIF ଫାଇଲ୍ ଡିଭାଇସ୍‌ରେ ତିଆରି ହୁଏ। iOSର ସେଭ୍ କିମ୍ବା ସେୟାର୍ ନିୟନ୍ତ୍ରଣରେ ଆପଣ ଗନ୍ତବ୍ୟ ବାଛିବା ପର୍ଯ୍ୟନ୍ତ App କିଛି ସେୟାର୍ କରେ ନାହିଁ।"
+            "MP4 ଓ GIF ଫାଇଲ୍ ଡିଭାଇସ୍‌ରେ ତିଆରି ହୁଏ। iOSର ସେଭ୍ କିମ୍ବା ସେୟାର୍ ନିୟନ୍ତ୍ରଣରେ ଆପଣ ଗନ୍ତବ୍ୟ ବାଛିବା ପର୍ଯ୍ୟନ୍ତ App କିଛି ସେୟାର୍ କରେ ନାହିଁ। Android ରେ ମଧ୍ୟ ଏହି ତଥ୍ୟ ସମାନ ଭାବରେ କେବଳ ଆପଣଙ୍କ ଡିଭାଇସରେ ରହିଥାଏ।"
           ],
           [
             "କ୍ରୟ",
-            "Premiumର ଗୋଟିଏ ଥର କ୍ରୟ ଓ ପୁନଃସ୍ଥାପନ Apple, StoreKit ମାଧ୍ୟମରେ ପରିଚାଳନା କରେ। App କେବଳ ଅଧିକାର ସ୍ଥିତି ପାଏ, ଆପଣଙ୍କ ପେମେଣ୍ଟ ସୂଚନା ନୁହେଁ।"
+            "Premiumର ଗୋଟିଏ ଥର କ୍ରୟ ଓ ପୁନଃସ୍ଥାପନ Apple, StoreKit ମାଧ୍ୟମରେ ପରିଚାଳନା କରେ। App କେବଳ ଅଧିକାର ସ୍ଥିତି ପାଏ, ଆପଣଙ୍କ ପେମେଣ୍ଟ ସୂଚନା ନୁହେଁ। Android ରେ, ଏହି କ୍ରୟ App Store ପରିବର୍ତ୍ତେ Google Play ଦ୍ୱାରା ପ୍ରକ୍ରିୟାକରଣ ହୁଏ, ଏବଂ ସେଠାରେ ମଧ୍ୟ ଆମେ ଦେୟ ସୂଚନା ଗ୍ରହଣ କିମ୍ବା ସଂରକ୍ଷଣ କରୁ ନାହୁଁ।"
           ],
           [
             "ବ୍ୟବହାର ନ ହେଉଥିବା ସେବା",
@@ -6457,7 +6457,7 @@
           ],
           [
             "படத்தைப் பின்னணியாக எப்படிப் பயன்படுத்துவது?",
-            "Apple-ன் PhotosPicker மூலம் LED Moving Text நீங்கள் தேர்ந்தெடுத்த உருப்படியை மட்டுமே பெறுகிறது. பாணிக் கருவிகளில் படத்தைத் தேர்ந்தெடுக்கவும்; படப் பின்னணியைப் பயன்படுத்துவது Premium அம்சம்."
+            "Apple-ன் PhotosPicker மூலம் LED Moving Text நீங்கள் தேர்ந்தெடுத்த உருப்படியை மட்டுமே பெறுகிறது. பாணிக் கருவிகளில் படத்தைத் தேர்ந்தெடுக்கவும்; படப் பின்னணியைப் பயன்படுத்துவது Premium அம்சம். Android-இலும் இந்தத் தரவு அதே வகையில் உங்கள் சாதனத்தில் மட்டுமே இருக்கும்."
           ],
           [
             "MP4 அல்லது GIF எப்படி ஏற்றுமதி செய்வது?",
@@ -6469,7 +6469,7 @@
           ],
           [
             "Premiumவை எப்படி மீட்டெடுப்பது?",
-            "Premium திரையில் முதலில் வாங்கப் பயன்படுத்திய Apple ID மூலம் ‘வாங்கியதை மீட்டெடு’ என்பதைத் தேர்ந்தெடுக்கவும். StoreKit, Apple பதிவைச் சரிபார்த்து தகுதியான வாங்கலை மீண்டும் கட்டணமின்றி மீட்டெடுக்கிறது."
+            "Premium திரையில் முதலில் வாங்கப் பயன்படுத்திய Apple ID மூலம் ‘வாங்கியதை மீட்டெடு’ என்பதைத் தேர்ந்தெடுக்கவும். StoreKit, Apple பதிவைச் சரிபார்த்து தகுதியான வாங்கலை மீண்டும் கட்டணமின்றி மீட்டெடுக்கிறது. Android-இல், இந்த வாங்குதல் App Store-க்குப் பதிலாக Google Play மூலம் செயல்படுத்தப்படுகிறது, அங்கும் நாங்கள் கட்டண விவரங்களைப் பெறுவதோ சேமிப்பதோ இல்லை."
           ]
         ],
         "contact_heading": "மேலும் உதவி தேவையா?",
@@ -6495,15 +6495,15 @@
           ],
           [
             "தேர்ந்தெடுத்த படங்கள் மட்டும்",
-            "Apple-ன் PhotosPicker மூலம் LED Moving Text நீங்கள் வெளிப்படையாகத் தேர்ந்தெடுத்த உருப்படியை மட்டுமே படிக்க முடியும்; முழுப் பட நூலகத்தை உலாவாது."
+            "Apple-ன் PhotosPicker மூலம் LED Moving Text நீங்கள் வெளிப்படையாகத் தேர்ந்தெடுத்த உருப்படியை மட்டுமே படிக்க முடியும்; முழுப் பட நூலகத்தை உலாவாது. Android-இலும் இந்தத் தரவு அதே வகையில் உங்கள் சாதனத்தில் மட்டுமே இருக்கும்."
           ],
           [
             "ஏற்றுமதியும் பகிர்வும்",
-            "MP4 மற்றும் GIF கோப்புகள் சாதனத்தில் உருவாக்கப்படும். iOS சேமிப்பு அல்லது பகிர்வு கட்டுப்பாட்டில் நீங்கள் இடத்தைத் தேர்ந்தெடுக்கும் வரை App எதையும் பகிராது."
+            "MP4 மற்றும் GIF கோப்புகள் சாதனத்தில் உருவாக்கப்படும். iOS சேமிப்பு அல்லது பகிர்வு கட்டுப்பாட்டில் நீங்கள் இடத்தைத் தேர்ந்தெடுக்கும் வரை App எதையும் பகிராது. Android-இலும் இந்தத் தரவு அதே வகையில் உங்கள் சாதனத்தில் மட்டுமே இருக்கும்."
           ],
           [
             "வாங்கல்கள்",
-            "ஒருமுறை Premium வாங்குதலையும் மீட்டெடுப்பையும் StoreKit மூலம் Apple கையாளுகிறது. App-க்கு உரிமை நிலை மட்டுமே கிடைக்கும்; உங்கள் கட்டண விவரங்கள் கிடைக்காது."
+            "ஒருமுறை Premium வாங்குதலையும் மீட்டெடுப்பையும் StoreKit மூலம் Apple கையாளுகிறது. App-க்கு உரிமை நிலை மட்டுமே கிடைக்கும்; உங்கள் கட்டண விவரங்கள் கிடைக்காது. Android-இல், இந்த வாங்குதல் App Store-க்குப் பதிலாக Google Play மூலம் செயல்படுத்தப்படுகிறது, அங்கும் நாங்கள் கட்டண விவரங்களைப் பெறுவதோ சேமிப்பதோ இல்லை."
           ],
           [
             "பயன்படுத்தாத சேவைகள்",
@@ -6590,7 +6590,7 @@
           ],
           [
             "ఫోటోను నేపథ్యంగా ఎలా వాడాలి?",
-            "Apple PhotosPicker ద్వారా LED Moving Textకు మీరు ఎంచుకున్న అంశం మాత్రమే అందుతుంది. శైలి సాధనాల్లో ఫోటోను ఎంచుకోండి; ఫోటో నేపథ్యాన్ని వర్తింపజేయడం Premium ఫీచర్."
+            "Apple PhotosPicker ద్వారా LED Moving Textకు మీరు ఎంచుకున్న అంశం మాత్రమే అందుతుంది. శైలి సాధనాల్లో ఫోటోను ఎంచుకోండి; ఫోటో నేపథ్యాన్ని వర్తింపజేయడం Premium ఫీచర్. Android లో కూడా ఈ డేటా అదే విధంగా మీ పరికరంలో మాత్రమే ఉంటుంది."
           ],
           [
             "MP4 లేదా GIFను ఎలా ఎగుమతి చేయాలి?",
@@ -6602,7 +6602,7 @@
           ],
           [
             "Premiumను ఎలా పునరుద్ధరించాలి?",
-            "Premium స్క్రీన్‌లో మొదటి కొనుగోలుకు ఉపయోగించిన Apple IDతో ‘కొనుగోలును పునరుద్ధరించు’ ఎంచుకోండి. StoreKit, Apple రికార్డును తనిఖీ చేసి అర్హమైన కొనుగోలును మళ్లీ ఛార్జ్ చేయకుండా పునరుద్ధరిస్తుంది."
+            "Premium స్క్రీన్‌లో మొదటి కొనుగోలుకు ఉపయోగించిన Apple IDతో ‘కొనుగోలును పునరుద్ధరించు’ ఎంచుకోండి. StoreKit, Apple రికార్డును తనిఖీ చేసి అర్హమైన కొనుగోలును మళ్లీ ఛార్జ్ చేయకుండా పునరుద్ధరిస్తుంది. Android లో, ఈ కొనుగోలు App Store కు బదులుగా Google Play ద్వారా ప్రాసెస్ చేయబడుతుంది, అక్కడ కూడా మేము చెల్లింపు వివరాలను స్వీకరించము లేదా నిల్వ చేయము."
           ]
         ],
         "contact_heading": "మరింత సహాయం కావాలా?",
@@ -6628,15 +6628,15 @@
           ],
           [
             "ఎంచుకున్న ఫోటోలు మాత్రమే",
-            "Apple PhotosPicker ద్వారా LED Moving Text మీరు స్పష్టంగా ఎంచుకున్న అంశాన్ని మాత్రమే చదవగలదు మరియు మొత్తం ఫోటో లైబ్రరీని చూడదు."
+            "Apple PhotosPicker ద్వారా LED Moving Text మీరు స్పష్టంగా ఎంచుకున్న అంశాన్ని మాత్రమే చదవగలదు మరియు మొత్తం ఫోటో లైబ్రరీని చూడదు. Android లో కూడా ఈ డేటా అదే విధంగా మీ పరికరంలో మాత్రమే ఉంటుంది."
           ],
           [
             "ఎగుమతి మరియు పంచుకోవడం",
-            "MP4 మరియు GIF ఫైళ్లు పరికరంలోనే తయారవుతాయి. iOS సేవ్ లేదా షేర్ నియంత్రణలో మీరు గమ్యాన్ని ఎంచుకునే వరకు App ఏదీ పంచుకోదు."
+            "MP4 మరియు GIF ఫైళ్లు పరికరంలోనే తయారవుతాయి. iOS సేవ్ లేదా షేర్ నియంత్రణలో మీరు గమ్యాన్ని ఎంచుకునే వరకు App ఏదీ పంచుకోదు. Android లో కూడా ఈ డేటా అదే విధంగా మీ పరికరంలో మాత్రమే ఉంటుంది."
           ],
           [
             "కొనుగోళ్లు",
-            "ఒకసారి చేసే Premium కొనుగోలు మరియు పునరుద్ధరణను Apple, StoreKit ద్వారా నిర్వహిస్తుంది. Appకు హక్కు స్థితి మాత్రమే అందుతుంది, మీ చెల్లింపు వివరాలు కాదు."
+            "ఒకసారి చేసే Premium కొనుగోలు మరియు పునరుద్ధరణను Apple, StoreKit ద్వారా నిర్వహిస్తుంది. Appకు హక్కు స్థితి మాత్రమే అందుతుంది, మీ చెల్లింపు వివరాలు కాదు. Android లో, ఈ కొనుగోలు App Store కు బదులుగా Google Play ద్వారా ప్రాసెస్ చేయబడుతుంది, అక్కడ కూడా మేము చెల్లింపు వివరాలను స్వీకరించము లేదా నిల్వ చేయము."
           ],
           [
             "ఉపయోగించని సేవలు",

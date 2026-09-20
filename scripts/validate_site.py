@@ -58,9 +58,12 @@ TRACKING_PATTERN = re.compile(
 BANNED_CLAIMS = re.compile(
     r"\b(?:millions? of downloads?|five[- ]star|5[- ]star|award[- ]winning|"
     r"number one|no\.?\s*1|best (?:app|led)|guaranteed results?|"
-    r"android|windows app|macos app|coming soon)\b",
+    r"windows app|macos app|coming soon)\b",
     re.IGNORECASE,
 )
+# 2026-09-19 起 LED Moving Text 已真的推出 Android 原生版(見 ~/AndroidPlay/native/
+# 51_LEDMovingText),因此把「android」從假平台宣稱黑名單移除——這個規則原本是防止
+# 誤宣稱「支援 Windows/macOS」等不存在的平台,現在 Android 是真實存在的平台,不該再擋。
 LEGACY_TIER = re.compile(r"(?<![\w])Pro(?![\w])", re.UNICODE)
 VOID_TAGS = {
     "area",
