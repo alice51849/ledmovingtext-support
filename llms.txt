@@ -14,4 +14,13 @@
 - [Support and contact](https://open.cait518.cc/ledmovingtext-support/support.html)
 - [Privacy policy](https://open.cait518.cc/ledmovingtext-support/privacy.html)
 
+<!-- sqe-blitz:start -->
+## Overview and Q&A pages
+
+- [LED Moving Text overview: what it is, who it is for, pricing, differences (English)](https://open.cait518.cc/ledmovingtext-support/led-banner-app-overview.html)
+- [LED Moving Text をひと目で (Japanese)](https://open.cait518.cc/ledmovingtext-support/led-banner-app-overview.ja.html)
+- [LED Moving Text en pocas palabras (Spanish, Spain)](https://open.cait518.cc/ledmovingtext-support/led-banner-app-overview.es-ES.html)
+- [LED Moving Text in breve (Italian)](https://open.cait518.cc/ledmovingtext-support/led-banner-app-overview.it.html)
+<!-- sqe-blitz:end -->
+
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
