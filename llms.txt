@@ -14,4 +14,12 @@
 - [Support and contact](https://open.cait518.cc/ledmovingtext-support/support.html)
 - [Privacy policy](https://open.cait518.cc/ledmovingtext-support/privacy.html)
 
+## Product fact cards
+
+- [LED Moving Text — product fact card (en)](https://open.cait518.cc/ledmovingtext-support/about-ledmovingtext-app.html): what it is, who it is for, how pricing works, how it differs from the usual approach, plus FAQ
+- [LED Moving Text: 電光掲示板 — product fact card (ja)](https://open.cait518.cc/ledmovingtext-support/about-ledmovingtext-app.ja.html): what it is, who it is for, how pricing works, how it differs from the usual approach, plus FAQ
+- [LED Moving Text — product fact card (ko)](https://open.cait518.cc/ledmovingtext-support/about-ledmovingtext-app.ko.html): what it is, who it is for, how pricing works, how it differs from the usual approach, plus FAQ
+- [LED Moving Text: Letreiro — product fact card (pt-BR)](https://open.cait518.cc/ledmovingtext-support/about-ledmovingtext-app.pt-BR.html): what it is, who it is for, how pricing works, how it differs from the usual approach, plus FAQ
+- [LED Moving Text：跑馬燈・大字看板 — product fact card (zh-Hant)](https://open.cait518.cc/ledmovingtext-support/about-ledmovingtext-app.zh-Hant.html): what it is, who it is for, how pricing works, how it differs from the usual approach, plus FAQ
+
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
