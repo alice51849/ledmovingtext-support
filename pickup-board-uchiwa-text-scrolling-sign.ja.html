@@ -55,6 +55,9 @@ a{color:var(--accent)}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="robots" content="max-image-preview:large">
 <!-- ls-sharecard:end -->
+<!-- ls-clickbeacon:start -->
+<script>(function(){var E='https://office.cait518.cc/api/click';function h(e){try{var t=e.target,l=t&&t.closest&&t.closest('a[href]');if(!l||!navigator.sendBeacon)return;var u=new URL(l.href,location.href),s,k,c,q=u.searchParams;if(u.hostname==='apps.apple.com'){s='apple';k=(u.pathname.match(/\/id(\d+)/)||[])[1]||'';c=q.get('ct')||''}else if(u.hostname==='play.google.com'){s='play';var r=new URLSearchParams(q.get('referrer')||'');k=r.get('utm_campaign')||q.get('id')||'';c=r.get('utm_source')||''}else return;navigator.sendBeacon(E,JSON.stringify({p:location.pathname.slice(0,200),a:k.slice(0,100),ct:c.slice(0,64),s:s}))}catch(_){}}document.addEventListener('click',h,true);document.addEventListener('auxclick',h,true)})();</script>
+<!-- ls-clickbeacon:end -->
 </head>
 <body>
 <p class="first-party-disclosure" data-first-party-disclosure="banner" role="note" style="margin:0;padding:8px 16px;background:#f3f4f6;color:#1f2937;border-bottom:1px solid #d1d5db;font-size:13px;line-height:1.5;text-align:center">当サイトは掲載アプリの開発者であるLumi Studioが運営し、自社アプリを紹介しています。</p>
@@ -69,7 +72,7 @@ a{color:var(--accent)}
 <h2 id="choose">場面ごとの設定の目安</h2>
 <div class="tbl"><table><tr><th>場面</th><th>動き</th><th>コツ</th></tr><tr><td>空港・駅のお迎えボード</td><td>静止・縦向き大文字</td><td>相手が探す名前だけを最大サイズで</td></tr><tr><td>ライブ（うちわ文字の代わり）</td><td>ゆっくりスクロール</td><td>二〜五文字程度、遅めの速度がカメラにも映りやすい</td></tr><tr><td>店先・路肩での受け取りやお迎え</td><td>静止かゆっくり</td><td>名前と出口番号など短い情報</td></tr><tr><td>車の窓ガラスに見せる</td><td>鏡文字</td><td>外から正しい向きで読めます</td></tr><tr><td>複数の案内を順番に</td><td>キューフロー</td><td>一行に一文、手動で送るか 2〜20 秒のタイマー</td></tr></table></div>
 <h2 id="wording">そのまま使える文例</h2>
-<p><strong>お迎えボード：</strong>「おかえり ゆいちゃん」「田中様」「〇〇ツアーご一行様」「北口 こちら」。相手が探す呼び名だけにすると、遠くからでも早く見つけてもらえます。</p><p><strong>うちわ文字の代わり：</strong>「手振って」「ピースして」「初参戦」「大阪から来たよ」。短い言葉を大きく出すほうが、ステージから読みやすくなります。</p><p><strong>話しづらい場面：</strong>App Store のページにあるとおり、ゆっくり話してほしい、静かな席に替えてほしいとお願いするときや、撮影や配信の合間に手元のカンペとしても使えます。</p>
+<p><strong>お迎えボード：</strong>「おかえり ゆいちゃん」「田中様」「〇〇ツアーご一行様」「北口 こちら」。相手が探す呼び名だけにすると、遠くからでも早く見つけてもらえます。</p><p><strong>うちわ文字の代わり：</strong>「手振って」「ピースして」「初参戦」「大阪から来たよ」。短い言葉を大きく出すほうが、ステージから読みやすくなります。</p><p>ドームなど広い会場で遠くの席から読める応援メッセージの作り方は「<a href="concert-ouen-message-denkou-keijiban.ja.html">ライブ 応援 ボード 文字の作り方（遠くの席から読める大きさ・速さ・色）</a>」にまとめています。</p><p><strong>話しづらい場面：</strong>App Store のページにあるとおり、ゆっくり話してほしい、静かな席に替えてほしいとお願いするときや、撮影や配信の合間に手元のカンペとしても使えます。</p>
 <h2 id="cueflow">キューフローで案内を順番に出す</h2>
 <p>一枚では足りない場面もあります。キューフローなら一行に一つずつメッセージを並べ、その場で前後に送るか、2〜20 秒のタイマーで自動的に切り替えられ、繰り返しも設定できます。イベントスタッフの誘導、スピーチ、行列の案内でも全画面のまま順番に表示できます。</p>
 <h2 id="free">購入なしで使える機能と、買い切りで加わるもの</h2>
